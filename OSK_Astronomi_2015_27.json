@@ -1,0 +1,67 @@
+{
+    "id": 27,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "Aurora does not occur everyday."
+        },
+        {
+            "text": "<center>because</center>"
+        },
+        {
+            "text": "This phenomenon is caused by bombardment of energetic particles from the active Sun."
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "3",
+    "explanation": [
+        {
+            "text": "Aurora terjadi setiap hari, terjadi karena partikel-partikel bermuatan dari angin Matahari yang dibelokkan oleh medan magnet Bumi sebagian sampai ke atmosfer melalui kutub-kutub magnetnya, semakin jelas ketika aktivitas Matahari meningkat. Terlihat atau tidaknya tergantung banyak faktor, antara lain: lintang pengamat (hanya daerah dekat kutub yang bisa melihat), cerah tidaknya langit, siang malam, musim, polusi cahaya, dan tentunya aktivitas Matahari."
+        }
+    ],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.232263",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

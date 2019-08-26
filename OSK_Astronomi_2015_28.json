@@ -1,0 +1,67 @@
+{
+    "id": 28,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center."
+        },
+        {
+            "text": "<center>because</center>"
+        },
+        {
+            "text": "Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars."
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "1",
+    "explanation": [
+        {
+            "text": "Arah pusat terlihat gelap karena banyak debu yang mengisi ruang antar bintang."
+        }
+    ],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.232808",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

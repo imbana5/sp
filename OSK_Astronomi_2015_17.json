@@ -1,0 +1,61 @@
+{
+    "id": 17,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "Planet Venus merupakan planet anggota Tata Surya dengan temperatur global paling tinggi, $T\\simeq 700$ K, penyebabnya adalah ..."
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "tingginya energi kinetik partikel bermuatan yang dibawa angin Matahari."
+        },
+        {
+            "value": "1",
+            "label": "pengerutan gravitasi Venus menghasilkan energi termal yang lebih tinggi."
+        },
+        {
+            "value": "2",
+            "label": "Venus menerima radiasi matahari 90\\% lebih banyak dibandingkan Bumi."
+        },
+        {
+            "value": "3",
+            "label": "konsentrasi karbondioksida di atmosfer Venus amat tinggi, menjebak lebih banyak panas yang diterimanya dari Matahari."
+        },
+        {
+            "value": "4",
+            "label": "Venus memiliki albedo yang lebih tinggi dibandingkan planet-planet lain."
+        }
+    ],
+    "answer": "3",
+    "explanation": [
+        {
+            "text": "Efek rumah kaca (\\textit{runaway greenhouse effect}). Energi yang diterima Venus memang lebih besar namun jika hanya itu penyebabnya tidak akan mampu menaikkan suhu hingga 700 K."
+        }
+    ],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.226086",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

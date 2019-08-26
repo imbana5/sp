@@ -1,0 +1,67 @@
+{
+    "id": 26,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "Jika orbit Bumi berubah menjadi 7 satuan astronomi (sa), maka 1 <em>parsec</em> setara dengan $1,55 \\times 10^{14}$ km."
+        },
+        {
+            "text": "<center>sebab</center>"
+        },
+        {
+            "text": "Satu <em>parsec</em> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu menit busur."
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "4",
+    "explanation": [
+        {
+            "text": "Satu <em>parsec</em> = <em>parallax second</em> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu ``detik'' busur. Jarak satu <em>parsec</em> apabila orbit Bumi 7 sa menjadi $2,16 \\times 10^{14}$ km."
+        }
+    ],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.231733",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

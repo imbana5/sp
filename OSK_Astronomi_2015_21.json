@@ -1,0 +1,94 @@
+{
+    "id": 21,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "There is a terrestrial planet without atmosphere which the maximum surface temperature is mainly governed by three factors: (1) incoming radiation from its star, (2) albedo or reflectance of the planet, and (3) its rotation. Among the following statements, which one is correct?"
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "Planet's maximum temperature will be lower if the planet rapidly rotates around its axis."
+        },
+        {
+            "value": "1",
+            "label": "Planet's maximum temperature will be higher if the planet rapidly rotates around its axis."
+        },
+        {
+            "value": "2",
+            "label": "If the planet has high reflectivity, then the maximum temperature will be higher."
+        },
+        {
+            "value": "3",
+            "label": "If the planet has low albedo, then the maximum temperature will be lower."
+        },
+        {
+            "value": "4",
+            "label": "High stellar radiation melts the ice polar cap and chill the planet."
+        }
+    ],
+    "answer": "0",
+    "explanation": [
+        {
+            "text": "Rotasi yang cepat membuat suhu permukaan yang menghadap (siang) dan tidak menghadap bintang (malam) menjadi lebih merata."
+        },
+        {
+            "text": "Albedo atau reflektansi merupakan perbandingan energi yang dipantulkan dengan yang diterima, sehingga semakin besar nilainya maka semakin rendah temperatur maksimumnya dan sebaliknya."
+        },
+        {
+            "text": "<strong>Gunakan petunjuk ini untuk menjawab soal-soal berikut:}"
+        },
+        {
+            "text": "A. 1, 2, dan 3 benar"
+        },
+        {
+            "text": "B. 1 dan 3 benar"
+        },
+        {
+            "text": "C. 2 dan 4 benar"
+        },
+        {
+            "text": "D. hanya 4 benar"
+        },
+        {
+            "text": "E. semua salah"
+        },
+        {
+            "text": "%{%"
+        },
+        {
+            "text": "% changing choice items style locally"
+        },
+        {
+            "text": "%\\renewcommand*\\thechoice{\\arabic{choice}}"
+        },
+        {
+            "text": "%"
+        }
+    ],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.228567",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

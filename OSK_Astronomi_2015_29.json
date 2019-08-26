@@ -1,0 +1,73 @@
+{
+    "id": 29,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "In March 9th 2016, magnificent total solar eclipse will occur and can be observed in several region in Indonesia."
+        },
+        {
+            "text": "<center>because</center>"
+        },
+        {
+            "text": "The umbral shadow will be crossing South Sumatra, Kalimantan, and Halmahera island."
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "0",
+    "explanation": [
+        {
+            "text": "Tunggu saja... tanggal 9 Maret 2016! :)"
+        },
+        {
+            "text": "Sumber: cari info peristiwa astronomi."
+        },
+        {
+            "text": "\\href{http://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2016Mar09Tgoogle.html}{Link NASA}"
+        }
+    ],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.233332",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

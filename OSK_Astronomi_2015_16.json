@@ -1,0 +1,57 @@
+{
+    "id": 16,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "Planet Mars dalam kebudayaan Jawa seringkali disebut sebagai ``bintang'' <em>Jaka Belek</em> karena warnanya yang kemerahan. Mengapa planet Mars tampak kemerahan?"
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "Karena planet Mars memantulkan cahaya Matahari yang berwarna jingga kemerahan."
+        },
+        {
+            "value": "1",
+            "label": "Karena atmosfer Mars mengandung gas rumah kaca $\\text{CO}_2$ yang menyekat panas."
+        },
+        {
+            "value": "2",
+            "label": "Karena cahaya planet Mars diserap oleh atmosfer Bumi, maka terlihat kemerahan seperti Matahari saat senja."
+        },
+        {
+            "value": "3",
+            "label": "Karena planet Mars diselubungi <em>aerosol</em> yang menghamburkan cahaya biru."
+        },
+        {
+            "value": "4",
+            "label": "Karena permukaan Mars diselimuti oksida besi yang berwarna kemerahan."
+        }
+    ],
+    "answer": "4",
+    "explanation": [],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.225554",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

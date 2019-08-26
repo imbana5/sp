@@ -1,0 +1,61 @@
+{
+    "id": 2,
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": 2,
+    "categories": [],
+    "tags": [],
+    "question": [
+        {
+            "text": "Bila $x$ buah teleskop survei dioperasikan selama $x$ jam setiap hari selama $x$ hari, teleskop tersebut dapat menemukan $x$ kandidat planet ekstrasolar. Berapakah jumlah planet yang dideteksi (tidak harus bilangan bulat) oleh sebuah teleskop yang dioperasikan selama $y$ jam setiap hari selama $y$ hari?"
+        }
+    ],
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\frac{x^3}{y^2}$"
+        },
+        {
+            "value": "1",
+            "label": "$\\frac{y^2}{x^2}$"
+        },
+        {
+            "value": "2",
+            "label": "$\\frac{x^2}{y^2}$"
+        },
+        {
+            "value": "3",
+            "label": "$\\frac{y^3}{x^2}$"
+        },
+        {
+            "value": "4",
+            "label": "$y$"
+        }
+    ],
+    "answer": "1",
+    "explanation": [
+        {
+            "text": "Laju temuan: $\\frac{x}{xxx}=\\frac{1}{x^2}$ kandidat per teleskop per jam per hari. Untuk kasus pada soal, jumlah kandidat yang ditemukan: laju penemuan kali jumlah teleskop kali jam operasi kali hari operasi. Jumlah teleskop = 1, karena yang ditanyakan ``oleh sebuah teleskop''. Jumlah kandidat: $\\frac{1}{x^2}\\times 1\\times y\\times y=\\frac{y^2}{x^2}$."
+        }
+    ],
+    "notes": [],
+    "last_modified": "2019-08-26 09:54:34.213521",
+    "metadata": [
+        {
+            "lang": "id",
+            "question_author": "Kemdikbud",
+            "question_writer": "ridlo",
+            "answer_author": "ridlo",
+            "answer_writer": "ridlo"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}
