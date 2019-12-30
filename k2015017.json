@@ -1,5 +1,5 @@
 {
-    "id": 17,
+    "id": "k2015017",
     "type": "mc",
     "question_name": "",
     "display_name": "",
@@ -8,14 +8,12 @@
     "level": "Kabupaten/Kota",
     "year": 2015,
     "display_title": "OSK Astronomi 2015",
-    "difficulty": 2,
+    "difficulty": -1,
     "categories": [],
-    "tags": [],
-    "question": [
-        {
-            "text": "Planet Venus merupakan planet anggota Tata Surya dengan temperatur global paling tinggi, $T\\simeq 700$ K, penyebabnya adalah ..."
-        }
+    "tags": [
+        "k2015017"
     ],
+    "question": "<p>Planet Venus merupakan planet anggota Tata Surya dengan temperatur global paling tinggi, $T\\simeq 700$ K, penyebabnya adalah ...</p>",
     "choices": [
         {
             "value": "0",
@@ -27,7 +25,7 @@
         },
         {
             "value": "2",
-            "label": "Venus menerima radiasi matahari 90\\% lebih banyak dibandingkan Bumi."
+            "label": "Venus menerima radiasi matahari 90% lebih banyak dibandingkan Bumi."
         },
         {
             "value": "3",
@@ -39,20 +37,13 @@
         }
     ],
     "answer": "3",
-    "explanation": [
-        {
-            "text": "Efek rumah kaca (\\textit{runaway greenhouse effect}). Energi yang diterima Venus memang lebih besar namun jika hanya itu penyebabnya tidak akan mampu menaikkan suhu hingga 700 K."
-        }
-    ],
+    "explanation": "",
     "notes": [],
-    "last_modified": "2019-08-26 09:54:34.226086",
+    "last_modified": "2012-04-23T18:25:43.511Z",
     "metadata": [
         {
-            "lang": "id",
-            "question_author": "Kemdikbud",
-            "question_writer": "ridlo",
-            "answer_author": "ridlo",
-            "answer_writer": "ridlo"
+            "author": "Kemdikbud",
+            "lang": "id"
         }
     ],
     "links": {

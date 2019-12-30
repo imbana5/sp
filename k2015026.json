@@ -1,5 +1,5 @@
 {
-    "id": 28,
+    "id": "k2015026",
     "type": "mc",
     "question_name": "",
     "display_name": "",
@@ -8,20 +8,12 @@
     "level": "Kabupaten/Kota",
     "year": 2015,
     "display_title": "OSK Astronomi 2015",
-    "difficulty": 2,
+    "difficulty": -1,
     "categories": [],
-    "tags": [],
-    "question": [
-        {
-            "text": "We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center."
-        },
-        {
-            "text": "<center>because</center>"
-        },
-        {
-            "text": "Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars."
-        }
+    "tags": [
+        "k2015026"
     ],
+    "question": "<p>Jika orbit Bumi berubah menjadi 7 satuan astronomi (sa), maka 1 <em>parsec</em> setara dengan $1,55 \\times 10^{14}$ km.</p><p><center>sebab</center></p><p>Satu <em>parsec</em> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu menit busur.</p>",
     "choices": [
         {
             "value": "0",
@@ -44,21 +36,14 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "1",
-    "explanation": [
-        {
-            "text": "Arah pusat terlihat gelap karena banyak debu yang mengisi ruang antar bintang."
-        }
-    ],
+    "answer": "4",
+    "explanation": "",
     "notes": [],
-    "last_modified": "2019-08-26 09:54:34.232808",
+    "last_modified": "2012-04-23T18:25:43.511Z",
     "metadata": [
         {
-            "lang": "id",
-            "question_author": "Kemdikbud",
-            "question_writer": "ridlo",
-            "answer_author": "ridlo",
-            "answer_writer": "ridlo"
+            "author": "Kemdikbud",
+            "lang": "id"
         }
     ],
     "links": {

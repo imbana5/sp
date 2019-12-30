@@ -1,0 +1,52 @@
+{
+    "id": "k2015023",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015023"
+    ],
+    "question": "<p>Bila diketahui bahwa vektor $\\overrightarrow{A} = 2i + j - k$ dan vektor $\\overrightarrow{B} = i -2j + 2k$, maka pernyataan yang benar adalah</p>startlilililiend",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "1",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

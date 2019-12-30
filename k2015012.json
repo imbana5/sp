@@ -1,0 +1,52 @@
+{
+    "id": "k2015012",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015012"
+    ],
+    "question": "<p>Terang bintang dinyatakan dalam skala magnitudo ($m$) yang merupakan logaritma dari energinya yang diterima ($E$). Menurut Pogson, $m=-2,5\\log E+C$, dengan $C$ menyatakan suatu konstanta.</p><p>Misalkan terdapat dua bintang dengan energi masing-masing $10^2$ dan $10^4$ satuan, sementara bintang pertama memiliki magnitudo +3, berapakah magnitudo bintang kedua?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "+2 mag"
+        },
+        {
+            "value": "1",
+            "label": "+0 mag"
+        },
+        {
+            "value": "2",
+            "label": "-2 mag"
+        },
+        {
+            "value": "3",
+            "label": "-5 mag"
+        },
+        {
+            "value": "4",
+            "label": "-8 mag"
+        }
+    ],
+    "answer": "2",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

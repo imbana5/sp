@@ -1,0 +1,52 @@
+{
+    "id": "k2015013",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015013"
+    ],
+    "question": "<p>Tabel berikut merangkum jumlah bintang dalam rentang magnitudo tertentu yang teramati oleh sebuah teleskop:</p>\\[\\begin{array}{|c|c|}\\hline\\textbf{Magnitudo} & \\textbf{Jumlah} \\\\\\hline6,0-8,0 & 10 \\\\8,0-10,0 & 23 \\\\10,0-12,0 & 45 \\\\12,0-14,0 & 30 \\\\14,0-16,0 & 11 \\\\\\hline\\end{array}\\]<p>Berapakah nilai modus dari distribusi tersebut?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "10,0"
+        },
+        {
+            "value": "1",
+            "label": "10,2"
+        },
+        {
+            "value": "2",
+            "label": "11,0"
+        },
+        {
+            "value": "3",
+            "label": "11,2"
+        },
+        {
+            "value": "4",
+            "label": "12,0"
+        }
+    ],
+    "answer": "3",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

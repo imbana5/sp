@@ -1,0 +1,52 @@
+{
+    "id": "k2015005",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015005"
+    ],
+    "question": "<p>Dalam suatu sistem koordinat kartesian 2 dimensi, lingkaran Bumi dinyatakan dengan persamaan</p>\\begin{equation*}x(x-4)+y(y-4)=-4\\end{equation*}<p>Sebuah partikel neutrino dipancarkan dari titik (4,6) dan mencapai Bumi di titik (2,4). Bila partikel terus bergerak lurus, di titik manakah ia akan keluar menembus Bumi?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "(0,0)"
+        },
+        {
+            "value": "1",
+            "label": "(1,0)"
+        },
+        {
+            "value": "2",
+            "label": "(2,0)"
+        },
+        {
+            "value": "3",
+            "label": "(0,2)"
+        },
+        {
+            "value": "4",
+            "label": "(0,1)"
+        }
+    ],
+    "answer": "3",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

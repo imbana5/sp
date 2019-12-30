@@ -1,0 +1,52 @@
+{
+    "id": "k2015019",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015019"
+    ],
+    "question": "<p>Diketahui rapat jumlah debu antar bintang sebesar $\\rho$ sedangkan luas penampang tiap debu adalah $\\sigma$. Maka, jarak rata-rata yang ditempuh setiap debu sebelum bertumbukan dengan debu lain adalah ....</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\rho\\sigma$"
+        },
+        {
+            "value": "1",
+            "label": "$\\frac{\\rho}{\\sigma}$"
+        },
+        {
+            "value": "2",
+            "label": "$\\frac{1}{\\rho\\sigma}$"
+        },
+        {
+            "value": "3",
+            "label": "$\\log \\frac{\\rho}{\\sigma}$"
+        },
+        {
+            "value": "4",
+            "label": "$\\left(\\frac{\\sigma}{\\rho}\\right)^{1/4}$"
+        }
+    ],
+    "answer": "2",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

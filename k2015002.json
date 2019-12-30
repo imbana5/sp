@@ -1,0 +1,52 @@
+{
+    "id": "k2015002",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015002"
+    ],
+    "question": "<p>Bila $x$ buah teleskop survei dioperasikan selama $x$ jam setiap hari selama $x$ hari, teleskop tersebut dapat menemukan $x$ kandidat planet ekstrasolar. Berapakah jumlah planet yang dideteksi (tidak harus bilangan bulat) oleh sebuah teleskop yang dioperasikan selama $y$ jam setiap hari selama $y$ hari?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\frac{x^3}{y^2}$"
+        },
+        {
+            "value": "1",
+            "label": "$\\frac{y^2}{x^2}$"
+        },
+        {
+            "value": "2",
+            "label": "$\\frac{x^2}{y^2}$"
+        },
+        {
+            "value": "3",
+            "label": "$\\frac{y^3}{x^2}$"
+        },
+        {
+            "value": "4",
+            "label": "$y$"
+        }
+    ],
+    "answer": "1",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

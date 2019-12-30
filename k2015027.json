@@ -1,5 +1,5 @@
 {
-    "id": 25,
+    "id": "k2015027",
     "type": "mc",
     "question_name": "",
     "display_name": "",
@@ -8,20 +8,12 @@
     "level": "Kabupaten/Kota",
     "year": 2015,
     "display_title": "OSK Astronomi 2015",
-    "difficulty": 2,
+    "difficulty": -1,
     "categories": [],
-    "tags": [],
-    "question": [
-        {
-            "text": "Bumi mengalami gerak presesi seperti gasing yang berputar miring. Gerak tersebut mengubah anggota rasi bintang zodiak yang dilalui Matahari setiap tahunnya."
-        },
-        {
-            "text": "<center>sebab</center>"
-        },
-        {
-            "text": "Titik <em>vernal equinox}, yang menandai perpotongan garis ekuator langit dan ekliptika, bergeser ke arah Timur sedikit demi sedikit."
-        }
+    "tags": [
+        "k2015027"
     ],
+    "question": "<p>Aurora does not occur everyday.</p><p><center>because</center></p><p>This phenomenon is caused by bombardment of energetic particles from the active Sun.</p>",
     "choices": [
         {
             "value": "0",
@@ -44,21 +36,14 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "4",
-    "explanation": [
-        {
-            "text": "Presesi mengubah arah sumbu rotasi Bumi, namun tidak mengubah bidang ekliptika, sehingga anggota zodiak akan tetap sama. Titik <em>vernal equinox</em> di langit bergeser ke arah Barat."
-        }
-    ],
+    "answer": "3",
+    "explanation": "",
     "notes": [],
-    "last_modified": "2019-08-26 09:54:34.231088",
+    "last_modified": "2012-04-23T18:25:43.511Z",
     "metadata": [
         {
-            "lang": "id",
-            "question_author": "Kemdikbud",
-            "question_writer": "ridlo",
-            "answer_author": "ridlo",
-            "answer_writer": "ridlo"
+            "author": "Kemdikbud",
+            "lang": "id"
         }
     ],
     "links": {

@@ -1,0 +1,52 @@
+{
+    "id": "k2015018",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015018"
+    ],
+    "question": "<p>Seorang astronom dari planet San Fierro sedang mengukur diameter sudut dari satelit yang bernama Lupin. Astronom tersebut hanya mengandalkan jengkal tangannya untuk melakukan pengukuran. Diketahui bahwa diameter Lupin adalah 6000 km sedangkan jaraknya dari permukaan San Fierro adalah 15000 km. Berapakah diameter sudut Lupin yang terukur dengan asumsi bahwa satu jengkal tangan setara dengan bentangan sudut $20^{\\circ}$?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Sekitar 1 jengkal"
+        },
+        {
+            "value": "1",
+            "label": "Sekitar 1/2 jengkal"
+        },
+        {
+            "value": "2",
+            "label": "Sekitar 1/4 jengkal"
+        },
+        {
+            "value": "3",
+            "label": "Tepat 2 jengkal"
+        },
+        {
+            "value": "4",
+            "label": "Tepat 3/2 jengkal"
+        }
+    ],
+    "answer": "0",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

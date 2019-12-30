@@ -1,0 +1,52 @@
+{
+    "id": "k2015004",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015004"
+    ],
+    "question": "<p>Sebuah planet memiliki massa $M$, volume $V$, serta kerapatan rata-rata $\\rho$. Planet hanya terdiri atas inti batuan dengan kerapatan $\\frac{3}{2}\\rho$ serta mantel es dengan kerapatan $\\frac{1}{2}\\rho$. Berapakah rasio massa es terhadap massa total planet?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "25,0%"
+        },
+        {
+            "value": "1",
+            "label": "50,0%"
+        },
+        {
+            "value": "2",
+            "label": "66,7%"
+        },
+        {
+            "value": "3",
+            "label": "75,0%"
+        },
+        {
+            "value": "4",
+            "label": "87,5%"
+        }
+    ],
+    "answer": "0",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

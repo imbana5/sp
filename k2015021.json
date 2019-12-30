@@ -1,0 +1,52 @@
+{
+    "id": "k2015021",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015021"
+    ],
+    "question": "<p>There is a terrestrial planet without atmosphere which the maximum surface temperature is mainly governed by three factors: (1) incoming radiation from its star, (2) albedo or reflectance of the planet, and (3) its rotation. Among the following statements, which one is correct?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Planet's maximum temperature will be lower if the planet rapidly rotates around its axis."
+        },
+        {
+            "value": "1",
+            "label": "Planet's maximum temperature will be higher if the planet rapidly rotates around its axis."
+        },
+        {
+            "value": "2",
+            "label": "If the planet has high reflectivity, then the maximum temperature will be higher."
+        },
+        {
+            "value": "3",
+            "label": "If the planet has low albedo, then the maximum temperature will be lower."
+        },
+        {
+            "value": "4",
+            "label": "High stellar radiation melts the ice polar cap and chill the planet."
+        }
+    ],
+    "answer": "0",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

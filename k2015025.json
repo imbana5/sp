@@ -1,5 +1,5 @@
 {
-    "id": 26,
+    "id": "k2015025",
     "type": "mc",
     "question_name": "",
     "display_name": "",
@@ -8,20 +8,12 @@
     "level": "Kabupaten/Kota",
     "year": 2015,
     "display_title": "OSK Astronomi 2015",
-    "difficulty": 2,
+    "difficulty": -1,
     "categories": [],
-    "tags": [],
-    "question": [
-        {
-            "text": "Jika orbit Bumi berubah menjadi 7 satuan astronomi (sa), maka 1 <em>parsec</em> setara dengan $1,55 \\times 10^{14}$ km."
-        },
-        {
-            "text": "<center>sebab</center>"
-        },
-        {
-            "text": "Satu <em>parsec</em> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu menit busur."
-        }
+    "tags": [
+        "k2015025"
     ],
+    "question": "<p>Bumi mengalami gerak presesi seperti gasing yang berputar miring. Gerak tersebut mengubah anggota rasi bintang zodiak yang dilalui Matahari setiap tahunnya.</p><p><center>sebab</center></p><p>Titik <em>vernal equinox}, yang menandai perpotongan garis ekuator langit dan ekliptika, bergeser ke arah Timur sedikit demi sedikit.</p>",
     "choices": [
         {
             "value": "0",
@@ -45,20 +37,13 @@
         }
     ],
     "answer": "4",
-    "explanation": [
-        {
-            "text": "Satu <em>parsec</em> = <em>parallax second</em> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu ``detik'' busur. Jarak satu <em>parsec</em> apabila orbit Bumi 7 sa menjadi $2,16 \\times 10^{14}$ km."
-        }
-    ],
+    "explanation": "",
     "notes": [],
-    "last_modified": "2019-08-26 09:54:34.231733",
+    "last_modified": "2012-04-23T18:25:43.511Z",
     "metadata": [
         {
-            "lang": "id",
-            "question_author": "Kemdikbud",
-            "question_writer": "ridlo",
-            "answer_author": "ridlo",
-            "answer_writer": "ridlo"
+            "author": "Kemdikbud",
+            "lang": "id"
         }
     ],
     "links": {

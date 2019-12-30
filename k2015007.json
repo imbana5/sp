@@ -1,0 +1,52 @@
+{
+    "id": "k2015007",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015007"
+    ],
+    "question": "<p>Pada tahun 1850-an, John Herschel melakukan pengukuran pancaran energi Matahari yang sampai ke Bumi. Ia memanaskan $10^{-3}$ m$^{3}$ air ($C=4200$ $\\text{J}/\\text{kg}/^{\\circ} \\text{C}$) yang awalnya bertemperatur $25^{\\circ}$ C menjadi $50^{\\circ}$ C. Dengan menggunakan cermin pengumpul seluas 5 m$^{2}$, ia memerlukan waktu selama 190 detik. Bila kerapatan air dianggap konstan ($\\rho=1$ kg/m$^{3}$), berapakah radiasi Matahari yang diterima Bumi berdasarkan eksperimen Herschel?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "560 W/m$^{2}$"
+        },
+        {
+            "value": "1",
+            "label": "860 W/m$^{2}$"
+        },
+        {
+            "value": "2",
+            "label": "1160 W/m$^{2}$"
+        },
+        {
+            "value": "3",
+            "label": "1360 W/m$^{2}$"
+        },
+        {
+            "value": "4",
+            "label": "1660 W/m$^{2}$"
+        }
+    ],
+    "answer": "5",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

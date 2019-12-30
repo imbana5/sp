@@ -1,0 +1,52 @@
+{
+    "id": "k2015009",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015009"
+    ],
+    "question": "<p>Orbit $X$ yang mengorbit Matahari diketahui memiliki orbit elips. Bila kecepatan maksimumnya empat kali kecepatan minimumnya, berapa eksentrisitas orbit objek tersebut?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "0,0"
+        },
+        {
+            "value": "1",
+            "label": "0,2"
+        },
+        {
+            "value": "2",
+            "label": "0,4"
+        },
+        {
+            "value": "3",
+            "label": "0,6"
+        },
+        {
+            "value": "4",
+            "label": "0,8"
+        }
+    ],
+    "answer": "3",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

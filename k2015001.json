@@ -1,0 +1,52 @@
+{
+    "id": "k2015001",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015001"
+    ],
+    "question": "<p>Misalkan terdapat 28 astronom besar abad ini dan mereka setidaknya menjadi pakar di salah satu bidang: keplanetan, fisika bintang, atau kosmologi.</p><p><em>Jumlah astronom yang hanya ahli di bidang keplanetan sama dengan jumlah astronom yang ahli di bidang keplanetan dan fisika bintang. Tidak ada astronom yang hanya ahli fisika bintang atau hanya ahli di bidang kosmologi. Ada enam yang ahli di bidang keplanetan dan kosmologi. Kemudian, jumlah astronom yang ahli di bidang fisika bintang dan kosmologi lima kali lebih banyak dibandingkan jumlah astronom yang ahli di ketiga bidang.</em></p><p>Bila jumlah astronom yang ahli di ketiga bidang merupakan bilangan genap dan tidak nol, berapakah jumlah astronom yang hanya ahli di bidang keplanetan?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "5"
+        },
+        {
+            "value": "1",
+            "label": "6"
+        },
+        {
+            "value": "2",
+            "label": "7"
+        },
+        {
+            "value": "3",
+            "label": "8"
+        },
+        {
+            "value": "4",
+            "label": "9"
+        }
+    ],
+    "answer": "0",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

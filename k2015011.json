@@ -1,0 +1,52 @@
+{
+    "id": "k2015011",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015011"
+    ],
+    "question": "<p>Benda $A$ bermassa 2 satuan berada di koordinat (-1,2), sedangkan benda $B$ dengan massa 4 satuan berada di koordinat (2,-1). Di manakah posisi pusat massa sistem dua benda tersebut?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "(0,0)"
+        },
+        {
+            "value": "1",
+            "label": "(4,0)"
+        },
+        {
+            "value": "2",
+            "label": "(6,0)"
+        },
+        {
+            "value": "3",
+            "label": "(1,-4)"
+        },
+        {
+            "value": "4",
+            "label": "(1,-6)"
+        }
+    ],
+    "answer": "5",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

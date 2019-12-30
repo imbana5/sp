@@ -1,0 +1,52 @@
+{
+    "id": "k2015014",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015014"
+    ],
+    "question": "<p>Jumlah foton (berpanjang gelombang $\\lambda=555$ nm) minimum per detik yang diperlukan untuk menimbulkan rangsangan visual pada mata normal adalah 100 buah. Berapa energi 100 foton tersebut bila dinyatakan dalam watt?</p><p>Diketahui konstanta Planck $h=6,63 \\times 10^{-34}$ Js dan cepat rambat cahaya $c=3,00\\times 10^8$ m/s.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$1,0\\times 10^{-17}$ watt"
+        },
+        {
+            "value": "1",
+            "label": "$2,3\\times 10^{-17}$ watt"
+        },
+        {
+            "value": "2",
+            "label": "$3,6\\times 10^{-17}$ watt"
+        },
+        {
+            "value": "3",
+            "label": "$4,9\\times 10^{-17}$ watt"
+        },
+        {
+            "value": "4",
+            "label": "$0,0\\times 10^{-17}$ watt"
+        }
+    ],
+    "answer": "2",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}

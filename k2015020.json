@@ -1,0 +1,52 @@
+{
+    "id": "k2015020",
+    "type": "mc",
+    "question_name": "",
+    "display_name": "",
+    "field": "Astronomi",
+    "subfield": "Olimpiade Astronomi",
+    "level": "Kabupaten/Kota",
+    "year": 2015,
+    "display_title": "OSK Astronomi 2015",
+    "difficulty": -1,
+    "categories": [],
+    "tags": [
+        "k2015020"
+    ],
+    "question": "<p>Ceres is the largest main-belt asteroid which mainly consists of stone. The mass of this small body is roughly 1/6500 times Earth's mass, while the radius is just 1/13 Earth's radius. How weak does the surface gravity of Ceres pull a falling body, compared to the Earth's gravity?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "500 times weaker"
+        },
+        {
+            "value": "1",
+            "label": "137 times weaker"
+        },
+        {
+            "value": "2",
+            "label": "38 times weaker"
+        },
+        {
+            "value": "3",
+            "label": "22 times weaker"
+        },
+        {
+            "value": "4",
+            "label": "6 times weaker"
+        }
+    ],
+    "answer": "2",
+    "explanation": "",
+    "notes": [],
+    "last_modified": "2012-04-23T18:25:43.511Z",
+    "metadata": [
+        {
+            "author": "Kemdikbud",
+            "lang": "id"
+        }
+    ],
+    "links": {
+        "source": "http://ridlow.wordpress.com/"
+    }
+}
