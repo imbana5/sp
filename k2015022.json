@@ -13,7 +13,7 @@
     "tags": [
         "k2015022"
     ],
-    "question": "<p>Misalkan $a \\blacktriangleright b$ menyatakan operasi dua bilangan $a$ dan $b$ yang menghasilkan nilai terbesar antara keduanya, sedangkan $a \\blacktriangleleft b$ menghasilkan bilangan terkecil antara keduanya. Berlaku pula hubungan $a \\blacktriangleright a = a$ dan $a \\blacktriangleleft a = a$.</p><p>Di antara pernyataan berikut mana yang benar?</p>startlilililiend",
+    "question": "<p>Misalkan $a \\blacktriangleright b$ menyatakan operasi dua bilangan $a$ dan $b$ yang menghasilkan nilai terbesar antara keduanya, sedangkan $a \\blacktriangleleft b$ menghasilkan bilangan terkecil antara keduanya. Berlaku pula hubungan $a \\blacktriangleright a = a$ dan $a \\blacktriangleleft a = a$.</p><p>Di antara pernyataan berikut mana yang benar?</p><ol><li>$a\\blacktrianglerightb=b\\blacktrianglerighta$</li><li>$a\\blacktriangleright(b\\blacktrianglerightc)=(a\\blacktrianglerightb)\\blacktrianglerightc$</li><li>$a\\blacktriangleleft(b\\blacktrianglerightc)=(a\\blacktriangleleftb)\\blacktriangleright(a\\blacktriangleleftc)$</li><li>$a\\blacktriangleleft(b\\blacktrianglerightc)=(a\\blacktriangleleftb)\\blacktrianglerightc$</li></ol>",
     "choices": [
         {
             "value": "0",
