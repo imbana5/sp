@@ -13,7 +13,7 @@
     "tags": [
         "k2015023"
     ],
-    "question": "<p>Bila diketahui bahwa vektor $\\overrightarrow{A} = 2i + j - k$ dan vektor $\\overrightarrow{B} = i -2j + 2k$, maka pernyataan yang benar adalah</p>startlilililiend",
+    "question": "<p>Bila diketahui bahwa vektor $\\overrightarrow{A} = 2i + j - k$ dan vektor $\\overrightarrow{B} = i -2j + 2k$, maka pernyataan yang benar adalah</p><ol><li>$\\overrightarrow{A} + \\overrightarrow{B} = 3i - j + k$</li><li>$\\overrightarrow{A} \\cdot \\overrightarrow{B} = 2i - 2j - 2k$</li><li>$\\overrightarrow{C} = \\overrightarrow{A} \\times \\overrightarrow{B}$ berada di bidang $yz$</li><li>$\\overrightarrow{A}$ dan $\\overrightarrow{B}$ membentuk sudut $< 60^{\\circ}$.</li></ol>",
     "choices": [
         {
             "value": "0",
