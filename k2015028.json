@@ -6,7 +6,7 @@
     "tags": [
         "k2015028"
     ],
-    "question": "<p>We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center.</p><p>We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center.</p><p><center>because</center></p><p>Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars.</p><p>Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars.</p><p>Arah pusat terlihat gelap karena banyak debu yang mengisi ruang antar bintang.\\\\</p>",
+    "question": "<p>We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center.</p><p><center>because</center></p><p>Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,6 +29,5 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "1",
-    "explanation": "<p><center>because</center></p>"
+    "answer": "1"
 }

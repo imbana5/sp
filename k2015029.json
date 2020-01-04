@@ -6,7 +6,7 @@
     "tags": [
         "k2015029"
     ],
-    "question": "<p>In March 9th 2016, magnificent total solar eclipse will occur and can be observed in several region in Indonesia.</p><p>In March 9th 2016, magnificent total solar eclipse will occur and can be observed in several region in Indonesia.</p><p><center>because</center></p><p>The umbral shadow will be crossing South Sumatra, Kalimantan, and Halmahera island.</p><p>The umbral shadow will be crossing South Sumatra, Kalimantan, and Halmahera island.</p><p>Tunggu saja... tanggal 9 Maret 2016! :)</p><p>Sumber: cari info peristiwa astronomi.</p><p>\\href{http://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2016Mar09Tgoogle.html}{Link NASA}</p><p>\\end{questions}</p><p>\\end{document}</p>",
+    "question": "<p>In March 9th 2016, magnificent total solar eclipse will occur and can be observed in several region in Indonesia.</p><p><center>because</center></p><p>The umbral shadow will be crossing South Sumatra, Kalimantan, and Halmahera island.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,6 +29,5 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "0",
-    "explanation": ""
+    "answer": "0"
 }

@@ -6,7 +6,7 @@
     "tags": [
         "k2015007"
     ],
-    "question": "<p>Pada tahun 1850-an, John Herschel melakukan pengukuran pancaran energi Matahari yang sampai ke Bumi. Ia memanaskan $10^{-3}$ m$^{3}$ air ($C=4200$ $\\text{J}/\\text{kg}/^{\\circ} \\text{C}$) yang awalnya bertemperatur $25^{\\circ}$ C menjadi $50^{\\circ}$ C. Dengan menggunakan cermin pengumpul seluas 5 m$^{2}$, ia memerlukan waktu selama 190 detik. Bila kerapatan air dianggap konstan ($\\rho=1$ kg/m$^{3}$), berapakah radiasi Matahari yang diterima Bumi berdasarkan eksperimen Herschel?</p><p>Pada tahun 1850-an, John Herschel melakukan pengukuran pancaran energi Matahari yang sampai ke Bumi. Ia memanaskan $10^{-3}$ m$^{3}$ air ($C=4200$ $\\text{J}/\\text{kg}/^{\\circ} \\text{C}$) yang awalnya bertemperatur $25^{\\circ}$ C menjadi $50^{\\circ}$ C. Dengan menggunakan cermin pengumpul seluas 5 m$^{2}$, ia memerlukan waktu selama 190 detik. Bila kerapatan air dianggap konstan ($\\rho=1$ kg/m$^{3}$), berapakah radiasi Matahari yang diterima Bumi berdasarkan eksperimen Herschel?</p><p>560 W/m$^{2}$</p><p>860 W/m$^{2}$</p><p>1160 W/m$^{2}$</p><p>1360 W/m$^{2}$</p><p>1660 W/m$^{2}$</p><p>Kalor yang digunakan untuk memanaskan air: $Q=mC\\Delta T= 10^{-3} 4200 (50-25) = 105$ Joule.\\\\</p><p>Daya yang digunakan dalam proses tersebut: $P=\\frac{Q}{\\Delta t}=\\frac{105}{190}=0,55$ Watt.\\\\</p><p>Radiasi Matahari yang diterima Bumi: $\\frac{P}{\\text{luas cermin}}=\\frac{0,55}{5}=0,11$ Watt/m$^{2}$.\\\\</p>",
+    "question": "<p>Pada tahun 1850-an, John Herschel melakukan pengukuran pancaran energi Matahari yang sampai ke Bumi. Ia memanaskan $10^{-3}$ m$^{3}$ air ($C=4200$ $\\text{J}/\\text{kg}/^{\\circ} \\text{C}$) yang awalnya bertemperatur $25^{\\circ}$ C menjadi $50^{\\circ}$ C. Dengan menggunakan cermin pengumpul seluas 5 m$^{2}$, ia memerlukan waktu selama 190 detik. Bila kerapatan air dianggap konstan ($\\rho=1$ kg/m$^{3}$), berapakah radiasi Matahari yang diterima Bumi berdasarkan eksperimen Herschel?</p>",
     "choices": [
         {
             "value": "0",
@@ -29,6 +29,5 @@
             "label": "1660 W/m$^{2}$"
         }
     ],
-    "answer": "5",
-    "explanation": ""
+    "answer": "5"
 }

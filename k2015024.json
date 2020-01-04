@@ -6,7 +6,7 @@
     "tags": [
         "k2015024"
     ],
-    "question": "<p>On November 14th 2014, Rosetta project operated by European Space Agency has successfully landed its spacecraft on the surface of comet C67/P Churyumov-Gerasimenko. The landing was hard process, but a great achievement because of the following reason, except...</p><p>On November 14th 2014, Rosetta project operated by European Space Agency has successfully landed its spacecraft on the surface of comet C67/P Churyumov-Gerasimenko. The landing was hard process, but a great achievement because of the following reason, except...</p><ol><li>The comet exerts a very low gravitational force to the spacecraft.</li><li>there are so many debris encircling the comet.</li><li>the spacecraft bounced several times before it actually landed.</li><li>at that time, the comet was located very far away from Earth, outside the orbit of Neptune.</li></ol><p>Orbit komet berada di dalam orbit Jupiter ketika Rosetta (Philae) mendarat, jadi pernyataan ke-4 salah. Sedikit gas dan debu akan dikeluarkan oleh komet, ``mungkin'' dapat mengganggu misi (misal dapat \\href{http://www.esa.int/Our_Activities/Space_Science/Rosetta/Frequently_asked_questions}{menutupi solar panel}). Ingat ada kata <em>except</em> di situ sehingga jawabannya D. Sumber: cari berita terkini sains dan astronomi.\\\\</p><p>%}%</p><p><strong>Gunakan petunjuk ini untuk menjawab soal-soal berikut:}\\\\</p><p>A. Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat.\\\\</p><p>B. Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat.\\\\</p><p>C. Pernyataan pertama benar, sedangkan pernyataan kedua salah.\\\\</p><p>D. Pernyataan pertama salah, sedangkan pernyataan kedua benar.\\\\</p><p>E. Kedua pernyataan salah.\\\\</p>",
+    "question": "<p>On November 14th 2014, Rosetta project operated by European Space Agency has successfully landed its spacecraft on the surface of comet C67/P Churyumov-Gerasimenko. The landing was hard process, but a great achievement because of the following reason, except...</p><ol><li>The comet exerts a very low gravitational force to the spacecraft.</li><li>there are so many debris encircling the comet.</li><li>the spacecraft bounced several times before it actually landed.</li><li>at that time, the comet was located very far away from Earth, outside the orbit of Neptune.</li></ol>",
     "choices": [
         {
             "value": "0",
@@ -29,6 +29,5 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "3",
-    "explanation": "<p><center>sebab</center></p>"
+    "answer": "3"
 }

@@ -6,7 +6,7 @@
     "tags": [
         "k2015017"
     ],
-    "question": "<p>Planet Venus merupakan planet anggota Tata Surya dengan temperatur global paling tinggi, $T\\simeq 700$ K, penyebabnya adalah ...</p><p>Planet Venus merupakan planet anggota Tata Surya dengan temperatur global paling tinggi, $T\\simeq 700$ K, penyebabnya adalah ...</p><p>tingginya energi kinetik partikel bermuatan yang dibawa angin Matahari.</p><p>pengerutan gravitasi Venus menghasilkan energi termal yang lebih tinggi.</p><p>Venus menerima radiasi matahari 90% lebih banyak dibandingkan Bumi.</p><p>konsentrasi karbondioksida di atmosfer Venus amat tinggi, menjebak lebih banyak panas yang diterimanya dari Matahari.</p><p>Venus memiliki albedo yang lebih tinggi dibandingkan planet-planet lain.</p><p>Efek rumah kaca (\\textit{runaway greenhouse effect}). Energi yang diterima Venus memang lebih besar namun jika hanya itu penyebabnya tidak akan mampu menaikkan suhu hingga 700 K.\\\\</p>",
+    "question": "<p>Planet Venus merupakan planet anggota Tata Surya dengan temperatur global paling tinggi, $T\\simeq 700$ K, penyebabnya adalah ...</p>",
     "choices": [
         {
             "value": "0",
@@ -29,6 +29,5 @@
             "label": "Venus memiliki albedo yang lebih tinggi dibandingkan planet-planet lain."
         }
     ],
-    "answer": "3",
-    "explanation": ""
+    "answer": "3"
 }

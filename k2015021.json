@@ -6,7 +6,7 @@
     "tags": [
         "k2015021"
     ],
-    "question": "<p>There is a terrestrial planet without atmosphere which the maximum surface temperature is mainly governed by three factors: (1) incoming radiation from its star, (2) albedo or reflectance of the planet, and (3) its rotation. Among the following statements, which one is correct?</p><p>There is a terrestrial planet without atmosphere which the maximum surface temperature is mainly governed by three factors: (1) incoming radiation from its star, (2) albedo or reflectance of the planet, and (3) its rotation. Among the following statements, which one is correct?</p><p>Planet's maximum temperature will be lower if the planet rapidly rotates around its axis.</p><p>Planet's maximum temperature will be higher if the planet rapidly rotates around its axis.</p><p>If the planet has high reflectivity, then the maximum temperature will be higher.</p><p>If the planet has low albedo, then the maximum temperature will be lower.</p><p>High stellar radiation melts the ice polar cap and chill the planet.</p><p>Rotasi yang cepat membuat suhu permukaan yang menghadap (siang) dan tidak menghadap bintang (malam) menjadi lebih merata.</p><p>Albedo atau reflektansi merupakan perbandingan energi yang dipantulkan dengan yang diterima, sehingga semakin besar nilainya maka semakin rendah temperatur maksimumnya dan sebaliknya.\\\\</p><p><strong>Gunakan petunjuk ini untuk menjawab soal-soal berikut:}\\\\</p><p>A. 1, 2, dan 3 benar\\\\</p><p>B. 1 dan 3 benar\\\\</p><p>C. 2 dan 4 benar\\\\</p><p>D. hanya 4 benar\\\\</p><p>E. semua salah\\\\</p><p>%{%</p><p>% changing choice items style locally</p><p>%\\renewcommand*\\thechoice{\\arabic{choice}}</p><p>%</p>",
+    "question": "<p>There is a terrestrial planet without atmosphere which the maximum surface temperature is mainly governed by three factors: (1) incoming radiation from its star, (2) albedo or reflectance of the planet, and (3) its rotation. Among the following statements, which one is correct?</p>",
     "choices": [
         {
             "value": "0",
@@ -29,6 +29,5 @@
             "label": "High stellar radiation melts the ice polar cap and chill the planet."
         }
     ],
-    "answer": "0",
-    "explanation": "<ol><li>$a \\blacktriangleright b = b \\blacktriangleright a$</li></li><li>$a \\blacktriangleright (b \\blacktriangleright c) = (a \\blacktriangleright b) \\blacktriangleright c$</li></li><li>$a \\blacktriangleleft (b \\blacktriangleright c) = (a \\blacktriangleleft b) \\blacktriangleright (a \\blacktriangleleft c)$</li></li><li>$a \\blacktriangleleft (b \\blacktriangleright c) = (a \\blacktriangleleft b) \\blacktriangleright c$</li></li></ol>"
+    "answer": "0"
 }

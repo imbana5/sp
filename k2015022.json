@@ -6,7 +6,7 @@
     "tags": [
         "k2015022"
     ],
-    "question": "<p>Misalkan $a \\blacktriangleright b$ menyatakan operasi dua bilangan $a$ dan $b$ yang menghasilkan nilai terbesar antara keduanya, sedangkan $a \\blacktriangleleft b$ menghasilkan bilangan terkecil antara keduanya. Berlaku pula hubungan $a \\blacktriangleright a = a$ dan $a \\blacktriangleleft a = a$.</p><p>Misalkan $a \\blacktriangleright b$ menyatakan operasi dua bilangan $a$ dan $b$ yang menghasilkan nilai terbesar antara keduanya, sedangkan $a \\blacktriangleleft b$ menghasilkan bilangan terkecil antara keduanya. Berlaku pula hubungan $a \\blacktriangleright a = a$ dan $a \\blacktriangleleft a = a$.</p><p>Di antara pernyataan berikut mana yang benar?</p><p>Di antara pernyataan berikut mana yang benar?</p><ol><li>$a \\blacktriangleright b = b \\blacktriangleright a$</li><li>$a \\blacktriangleright (b \\blacktriangleright c) = (a \\blacktriangleright b) \\blacktriangleright c$</li><li>$a \\blacktriangleleft (b \\blacktriangleright c) = (a \\blacktriangleleft b) \\blacktriangleright (a \\blacktriangleleft c)$</li><li>$a \\blacktriangleleft (b \\blacktriangleright c) = (a \\blacktriangleleft b) \\blacktriangleright c$</li></ol><p>No 1 dan 2 jelas benar sehingga 3 juga kemungkinan benar.</p><p>Cara paling mudah, dicoba untuk nilai $a > b$ dan $c$, $a < b$ dan $c$, dan nilai $a$ diantara $b$ dan $c$. :)\\\\</p>",
+    "question": "<p>Misalkan $a \\blacktriangleright b$ menyatakan operasi dua bilangan $a$ dan $b$ yang menghasilkan nilai terbesar antara keduanya, sedangkan $a \\blacktriangleleft b$ menghasilkan bilangan terkecil antara keduanya. Berlaku pula hubungan $a \\blacktriangleright a = a$ dan $a \\blacktriangleleft a = a$.</p><p>Di antara pernyataan berikut mana yang benar?</p><ol><li>$a \\blacktriangleright b = b \\blacktriangleright a$</li><li>$a \\blacktriangleright (b \\blacktriangleright c) = (a \\blacktriangleright b) \\blacktriangleright c$</li><li>$a \\blacktriangleleft (b \\blacktriangleright c) = (a \\blacktriangleleft b) \\blacktriangleright (a \\blacktriangleleft c)$</li><li>$a \\blacktriangleleft (b \\blacktriangleright c) = (a \\blacktriangleleft b) \\blacktriangleright c$</li></ol>",
     "choices": [
         {
             "value": "0",
@@ -29,6 +29,5 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "0",
-    "explanation": "<ol><li>$\\overrightarrow{A} + \\overrightarrow{B} = 3i - j + k$</li></li><li>$\\overrightarrow{A} \\cdot \\overrightarrow{B} = 2i - 2j - 2k$</li></li><li>$\\overrightarrow{C} = \\overrightarrow{A} \\times \\overrightarrow{B}$ berada di bidang $yz$</li></li><li>$\\overrightarrow{A}$ dan $\\overrightarrow{B}$ membentuk sudut $< 60^{\\circ}$.</li></li></ol>"
+    "answer": "0"
 }
