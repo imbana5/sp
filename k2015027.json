@@ -1,19 +1,12 @@
 {
     "id": "k2015027",
-    "type": "mc",
-    "question_name": "",
-    "display_name": "",
-    "field": "Astronomi",
-    "subfield": "Olimpiade Astronomi",
-    "level": "Kabupaten/Kota",
+    "level": "K",
     "year": 2015,
-    "display_title": "OSK Astronomi 2015",
-    "difficulty": -1,
     "categories": [],
     "tags": [
         "k2015027"
     ],
-    "question": "<p>Aurora does not occur everyday.</p><p><center>because</center></p><p>This phenomenon is caused by bombardment of energetic particles from the active Sun.</p>",
+    "question": "<p>Aurora does not occur everyday.</p><p>Aurora does not occur everyday.</p><p><center>because</center></p><p>This phenomenon is caused by bombardment of energetic particles from the active Sun.</p><p>This phenomenon is caused by bombardment of energetic particles from the active Sun.</p><p>Aurora terjadi setiap hari, terjadi karena partikel-partikel bermuatan dari angin Matahari yang dibelokkan oleh medan magnet Bumi sebagian sampai ke atmosfer melalui kutub-kutub magnetnya, semakin jelas ketika aktivitas Matahari meningkat. Terlihat atau tidaknya tergantung banyak faktor, antara lain: lintang pengamat (hanya daerah dekat kutub yang bisa melihat), cerah tidaknya langit, siang malam, musim, polusi cahaya, dan tentunya aktivitas Matahari.\\\\</p>",
     "choices": [
         {
             "value": "0",
@@ -37,16 +30,5 @@
         }
     ],
     "answer": "3",
-    "explanation": "",
-    "notes": [],
-    "last_modified": "2012-04-23T18:25:43.511Z",
-    "metadata": [
-        {
-            "author": "Kemdikbud",
-            "lang": "id"
-        }
-    ],
-    "links": {
-        "source": "http://ridlow.wordpress.com/"
-    }
+    "explanation": "<p><center>because</center></p>"
 }

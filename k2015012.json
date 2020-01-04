@@ -1,19 +1,12 @@
 {
     "id": "k2015012",
-    "type": "mc",
-    "question_name": "",
-    "display_name": "",
-    "field": "Astronomi",
-    "subfield": "Olimpiade Astronomi",
-    "level": "Kabupaten/Kota",
+    "level": "K",
     "year": 2015,
-    "display_title": "OSK Astronomi 2015",
-    "difficulty": -1,
     "categories": [],
     "tags": [
         "k2015012"
     ],
-    "question": "<p>Terang bintang dinyatakan dalam skala magnitudo ($m$) yang merupakan logaritma dari energinya yang diterima ($E$). Menurut Pogson, $m=-2,5\\log E+C$, dengan $C$ menyatakan suatu konstanta.</p><p>Misalkan terdapat dua bintang dengan energi masing-masing $10^2$ dan $10^4$ satuan, sementara bintang pertama memiliki magnitudo +3, berapakah magnitudo bintang kedua?</p>",
+    "question": "<p>Terang bintang dinyatakan dalam skala magnitudo ($m$) yang merupakan logaritma dari energinya yang diterima ($E$). Menurut Pogson, $m=-2,5\\log E+C$, dengan $C$ menyatakan suatu konstanta.</p><p>Terang bintang dinyatakan dalam skala magnitudo ($m$) yang merupakan logaritma dari energinya yang diterima ($E$). Menurut Pogson, $m=-2,5\\log E+C$, dengan $C$ menyatakan suatu konstanta.</p><p>Misalkan terdapat dua bintang dengan energi masing-masing $10^2$ dan $10^4$ satuan, sementara bintang pertama memiliki magnitudo +3, berapakah magnitudo bintang kedua?</p><p>Misalkan terdapat dua bintang dengan energi masing-masing $10^2$ dan $10^4$ satuan, sementara bintang pertama memiliki magnitudo +3, berapakah magnitudo bintang kedua?</p><p>+2 mag</p><p>+0 mag</p><p>-2 mag</p><p>-5 mag</p><p>-8 mag</p>\\begin{eqnarray*}m_2-m_1&=&-2,5\\log E_2+C - (-2,5\\log E_1+C)\\\\m_2-m_1&=&-2,5\\log \\frac{E_2}{E_1} \\\\m_2-m_1&=&-2,5\\log \\frac{10^4}{10^2} \\\\m_2-m_1&=&-5\\\\m_2&=&-2\\\\\\end{eqnarray*}",
     "choices": [
         {
             "value": "0",
@@ -37,16 +30,5 @@
         }
     ],
     "answer": "2",
-    "explanation": "",
-    "notes": [],
-    "last_modified": "2012-04-23T18:25:43.511Z",
-    "metadata": [
-        {
-            "author": "Kemdikbud",
-            "lang": "id"
-        }
-    ],
-    "links": {
-        "source": "http://ridlow.wordpress.com/"
-    }
+    "explanation": ""
 }

@@ -1,19 +1,12 @@
 {
     "id": "k2015023",
-    "type": "mc",
-    "question_name": "",
-    "display_name": "",
-    "field": "Astronomi",
-    "subfield": "Olimpiade Astronomi",
-    "level": "Kabupaten/Kota",
+    "level": "K",
     "year": 2015,
-    "display_title": "OSK Astronomi 2015",
-    "difficulty": -1,
     "categories": [],
     "tags": [
         "k2015023"
     ],
-    "question": "<p>Bila diketahui bahwa vektor $\\overrightarrow{A} = 2i + j - k$ dan vektor $\\overrightarrow{B} = i -2j + 2k$, maka pernyataan yang benar adalah</p><ol><li>$\\overrightarrow{A} + \\overrightarrow{B} = 3i - j + k$</li><li>$\\overrightarrow{A} \\cdot \\overrightarrow{B} = 2i - 2j - 2k$</li><li>$\\overrightarrow{C} = \\overrightarrow{A} \\times \\overrightarrow{B}$ berada di bidang $yz$</li><li>$\\overrightarrow{A}$ dan $\\overrightarrow{B}$ membentuk sudut $< 60^{\\circ}$.</li></ol>",
+    "question": "<p>Bila diketahui bahwa vektor $\\overrightarrow{A} = 2i + j - k$ dan vektor $\\overrightarrow{B} = i -2j + 2k$, maka pernyataan yang benar adalah</p><p>Bila diketahui bahwa vektor $\\overrightarrow{A} = 2i + j - k$ dan vektor $\\overrightarrow{B} = i -2j + 2k$, maka pernyataan yang benar adalah</p><ol><li>$\\overrightarrow{A} + \\overrightarrow{B} = 3i - j + k$</li><li>$\\overrightarrow{A} \\cdot \\overrightarrow{B} = 2i - 2j - 2k$</li><li>$\\overrightarrow{C} = \\overrightarrow{A} \\times \\overrightarrow{B}$ berada di bidang $yz$</li><li>$\\overrightarrow{A}$ dan $\\overrightarrow{B}$ membentuk sudut $< 60^{\\circ}$.</li></ol>\\begin{eqnarray*}\\overrightarrow{A} \\cdot \\overrightarrow{B} &=& (2 \\cdot 1) + (1 \\cdot -2) + (-1 \\cdot 2) = 2\\\\\\Vert A \\Vert \\Vert B \\Vert \\cos \\theta &=& 2\\\\\\sqrt{6} \\sqrt{9} \\cos \\theta &=& 2\\\\\\theta &=& 74.2^{\\circ}\\end{eqnarray*}\\begin{eqnarray*}\\overrightarrow{C} &=& \\overrightarrow{A} \\times \\overrightarrow{B} \\\\&=&\\left|\\begin{matrix}1 & -1 \\\\-2 & 2\\end{matrix}\\right| i -\\left|\\begin{matrix}2 & -1 \\\\1 & 2\\end{matrix} \\right| j +\\left|\\begin{matrix}2 & 1 \\\\1 & -2\\end{matrix}\\right| k\\\\&=& 0 i - 5 j - 5 k \\\\&& \\text{berada di bidang $yz$}\\end{eqnarray*}",
     "choices": [
         {
             "value": "0",
@@ -37,16 +30,5 @@
         }
     ],
     "answer": "1",
-    "explanation": "",
-    "notes": [],
-    "last_modified": "2012-04-23T18:25:43.511Z",
-    "metadata": [
-        {
-            "author": "Kemdikbud",
-            "lang": "id"
-        }
-    ],
-    "links": {
-        "source": "http://ridlow.wordpress.com/"
-    }
+    "explanation": "<ol><li>The comet exerts a very low gravitational force to the spacecraft.</li></li><li>there are so many debris encircling the comet.</li></li><li>the spacecraft bounced several times before it actually landed.</li></li><li>at that time, the comet was located very far away from Earth, outside the orbit of Neptune.</li></li></ol>"
 }

@@ -1,19 +1,12 @@
 {
     "id": "k2015028",
-    "type": "mc",
-    "question_name": "",
-    "display_name": "",
-    "field": "Astronomi",
-    "subfield": "Olimpiade Astronomi",
-    "level": "Kabupaten/Kota",
+    "level": "K",
     "year": 2015,
-    "display_title": "OSK Astronomi 2015",
-    "difficulty": -1,
     "categories": [],
     "tags": [
         "k2015028"
     ],
-    "question": "<p>We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center.</p><p><center>because</center></p><p>Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars.</p>",
+    "question": "<p>We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center.</p><p>We can see dark and patchy region with less stars around the constellation of Sagittarius, the direction of galactic center.</p><p><center>because</center></p><p>Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars.</p><p>Our Milky Way galaxy hosts a super-massive black hole in its center that swallows surrounding gas and stars.</p><p>Arah pusat terlihat gelap karena banyak debu yang mengisi ruang antar bintang.\\\\</p>",
     "choices": [
         {
             "value": "0",
@@ -37,16 +30,5 @@
         }
     ],
     "answer": "1",
-    "explanation": "",
-    "notes": [],
-    "last_modified": "2012-04-23T18:25:43.511Z",
-    "metadata": [
-        {
-            "author": "Kemdikbud",
-            "lang": "id"
-        }
-    ],
-    "links": {
-        "source": "http://ridlow.wordpress.com/"
-    }
+    "explanation": "<p><center>because</center></p>"
 }

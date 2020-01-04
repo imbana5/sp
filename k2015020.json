@@ -1,19 +1,12 @@
 {
     "id": "k2015020",
-    "type": "mc",
-    "question_name": "",
-    "display_name": "",
-    "field": "Astronomi",
-    "subfield": "Olimpiade Astronomi",
-    "level": "Kabupaten/Kota",
+    "level": "K",
     "year": 2015,
-    "display_title": "OSK Astronomi 2015",
-    "difficulty": -1,
     "categories": [],
     "tags": [
         "k2015020"
     ],
-    "question": "<p>Ceres is the largest main-belt asteroid which mainly consists of stone. The mass of this small body is roughly 1/6500 times Earth's mass, while the radius is just 1/13 Earth's radius. How weak does the surface gravity of Ceres pull a falling body, compared to the Earth's gravity?</p>",
+    "question": "<p>Ceres is the largest main-belt asteroid which mainly consists of stone. The mass of this small body is roughly 1/6500 times Earth's mass, while the radius is just 1/13 Earth's radius. How weak does the surface gravity of Ceres pull a falling body, compared to the Earth's gravity?</p><p>Ceres is the largest main-belt asteroid which mainly consists of stone. The mass of this small body is roughly 1/6500 times Earth's mass, while the radius is just 1/13 Earth's radius. How weak does the surface gravity of Ceres pull a falling body, compared to the Earth's gravity?</p><p>500 times weaker</p><p>137 times weaker</p><p>38 times weaker</p><p>22 times weaker</p><p>6 times weaker</p><p>$M = \\frac{1}{6500} M_{E}$ dan $R = \\frac{1}{13} R_{E}$</p>\\begin{eqnarray*}\\frac{g}{g_{E}} &=& \\frac{\\frac{GM}{R^2}}{\\frac{GM_{E}}{R_{E}^2}} = \\frac{M}{M_{E}} \\left( \\frac{R_{E}}{R} \\right)^{2}\\\\\\frac{g}{g_{E}} &=& \\frac{1}{6500} 13^{2}\\\\g &=& 0.026 g_{E} \\quad \\text{atau} \\quad \\text{38.46 kali lebih kecil.}\\\\\\end{eqnarray*}",
     "choices": [
         {
             "value": "0",
@@ -37,16 +30,5 @@
         }
     ],
     "answer": "2",
-    "explanation": "",
-    "notes": [],
-    "last_modified": "2012-04-23T18:25:43.511Z",
-    "metadata": [
-        {
-            "author": "Kemdikbud",
-            "lang": "id"
-        }
-    ],
-    "links": {
-        "source": "http://ridlow.wordpress.com/"
-    }
+    "explanation": ""
 }

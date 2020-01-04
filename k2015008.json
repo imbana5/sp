@@ -1,19 +1,12 @@
 {
     "id": "k2015008",
-    "type": "mc",
-    "question_name": "",
-    "display_name": "",
-    "field": "Astronomi",
-    "subfield": "Olimpiade Astronomi",
-    "level": "Kabupaten/Kota",
+    "level": "K",
     "year": 2015,
-    "display_title": "OSK Astronomi 2015",
-    "difficulty": -1,
     "categories": [],
     "tags": [
         "k2015008"
     ],
-    "question": "<p>Gelombang elektromagnetik memiliki rentang spektrum yang amat lebar, dari sinar-$\\gamma$ hingga radio. Berapakah perbandingan energi radio 1400 MHz dengan energi sinar-X 100 keV? Diketahui 1 eV=$1,6\\times 10^{-19}$ Joule.</p><p>Diketahui konstanta Planck $h=6,63\\times 10^{-34}$ Js dan cepat rambat cahaya $3,0\\times 10^{8}$ m/s.</p>",
+    "question": "<p>Gelombang elektromagnetik memiliki rentang spektrum yang amat lebar, dari sinar-$\\gamma$ hingga radio. Berapakah perbandingan energi radio 1400 MHz dengan energi sinar-X 100 keV? Diketahui 1 eV=$1,6\\times 10^{-19}$ Joule.</p><p>Gelombang elektromagnetik memiliki rentang spektrum yang amat lebar, dari sinar-$\\gamma$ hingga radio. Berapakah perbandingan energi radio 1400 MHz dengan energi sinar-X 100 keV? Diketahui 1 eV=$1,6\\times 10^{-19}$ Joule.</p><p>Diketahui konstanta Planck $h=6,63\\times 10^{-34}$ Js dan cepat rambat cahaya $3,0\\times 10^{8}$ m/s.</p><p>Diketahui konstanta Planck $h=6,63\\times 10^{-34}$ Js dan cepat rambat cahaya $3,0\\times 10^{8}$ m/s.</p><p>$10^4 : 1$</p><p>$10^1 : 1$</p><p>$1 : 10^3$</p><p>$1 : 10^7$</p><p>$1 : 10^{11}$</p><p>Energi pada panjang gelombang radio: $E_r=hf=6,63\\times 10^{-34}1400\\times 10^6$ JsHz (Hz sama dengan s$^{-1}$), $E_r=9,28\\times 10^{-25}$ Joule.\\\\</p><p>Energi sinar-X: $E_x=100$ keV, $E_x=1,6\\times 10^{-14}$\\\\</p><p>Perbandingan: $\\frac{E_r}{E_x}=5,8\\times 10^{-11}=1,72\\times 10^{10}$, jawaban paling mendekati pada orde $1:10^{11}$.\\\\</p>",
     "choices": [
         {
             "value": "0",
@@ -37,16 +30,5 @@
         }
     ],
     "answer": "4",
-    "explanation": "",
-    "notes": [],
-    "last_modified": "2012-04-23T18:25:43.511Z",
-    "metadata": [
-        {
-            "author": "Kemdikbud",
-            "lang": "id"
-        }
-    ],
-    "links": {
-        "source": "http://ridlow.wordpress.com/"
-    }
+    "explanation": ""
 }
