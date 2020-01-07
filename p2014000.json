@@ -1,0 +1,33 @@
+{
+    "id": "p2014000",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014000"
+    ],
+    "question": "<p>Apakah yang dimaksud dengan luminositas Matahari?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Besarnya energi yang dipancarkan oleh Matahari"
+        },
+        {
+            "value": "1",
+            "label": "Besarnya energi Matahari yang diterima di permukaan Bumi"
+        },
+        {
+            "value": "2",
+            "label": "Kecerlangan Matahari yang diukur pada jarak tertentu"
+        },
+        {
+            "value": "3",
+            "label": "Terang sebenarnya Matahari yang sampai ke Bumi"
+        },
+        {
+            "value": "4",
+            "label": "Daya Matahari yang diterima di Bumi per satuan luas per satuan waktu"
+        }
+    ],
+    "answer": "0"
+}

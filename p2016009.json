@@ -1,0 +1,33 @@
+{
+    "id": "p2016009",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016009"
+    ],
+    "question": "<p>Jika atmosfer Bumi 50% lebih rapat daripada keadaan saat ini, maka</p><ol><li>Cahaya Matahari akan tampak lebih merah daripada keadaan sekarang, karena dengan bertambahnya kerapatan, akan lebih banyak cahaya pada panjang gelombang biru yang dihamburkan ke segala arah.</li><li>Cahaya yang sampai ke permukaan Bumi akan semakin tampak berwarna biru </li><li>Cahaya yang sampai ke permukaan Bumi akan semakin tampak berwarna merah </li><li>Cahaya Matahari akan tampak lebih biru daripada keadaan sekarang, karena dengan bertambahnya kerapatan, akan lebih banyak cahaya pada panjang gelombang merah yang dihamburkan ke segala arah.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "1"
+}

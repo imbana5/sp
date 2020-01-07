@@ -1,0 +1,33 @@
+{
+    "id": "k2019007",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019007"
+    ],
+    "question": "<p>Jika atom hidrogen yang berada di tingkat energi dasar ditembak dengan seberkas partikel, maka akan terjadi eksitasi ke level energi yang lebih tinggi karena proses tumbukan tersebut. Berapakah energi kinetik minimum yang harus dimiliki partikel tersebut untuk terjadinya eksitasi ini dan sesuai dengan garis apakah energi foton tersebut?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$2,18 \\times 10^{-18}$ J dan Balmer Alfa"
+        },
+        {
+            "value": "1",
+            "label": "13,6 eV dan H$\\alpha$"
+        },
+        {
+            "value": "2",
+            "label": "$1,63 \\times 10^{-18}$ J dan Lyman Alfa"
+        },
+        {
+            "value": "3",
+            "label": "13,6 eV dan Lyman Alfa"
+        },
+        {
+            "value": "4",
+            "label": "10,2 eV dan H$\\alpha$"
+        }
+    ],
+    "answer": "2"
+}

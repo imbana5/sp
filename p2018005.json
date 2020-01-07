@@ -1,0 +1,33 @@
+{
+    "id": "p2018005",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018005"
+    ],
+    "question": "<p>Diketahui gugus bintang Pleiades memiliki anggota sebagai berikut</p>\\[\\begin{array}{|c|c|c|c|}\\hlineTYC2 & RAJ2000 & DEJ2000 & Paralaks\\\\& (jam menit detik) & (^{\\circ} \\hspace{0.5cm}'\\hspace{0.5cm} '') & (mili detik busur)\\\\\\hline1800-1974-1 & 03 46 13,7616 & +24 11 47,623 & 7,56\\\\\\hline1800-1908-1 & 03 46 27,3010 & +24 15 17,326 & 7,74\\\\\\hline1800-1935-1 & 03 47 10,0757 & +24 16 35,278 & 7,15\\\\\\hline1800-1579-1 & 03 47 04,2364 & +23 59 42,092 & 7,13\\\\\\hline1800-2201-1 & 03 47 21,0609 & +24 06 57,888 & 7,88\\\\\\hline1800-1607-1 & 03 47 19,3667 & +24 08 20,157 & 7,64\\\\\\hline\\end{array}\\]<p>Simpangan baku (standar deviasi) jarak bintang-bintang di gugus tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "133,23 pc"
+        },
+        {
+            "value": "1",
+            "label": "155,93 pc"
+        },
+        {
+            "value": "2",
+            "label": "5,58 pc"
+        },
+        {
+            "value": "3",
+            "label": "7,52 pc"
+        },
+        {
+            "value": "4",
+            "label": "0,31 pc"
+        }
+    ],
+    "answer": "2"
+}

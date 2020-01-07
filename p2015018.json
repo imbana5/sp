@@ -1,0 +1,33 @@
+{
+    "id": "p2015018",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015018"
+    ],
+    "question": "<p>Hasil penelitian astronom pada tahun 1998 tentang energi gelap menunjukkan bahwa alam semesta kita sekarang sedang mengalami pengembangan yang diperlambat.</p><p><center>SEBAB</center></p><p>Gaya gravitasi yang selalu bersifat tarik menarik paling mendominasi dalam skala besar.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "4"
+}

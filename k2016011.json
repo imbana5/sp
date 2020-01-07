@@ -1,0 +1,33 @@
+{
+    "id": "k2016011",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016011"
+    ],
+    "question": "<p>Diketahui bahwa gaya $\\overrightarrow{F_1} = (2\\hat{i} + 4\\hat{j})$ N dan gaya $\\overrightarrow{F_2} = (3\\hat{i} + \\hat{j})$ N. Jika kedua gaya tersebut membentuk sudut $45^{\\circ}$, maka besar resultan kedua gaya tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$5 $ N"
+        },
+        {
+            "value": "1",
+            "label": "$5 \\sqrt{2} $ N"
+        },
+        {
+            "value": "2",
+            "label": "$\\sqrt{10} $ N"
+        },
+        {
+            "value": "3",
+            "label": "$2 \\sqrt{5} $ N"
+        },
+        {
+            "value": "4",
+            "label": "$10 \\sqrt{2} $ N"
+        }
+    ],
+    "answer": "1"
+}

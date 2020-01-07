@@ -1,0 +1,33 @@
+{
+    "id": "p2016008",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016008"
+    ],
+    "question": "<p>Diketahui jarak rata-rata Bumi-Bulan adalah 384400 km dan periode orbit Bulan adalah 27,3 hari. Berapakah periode orbit sebuah satelit buatan yang mengitari Bumi pada ketinggian 96000 km jika orbitnya berupa lingkaran?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "3,41 hari"
+        },
+        {
+            "value": "1",
+            "label": "3,76 hari"
+        },
+        {
+            "value": "2",
+            "label": "7,28 hari"
+        },
+        {
+            "value": "3",
+            "label": "10,40 hari"
+        },
+        {
+            "value": "4",
+            "label": "10,70 hari"
+        }
+    ],
+    "answer": "1"
+}

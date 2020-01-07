@@ -1,0 +1,33 @@
+{
+    "id": "p2017006",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017006"
+    ],
+    "question": "<p>Adanya zaman es (\\textit{pleistocene}) di Bumi diyakini para ilmuwan disebabkan secara dominan oleh</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "adanya perubahan dalam luaran energi dari Matahari"
+        },
+        {
+            "value": "1",
+            "label": "tingkat aktivitas gunung berapi yang tinggi menyebabkan <em>outgassing</em> dari CO\\textsubscript{2</em> di atmosfer"
+        },
+        {
+            "value": "2",
+            "label": "pergerakan lempeng benua"
+        },
+        {
+            "value": "3",
+            "label": "presesi sumbu rotasi Bumi dan perubahan kelonjongan orbit Bumi"
+        },
+        {
+            "value": "4",
+            "label": "Bumi ditabrak oleh asteroid raksasa"
+        }
+    ],
+    "answer": "3"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2018006",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018006"
+    ],
+    "question": "<p>Bentuk umum geometri bintang adalah bola. Selain itu, hampir seluruh materi di bintang bertahan, terkumpul, dan tetap terikat dalam bintang. Kesetimbangan terjadi di bintang antara gaya gravitasi ke arah pusat bintang dan tekanan gas (dan tekanan radiasi) ke arah permukaan bintang. Tekanan gas tersebut</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "sama nilainya di seluruh bagian dalam bintang."
+        },
+        {
+            "value": "1",
+            "label": "lebih besar nilainya di permukaan bintang dibandingkan dengan di pusat bintang."
+        },
+        {
+            "value": "2",
+            "label": "lebih kecil nilainya di permukaan bintang dibandingkan dengan di pusat bintang."
+        },
+        {
+            "value": "3",
+            "label": "lebih besar nilainya di arah pandang pengamat dibandingkan dengan di arah luar pandang."
+        },
+        {
+            "value": "4",
+            "label": "lebih kecil nilainya di arah pandang pengamat dibandingkan dengan di arah luar pandang."
+        }
+    ],
+    "answer": "2"
+}

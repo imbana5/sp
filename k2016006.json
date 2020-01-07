@@ -1,0 +1,33 @@
+{
+    "id": "k2016006",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016006"
+    ],
+    "question": "<p>Jarak planet-planet dari Matahari dalam satuan astronomi ternyata mempunyai pola:</p>\\begin{equation*}\\frac{7}{10}, \\frac{10}{10}, \\frac{16}{10}, \\frac{28}{10}, \\frac{52}{10}, \\dots\\end{equation*}<p>Formula jarak $r$ untuk baris bilangan tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$r = 2n + 0,4$ dengan $n = 1, 2, 3, 4, \\dots$"
+        },
+        {
+            "value": "1",
+            "label": "$r = (3n + 2)/10$ dengan $n = 0, 1, 2, 3, \\dots$"
+        },
+        {
+            "value": "2",
+            "label": "$r = (n^2 + 0,4)/10$ dengan $n = 1, 2, 3, 4, \\dots$"
+        },
+        {
+            "value": "3",
+            "label": "$r = (3 \\times 2^n + 4)/10$ dengan $n = 0, 1, 2, 3, \\dots$"
+        },
+        {
+            "value": "4",
+            "label": "$r = (2n + 1) \\times 0,1$ dengan $n = 1, 2, 3, 4, \\dots$"
+        }
+    ],
+    "answer": "3"
+}

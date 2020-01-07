@@ -1,0 +1,33 @@
+{
+    "id": "k2016026",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016026"
+    ],
+    "question": "<p>Kemajuan teknologi di masa kini memberikan harapan bagi manusia untuk migrasi ke planet lain. Anggap di masa depan manusia telah berhasil membuat koloni di Mars. Pernyataan yang benar adalah</p><ol><li>Definisi 1 parsek tetap sebesar 206265 au (atau 206265 sa).</li><li>Peristiwa konjungsi inferior lebih jarang terjadi. </li><li>Terdapat pembagian musim menurut lintang di Mars.</li><li>Tidak ada perubahan musim di Mars.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "1"
+}

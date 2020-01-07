@@ -1,0 +1,33 @@
+{
+    "id": "p2015019",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015019"
+    ],
+    "question": "<p>Materi antar bintang membuat nilai magnitudo bintang yang kita lihat mengecil.</p><p><center>SEBAB</center></p><p>Partikel materi antar bintang menyerap cahaya bintang yang berada di belakangnya.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "3"
+}

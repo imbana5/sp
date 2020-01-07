@@ -1,0 +1,33 @@
+{
+    "id": "k2019009",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019009"
+    ],
+    "question": "<p>Dalam fotometri fotoelektrik Bintang Pollux, laju cacah yang diukur pada tanggal 15:00 UT adalah 175000 cacah per detik dan 350000 cacah per detik pada pukul 16:00 UT. Laju cacah pada pada pukul 15:45 UT berdasarkan interpolasi linier adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "291250 cacah per detik"
+        },
+        {
+            "value": "1",
+            "label": "301250 cacah per detik"
+        },
+        {
+            "value": "2",
+            "label": "361250 cacah per detik"
+        },
+        {
+            "value": "3",
+            "label": "381250 cacah per detik"
+        },
+        {
+            "value": "4",
+            "label": "391250 cacah per detik"
+        }
+    ],
+    "answer": "5"
+}

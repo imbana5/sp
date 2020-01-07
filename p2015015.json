@@ -1,0 +1,33 @@
+{
+    "id": "p2015015",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015015"
+    ],
+    "question": "<p>Sebuah koloni di Mars mengalami peningkatan populasi sehingga kebutuhan komunikasi jarak jauh mutlak dibutuhkan. Untuk itu, NASA meluncurkan satelit komunikasi stasioner terhadap Mars. Seperti satelit geostasioner, satelit tersebut memiliki periode orbit sama dengan periode rotasi planet Mars sehingga satelit berada pada bujur geografis yang tetap. Diukur dari pusat Mars, radius orbit satelit tersebut yang lebih dekat pada nilai yang benar adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "16000 km"
+        },
+        {
+            "value": "1",
+            "label": "16600 km"
+        },
+        {
+            "value": "2",
+            "label": "18000 km"
+        },
+        {
+            "value": "3",
+            "label": "20000 km"
+        },
+        {
+            "value": "4",
+            "label": "22000 km"
+        }
+    ],
+    "answer": "3"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2019008",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019008"
+    ],
+    "question": "<p>Andaikan kamu berada di Merkurius yang berjarak 0,39 sa ke Matahari. Pilihlah pernyataan yang benar mengenai kecerlangan Matahari.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Fluks Matahari di Bumi lebih lemah 1,64 kali daripada di Merkurius"
+        },
+        {
+            "value": "1",
+            "label": "Fluks Matahari di Merkurius lebih terang 6,57 kali daripada di Bumi"
+        },
+        {
+            "value": "2",
+            "label": "Fluks Matahari di Merkurius lebih terang 2,56 kali daripada di Bumi"
+        },
+        {
+            "value": "3",
+            "label": "Fluks Matahari di Bumi lebih lemah 0,61 kali daripada di Merkurius"
+        },
+        {
+            "value": "4",
+            "label": "Fluks Matahari di Merkurius lebih terang 0,39 kali daripada di Bumi"
+        }
+    ],
+    "answer": "1"
+}

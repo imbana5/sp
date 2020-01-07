@@ -1,0 +1,33 @@
+{
+    "id": "k2016018",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016018"
+    ],
+    "question": "<p>Planet Jupiter mengelilingi Matahari dengan periode 11,86 tahun. Jika jarak Matahari-Jupiter adalah 5,2 sa, Jupiter mengalami percepatan sentripetal sebesar</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$12,9 \\times 10^{-4}$ m/s$^2$"
+        },
+        {
+            "value": "1",
+            "label": "$9,21 \\times 10^{-3}$ m/s$^2$"
+        },
+        {
+            "value": "2",
+            "label": "$0,29 \\times 10^{-5}$ m/s$^2$"
+        },
+        {
+            "value": "3",
+            "label": "$21,9 \\times 10^{-2}$ m/s$^2$"
+        },
+        {
+            "value": "4",
+            "label": "$2,19 \\times 10^{-4}$ m/s$^2$"
+        }
+    ],
+    "answer": "4"
+}

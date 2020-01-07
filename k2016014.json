@@ -1,0 +1,33 @@
+{
+    "id": "k2016014",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016014"
+    ],
+    "question": "<p>Untuk lepas dari tarikan gravitasi, sebuah benda harus memiliki energi kinetik yang sama besar dengan energi potensial gravitasinya. Berapakah kecepatan minimum pesawat luar angkasa untuk lepas dari gravitasi Bumi jika diluncurkan dari ISS (\\textit{lnternational Space Station}) yang mengorbit Bumi pada ketinggian 414 km?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "10,8 km/s"
+        },
+        {
+            "value": "1",
+            "label": "11,2 km/s"
+        },
+        {
+            "value": "2",
+            "label": "12,6 km/s"
+        },
+        {
+            "value": "3",
+            "label": "22,0 km/s"
+        },
+        {
+            "value": "4",
+            "label": "29,7 km/s"
+        }
+    ],
+    "answer": "0"
+}

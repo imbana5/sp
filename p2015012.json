@@ -1,0 +1,33 @@
+{
+    "id": "p2015012",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015012"
+    ],
+    "question": "<p>Kelompok siswa di Yogyakarta (BT 110,24; LS 7,48) merencanakan mengamati <em>Milky Way}. Kelompok siswa tersebut memperoleh informasi posisi koordinat ekuatorial (saat pengamatan) asensiorekta dan deklinasi arah pusat Galaksi $17^h45^m37,224^s$ dan $-28^{\\circ}56'10,23''$. Bila pengamatan dilakukan malam hari tanggal 20 Mei maka diharapkan kelompok siswa tersebut akan mengamati pusat Galaksi berkulminasi atas pada jam</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1 jam 37 m setelah jam 24:00 WIB"
+        },
+        {
+            "value": "1",
+            "label": "1 jam 37 m sebelum jam 24:00 WIB"
+        },
+        {
+            "value": "2",
+            "label": "tepat jam 24:00 WIB"
+        },
+        {
+            "value": "3",
+            "label": "2 jam 46 menit sebelum jam 24:00 WIB"
+        },
+        {
+            "value": "4",
+            "label": "2 jam 46 menit setelah jam 24:00 WIB"
+        }
+    ],
+    "answer": "0"
+}

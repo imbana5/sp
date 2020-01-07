@@ -1,0 +1,33 @@
+{
+    "id": "p2016014",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016014"
+    ],
+    "question": "<p>Bulan mengorbit Bumi, sedangkan asteroid mengorbit Matahari.</p><p><center>SEBAB</center></p><p>Ukuran asteroid lebih kecil daripada Bulan.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "1"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "p2019003",
+    "level": "p",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "p2019003"
+    ],
+    "question": "<p>Sebuah bintang berada pada tahap akhir evolusinya, yaitu pada fase pembakaran unsur berat di pusatnya. Massa dan kerapatan massa rata-rata pusat bintang masing-masing adalah 1,4 \\Msun{} dan $10^{12}$ kg/m$^3$. Diketahui pusat bintang yang mengandung inti besi lembam ini runtuh menjadi pusat yang beradius 10 km. Energi total (dalam satuan Joule) yang akan dilepaskan dari suatu ledakan supernova yang berasal dari perubahan energi potensial gravitasi adalah dalam orde</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "\\item $10^{44}$"
+        },
+        {
+            "value": "1",
+            "label": "\\item $10^{46}$"
+        },
+        {
+            "value": "2",
+            "label": "\\item $10^{48}$"
+        },
+        {
+            "value": "3",
+            "label": "\\item $10^{50}$"
+        },
+        {
+            "value": "4",
+            "label": "\\item $10^{52}$"
+        }
+    ],
+    "answer": "1"
+}

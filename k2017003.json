@@ -1,0 +1,33 @@
+{
+    "id": "k2017003",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017003"
+    ],
+    "question": "<p>Sebuah satelit mengorbit planet Mars. Ketinggian satelit ini diatur sehingga periode orbitnya sama dengan periode rotasi Mars. Ketinggian satelit tersebut dari permukaan Mars adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "16999 km"
+        },
+        {
+            "value": "1",
+            "label": "20392 km"
+        },
+        {
+            "value": "2",
+            "label": "27981 km"
+        },
+        {
+            "value": "3",
+            "label": "36999 km"
+        },
+        {
+            "value": "4",
+            "label": "42959 km"
+        }
+    ],
+    "answer": "0"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2016015",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016015"
+    ],
+    "question": "<p>Teleskop Zeiss merupakan teleskop optik terbesar di Observatorium Bosscha. Diameter lensa utamanya adalah 60 cm dan panjang fokusnya 10,78 m. Teleskop tersebut dapat membuat benda langit tampak lebih terang dibandingkan pengamatan dengan mata telanjang. Bila diameter pupil mata adalah 7 mm, maka perbandingan kecerlangan benda langit dengan dan tanpa menggunakan teleskop adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "5200 : 1"
+        },
+        {
+            "value": "1",
+            "label": "6700 : 1"
+        },
+        {
+            "value": "2",
+            "label": "6900 : 1"
+        },
+        {
+            "value": "3",
+            "label": "7100 : 1"
+        },
+        {
+            "value": "4",
+            "label": "7300 : 1"
+        }
+    ],
+    "answer": "4"
+}

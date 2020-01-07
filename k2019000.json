@@ -1,0 +1,33 @@
+{
+    "id": "k2019000",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019000"
+    ],
+    "question": "<p>Bagi pengamat di dekat ekuator, kedudukan titik Aries tertinggi saat Matahari terbenam akan berlangsung pada</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "21 Maret"
+        },
+        {
+            "value": "1",
+            "label": "21 Juni"
+        },
+        {
+            "value": "2",
+            "label": "22 Desember"
+        },
+        {
+            "value": "3",
+            "label": "21 Juni"
+        },
+        {
+            "value": "4",
+            "label": "23 September"
+        }
+    ],
+    "answer": "2"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2016003",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016003"
+    ],
+    "question": "<p>Sebuah sensor kamera berbentuk persegi panjang dengan luas sebesar 130 cm$^{2}$. Jika panjang sensor kamera tersebut 7 cm lebih pendek dari dua kali lebarnya, maka lebarnya adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "6,0 cm"
+        },
+        {
+            "value": "1",
+            "label": "6,5 cm"
+        },
+        {
+            "value": "2",
+            "label": "10,0 cm"
+        },
+        {
+            "value": "3",
+            "label": "12,0 cm"
+        },
+        {
+            "value": "4",
+            "label": "15,0 cm"
+        }
+    ],
+    "answer": "2"
+}

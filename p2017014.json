@@ -1,0 +1,33 @@
+{
+    "id": "p2017014",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017014"
+    ],
+    "question": "<p>Warna galaksi spiral lebih biru daripada warna galaksi elips.</p><p><center>SEBAB</center></p><p>Adanya garis-garis emisi dalam spektrum galaksi spiral menandakan terjadinya pembentukan bintang-bintang.\\\\</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "1"
+}

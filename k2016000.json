@@ -1,0 +1,33 @@
+{
+    "id": "k2016000",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016000"
+    ],
+    "question": "<p>Assume that Earth revolves around the Sun with a circular orbit and its distance is 1 au. The equation which describes Earth's position in cartesian coordinates relative to the Sun is</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$y=x$"
+        },
+        {
+            "value": "1",
+            "label": "$y=1-x$"
+        },
+        {
+            "value": "2",
+            "label": "$y=1+x^2$"
+        },
+        {
+            "value": "3",
+            "label": "$y^2=1-x^2$"
+        },
+        {
+            "value": "4",
+            "label": "$(x-1)^{2} + (y-1)^{2} = 1$"
+        }
+    ],
+    "answer": "3"
+}

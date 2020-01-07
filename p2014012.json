@@ -1,0 +1,33 @@
+{
+    "id": "p2014012",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014012"
+    ],
+    "question": "<p>Venus adalah planet kedua terdekat dari Matahari setelah Merkurius, tetapi temperatur rata-rata permukaannya lebih tinggi dibandingkan dengan Merkurius. Hal ini disebabkan oleh</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "bombardir meteor yang menerus di permukaan Venus"
+        },
+        {
+            "value": "1",
+            "label": "albedo Venus yang sama dengan Merkurius yakni 0,75"
+        },
+        {
+            "value": "2",
+            "label": "$CO_{2}$ pada atmosfer Venus memberikan efek rumah kaca"
+        },
+        {
+            "value": "3",
+            "label": "kerapatan Venus sama dengan kerapatan Bumi yakni 5300 kg/m$^3$"
+        },
+        {
+            "value": "4",
+            "label": "ukuran Venus lebih besar daripada ukuran Merkurius"
+        }
+    ],
+    "answer": "2"
+}

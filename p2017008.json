@@ -1,0 +1,33 @@
+{
+    "id": "p2017008",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017008"
+    ],
+    "question": "<p>Foton dengan panjang gelombang datang sebesar 0,2\\AA~mengalami kehilangan energi. Panjang gelombang foton setelah kehilangan 73% energi adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$9,9\\times 10^{-11}$ m"
+        },
+        {
+            "value": "1",
+            "label": "$7,4\\times 10^{-11}$ m"
+        },
+        {
+            "value": "2",
+            "label": "$6,5\\times 10^{-11}$ m"
+        },
+        {
+            "value": "3",
+            "label": "$3,4\\times 10^{-11}$ m"
+        },
+        {
+            "value": "4",
+            "label": "$2,0\\times 10^{-11}$ m"
+        }
+    ],
+    "answer": "1"
+}

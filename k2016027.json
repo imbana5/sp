@@ -1,0 +1,33 @@
+{
+    "id": "k2016027",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016027"
+    ],
+    "question": "<p>Berikut ini merupakan pernyataan-pernyataan mengenai gerhana. Pernyataan yang benar adalah</p><ol><li>Gerhana Matahari Total hanya dapat diamati pada ruang lingkup yang sempit di Bumi.</li><li>Gerhana Matahari dan gerhana Bulan dapat dilihat di seluruh permukaan Bumi.</li><li>Gerhana Bulan dapat diamati di hampir seluruh wilayah malam di Bumi.</li><li>Gerhana Matahari lebih jarang terjadi dibanding gerhana Bulan.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "1"
+}

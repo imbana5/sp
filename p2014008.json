@@ -1,0 +1,33 @@
+{
+    "id": "p2014008",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014008"
+    ],
+    "question": "<p>Sebuah satelit dengan massa 1000 kg bergerak dalam orbit lingkaran pada ketinggian 400 km dari permukaan Bumi. Kecepatan linear satelit tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "7,67 km/s"
+        },
+        {
+            "value": "1",
+            "label": "7,90 km/s"
+        },
+        {
+            "value": "2",
+            "label": "10,84 km/s"
+        },
+        {
+            "value": "3",
+            "label": "11,20 km/s"
+        },
+        {
+            "value": "4",
+            "label": "31,56 km/s"
+        }
+    ],
+    "answer": "0"
+}

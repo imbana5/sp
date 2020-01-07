@@ -1,0 +1,33 @@
+{
+    "id": "p2018001",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018001"
+    ],
+    "question": "<p>Sebuah bintang, yang mempunyai massa 10$M_{\\odot}$, radius 10$R_{\\odot}$, dan periode rotasi 3 bulan, mengalami keruntuhan menjadi suatu bintang neutron dengan radius 10 km. Asumsikan bintang berbentuk bola. Kecepatan rotasi bintang neutron yang terbentuk adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$3,5\\times 10^3$ km/detik"
+        },
+        {
+            "value": "1",
+            "label": "$1,9\\times 10^{15}$ km/detik"
+        },
+        {
+            "value": "2",
+            "label": "$3,8\\times 10^{17}$ km/detik"
+        },
+        {
+            "value": "3",
+            "label": "$1,6\\times 10^7$ km/detik"
+        },
+        {
+            "value": "4",
+            "label": "$3,9\\times 10^6$ km/detik"
+        }
+    ],
+    "answer": "4"
+}

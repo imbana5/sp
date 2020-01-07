@@ -1,0 +1,33 @@
+{
+    "id": "p2019000",
+    "level": "p",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "p2019000"
+    ],
+    "question": "<p>Claudius Ptolomeus adalah seorang ilmuwan Yunani yang mengajukan model alam semesta yang dikenal dengan model Geosentris. Dari pernyataan berikut ini, pilihlah jawaban yang SALAH menurut model Ptolomeus</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Bintang-bintang tidak bergerak"
+        },
+        {
+            "value": "1",
+            "label": "Bumi tidak berada di pusat orbit lingkaran planet"
+        },
+        {
+            "value": "2",
+            "label": "Untuk menjelaskan gerak berbalik planet (\\textit{retrograde motion}), ditambahkan lingkaran-lingkaran kecil pada setiap orbit planet"
+        },
+        {
+            "value": "3",
+            "label": "Bumi dianggap diam"
+        },
+        {
+            "value": "4",
+            "label": "Planet bergerak dengan laju tetap"
+        }
+    ],
+    "answer": "5"
+}

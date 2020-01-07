@@ -1,0 +1,33 @@
+{
+    "id": "k2017006",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017006"
+    ],
+    "question": "<p>Sebuah panel surya dengan efisiensi 20% dan luas 10 m$^2$ terpapar sinar Matahari selama 1 menit. Daya yang dihasilkan panel surya seluruhnya akan digunakan untuk menyalakan beberapa lampu dengan masing-masing lampu memiliki daya 5 Watt. Jika diasumsikan bahwa foton yang tiba pada panel surya tidak mengalami absorpsi oleh materi di Tata Surya maupun oleh atmosfer Bumi, dan tidak ada daya yang hilang dari panel surya ke lampu, maka jumlah lampu 5 Watt yang dapat ditenagai oleh panel surya tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "33793 lampu"
+        },
+        {
+            "value": "1",
+            "label": "135174 lampu"
+        },
+        {
+            "value": "2",
+            "label": "55 lampu"
+        },
+        {
+            "value": "3",
+            "label": "13793 lampu"
+        },
+        {
+            "value": "4",
+            "label": "67587 lampu"
+        }
+    ],
+    "answer": "5"
+}

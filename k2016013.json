@@ -1,0 +1,33 @@
+{
+    "id": "k2016013",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016013"
+    ],
+    "question": "<p>Terdapat asteroid A dan B dengan massa asteroid A dua kali lebih besar dari B. Awalnya asteroid A dalam keadaan diam dan asteroid B bergerak menuju asteroid A dengan kecepatan 2 km/s. Setelah tumbukan asteroid A bergerak 1/5 kali kecepatan awal asteroid B. Kecepatan asteroid B setelah tumbukan adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1,9 km/s"
+        },
+        {
+            "value": "1",
+            "label": "720 km/jam"
+        },
+        {
+            "value": "2",
+            "label": "900 m/s"
+        },
+        {
+            "value": "3",
+            "label": "4320 km/jam"
+        },
+        {
+            "value": "4",
+            "label": "Tidak dapat ditentukan dengan informasi yang diberikan"
+        }
+    ],
+    "answer": "3"
+}

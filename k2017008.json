@@ -1,0 +1,33 @@
+{
+    "id": "k2017008",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017008"
+    ],
+    "question": "<p>Sebuah kereta maglev (\\textit{magnetic levitation train}) bermassa 70 ton digunakan untuk transportasi koloni di Mars sepanjang Amazonis Planitia yang terbentang sekitar 1183 km. Jika percepatan gravitasi Mars $g_{Mars} = 3,73$ m s$^{-2}$, arus yang digunakan sebesar 700000 Ampere, maka kuat medan magnet minimum yang diperlukan agar kereta tersebut tetap terapung sepanjang perjalanan adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$8,23 \\times 10^{-5}$ T"
+        },
+        {
+            "value": "1",
+            "label": "$4,72 \\times 10^{-6}$ T"
+        },
+        {
+            "value": "2",
+            "label": "$3,16 \\times 10^{-7}$ T"
+        },
+        {
+            "value": "3",
+            "label": "$5,35 \\times 10^{-8}$ T"
+        },
+        {
+            "value": "4",
+            "label": "$7,48 \\times 10^{-9}$ T"
+        }
+    ],
+    "answer": "5"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "p2014013",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014013"
+    ],
+    "question": "<p>Pesawat rover Pathfinder yang diluncurkan oleh Amerika melakukan pemotretan di permukaan planet Mars, dengan perintah yang dikirim dari Bumi melalui gelombang radio. Perintah diberikan pada pukul 23:05 saat oposisi Mars. Jika proses menerima perintah, mengarahkan kamera, memotret lalu mengirimkan datanya ke Bumi membutuhkan waktu 7 menit, pada pukul berapa stasiun pengendali di Amerika menerima fotonya? Anggap Bumi dan Mars mengelilingi Matahari dalam orbit lingkaran.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "23:09"
+        },
+        {
+            "value": "1",
+            "label": "23:12"
+        },
+        {
+            "value": "2",
+            "label": "23:16"
+        },
+        {
+            "value": "3",
+            "label": "23:20"
+        },
+        {
+            "value": "4",
+            "label": "23:25"
+        }
+    ],
+    "answer": "3"
+}

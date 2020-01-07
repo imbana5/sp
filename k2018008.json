@@ -1,0 +1,33 @@
+{
+    "id": "k2018008",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018008"
+    ],
+    "question": "<p>Dua buah bintang, A dan B, dengan massa masing-masing 1 $M_{\\odot}$ dan 9 $M_{\\odot}$ terpisah sejauh 10 au. Resultan gaya gravitasi dari A dan B adalah nol di titik C. Jarak dari B ke C adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "9 au"
+        },
+        {
+            "value": "1",
+            "label": "3 au"
+        },
+        {
+            "value": "2",
+            "label": "20 au"
+        },
+        {
+            "value": "3",
+            "label": "5 au"
+        },
+        {
+            "value": "4",
+            "label": "10 au"
+        }
+    ],
+    "answer": "5"
+}

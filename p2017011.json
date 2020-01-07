@@ -1,0 +1,33 @@
+{
+    "id": "p2017011",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017011"
+    ],
+    "question": "<p>Pada bulan Februari tahun 2017, tim astronomi internasional menemukan tujuh eksoplanet yang mengelilingi sebuah bintang bernama TRAPPIST-1. Bintang bermassa $0,080 M_{\\odot}$ ini memiliki jarak 39 tahun cahaya dari sistem Tata Surya. Tiga dari tujuh planetnya berada pada HZ (lihat soal 10) dan memiliki periode orbit berturut-turut 1,5, 2,5, dan 4 hari. Asumsikan orbit planet-planet tersebut berbentuk lingkaran dengan Bintang TRAPPIST-1 berada di pusatnya. Manakah pernyataan yang benar?</p><ol><li>Jarak planet terdekat pertama ke Bintang TRAPPIST-1 adalah 0,026 au.</li><li>Jarak planet terdekat kedua ke Bintang TRAPPIST-1 adalah 0,084 au.</li><li>Sudut paralaks Bintang TRAPPIST-1 dari planetnya adalah 0,08 detik busur.</li><li>Periode sinodis antara planet pertama dan ketiga adalah 2,4 hari.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "3"
+}

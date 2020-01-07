@@ -1,0 +1,33 @@
+{
+    "id": "p2016010",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016010"
+    ],
+    "question": "<p>Konstanta Hubble $H_0$ menyatakan laju pengembangan alam semesta saat ini. Karena kesalahan dalam penentuan jarak beberapa galaksi yang digunakannya, Edwin Hubble mendapatkan nilai sekitar 500 km/s/Mpc untuk $H_0$. Nilai yang diterima sekarang oleh para astronom berdasarkan berbagai pengukuran adalah 70 km/s/Mpc. Manakah pernyataan-pernyataan yang benar di bawah ini?</p><ol><li>Laju pengembangan alam semesta menurut Hubble lebih cepat daripada seharusnya</li><li>Jarak galaksi-galaksi yang digunakan Hubble lebih jauh daripada seharusnya</li><li>Umur alam semesta menurut Hubble lebih muda daripada umur sebenarnya</li><li>Jika sejak \\textit{Big Bang} alam semesta mengembang dengan laju konstan $H_0$, maka menurut Hubble ukuran alam semesta saat ini kurang lebih sepertujuh dari nilai yang diterima sekarang</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "1"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2017014",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017014"
+    ],
+    "question": "<p>Seorang astronom mengadakan suatu eksperimen identik pada sebuah bandul di Bumi dan Bulan. Ayunan bandul tersebut akan lebih cepat saat diayunkan di Bulan daripada saat diayunkan di Bumi.</p><p><center>SEBAB</center></p><p>Di Bulan tidak ada udara yang menghambat pergerakan bandul.\\\\</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "3"
+}

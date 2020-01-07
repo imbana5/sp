@@ -1,0 +1,33 @@
+{
+    "id": "p2018009",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018009"
+    ],
+    "question": "<p>Stellar mass determines stellar evolution. Scientists classify stellar mass into three categories, i.e. low mass stars, intermediate-mass stars, and high-mass stars. Choose the right statement(s) below that corresponds to the evolution of single stars.</p><ol><li>High-mass stars have short lives, becoming hot enough to make iron, and end in nova explosions.</li><li>Stars of higher mass have higher core temperature and more rapid fusion, making those stars more luminous.</li><li>Low-mass stars have long lives, becoming hot enough to fuse carbon nuclei, and end as white dwarfs.</li><li>Intermediate-mass stars can make elements heavier than carbon and end as white dwarfs.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "2"
+}

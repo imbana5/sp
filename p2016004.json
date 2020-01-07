@@ -1,0 +1,33 @@
+{
+    "id": "p2016004",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016004"
+    ],
+    "question": "<p>Di antara lima pernyataan berikut, manakah pernyataan yang benar?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Urutan garis spektrum dalam kemunculam mereka pada bintang-bintang dengan menurunnya temperatur adalah: garis hidrogen yang sangat kuat, garis helium terionisasi, garis helium netral, garis logam netral, metal terionisasi, pita molekul titanium oksida"
+        },
+        {
+            "value": "1",
+            "label": "Periode bintang ganda visual selalu lebih pendek daripada periode bintang ganda spektroskopi"
+        },
+        {
+            "value": "2",
+            "label": "Bintang Sirius adalah bintang paling terang di langit, berarti ia merupakan bintang paling dekat dengan kita"
+        },
+        {
+            "value": "3",
+            "label": "Bintang Alpha Centauri adalah bintang paling dekat dengan kita, berarti ia merupakan bintang paling terang di langit"
+        },
+        {
+            "value": "4",
+            "label": "Sifat paling dasar dari bintang yang menentukan lokasinya di deret utama adalah massanya"
+        }
+    ],
+    "answer": "4"
+}

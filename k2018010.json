@@ -1,0 +1,33 @@
+{
+    "id": "k2018010",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018010"
+    ],
+    "question": "<p>Penentuan temperatur bintang yang benar adalah dengan cara</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "mengukur terang semu bintang dan membuat diagram Hertzprung Russel untuk menentukan temperatur bintang"
+        },
+        {
+            "value": "1",
+            "label": "mengukur indeks warna bintang dengan filter biru dan visual, dan menggunakan Hukum Wien untuk menentukan temperatur dari indeks warna"
+        },
+        {
+            "value": "2",
+            "label": "untuk bintang yang dekat, mengukur paralaks dan menentukan jarak. Hubungkan jarak ini dengan temperatur."
+        },
+        {
+            "value": "3",
+            "label": "untuk beberapa bintang yang besar, mengukur diameternya dan menetapkan temperatur"
+        },
+        {
+            "value": "4",
+            "label": "mengukur gerak bintang dalam sistem bintang ganda dan menggunakan Hukum Kepler untuk menentukan temperatur dari orbit bintang"
+        }
+    ],
+    "answer": "1"
+}

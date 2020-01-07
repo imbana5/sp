@@ -1,0 +1,33 @@
+{
+    "id": "p2017009",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017009"
+    ],
+    "question": "<p>Tabel berikut adalah data untuk Bintang GI 581 yang memiliki sistem keplanetan</p>\\[\\caption*{Data GI 581}\\begin{array}{|c|c|c|c|}\\hlineKelas spektrum & Magnitudo visual & Magnitudo mutlak bolometrik & Jarak ke Bumi \\\\\\hlineM3 & 10,55 & 9,58 & 6,21 pc \\\\\\hline\\end{array}\\]<p>Beberapa planet di antaranya ditemukan berada pada zona yang dapat dihuni (\\textit{habitable zone}, <em>HZ}) dari bintang. <em>Habitable zone</em> adalah zona seputar bintang dengan tekanan atmosfer sedemikian rupa sehingga dapat ditemukan air berwujud cair di permukaan planet. Rumus empirik untuk batas dalam dan batas luar masing-masing adalah</p>\\begin{eqnarray*}HZ_{in} &=& 0,95\\sqrt{\\frac{L_*}{L_{\\odot}}} \\quad \\text{au} \\\\HZ_{out} &=& 1,37\\sqrt{\\frac{L_*}{L_{\\odot}}} \\quad \\text{au}\\end{eqnarray*}<p>dengan $L_*$ dan $L_{\\odot}$ adalah luminositas bintang dan Matahari. Nilai batas dalam dan batas luar untuk GI 581 dalam satuan au masing-masing adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "0,1 dan 0,14"
+        },
+        {
+            "value": "1",
+            "label": "0,044 dan 0,095"
+        },
+        {
+            "value": "2",
+            "label": "0,054 dan 0,078"
+        },
+        {
+            "value": "3",
+            "label": "0,09 dan 0,20"
+        },
+        {
+            "value": "4",
+            "label": "0,95 dan 1,15"
+        }
+    ],
+    "answer": "0"
+}

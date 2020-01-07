@@ -1,0 +1,33 @@
+{
+    "id": "k2019003",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019003"
+    ],
+    "question": "<p>Assuming constant luminosity of the Sun for about 10 billion years since zero age main sequence, the percentage of the solar mass which was converted to energy through fusion reaction in its core during that time is</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$0,02$ %"
+        },
+        {
+            "value": "1",
+            "label": "$0,20$ %"
+        },
+        {
+            "value": "2",
+            "label": "$0,07$ %"
+        },
+        {
+            "value": "3",
+            "label": "$0,70$ %"
+        },
+        {
+            "value": "4",
+            "label": "$0,34$ %"
+        }
+    ],
+    "answer": "2"
+}

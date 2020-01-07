@@ -1,0 +1,33 @@
+{
+    "id": "k2016004",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016004"
+    ],
+    "question": "<p>Hipparchus menentukan magnitudo bintang sebagai skala logaritmik untuk menggambarkan terang bintang relatif terhadap bintang lainnya. Magnitudo bintang dapat ditentukan menggunakan rumus</p>\\begin{equation*}m = -2,5 \\log{E} + C\\end{equation*}<p>dengan $m$, $E$, dan $C$ masing-masing adalah magnitudo bintang, fluks energi bintang yang diterima di Bumi, dan tetapan. Nilai $E$ pada bintang A dan bintang B masing-masing adalah $E = 3 \\times 10^{-5}$ J/s/m$^2$ dan $E = 7 \\times 10^{-7}$ J/s/m$^2$. Jika bintang A mempunyai magnitudo 4, maka magnitudo bintang B adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "0"
+        },
+        {
+            "value": "1",
+            "label": "6"
+        },
+        {
+            "value": "2",
+            "label": "8"
+        },
+        {
+            "value": "3",
+            "label": "9"
+        },
+        {
+            "value": "4",
+            "label": "15"
+        }
+    ],
+    "answer": "2"
+}

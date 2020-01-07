@@ -1,0 +1,33 @@
+{
+    "id": "k2018007",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018007"
+    ],
+    "question": "<p>Pengamatan satu periode dari titik musim semi (\\textit{vernal equinox}) ke titik musim semi terdekat berikutnya yang disebut panjang tahun tropis, menunjukkan besaran yang tidak konstan selama 365,242199 hari. Panjang tahun tropis bervariasi di sekitar angka tersebut. Salah satu penyebab hal itu terjadi adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "gerak presesi Bumi."
+        },
+        {
+            "value": "1",
+            "label": "gerak nutasi Bumi."
+        },
+        {
+            "value": "2",
+            "label": "gerak diri bintang polar."
+        },
+        {
+            "value": "3",
+            "label": "ekspansi alam semesta."
+        },
+        {
+            "value": "4",
+            "label": "jawaban A, B, C, dan D salah."
+        }
+    ],
+    "answer": "1"
+}

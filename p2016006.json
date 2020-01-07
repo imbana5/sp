@@ -1,0 +1,33 @@
+{
+    "id": "p2016006",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016006"
+    ],
+    "question": "<p>Rasi bintang zodiak yang dapat diamati pada saat bersamaan dengan peristiwa Gerhana Matahari Total 2016 di Indonesia, adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pisces"
+        },
+        {
+            "value": "1",
+            "label": "Gemini"
+        },
+        {
+            "value": "2",
+            "label": "Virgo"
+        },
+        {
+            "value": "3",
+            "label": "Orion"
+        },
+        {
+            "value": "4",
+            "label": "Canis"
+        }
+    ],
+    "answer": "0"
+}

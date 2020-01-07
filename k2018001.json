@@ -1,0 +1,33 @@
+{
+    "id": "k2018001",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018001"
+    ],
+    "question": "<p>Terdapat 28 bintang dalam suatu daerah berbentuk segitiga yang dibatasi oleh tiga titik: $A$(2 pc, 0, 0), $B$(0, 4 pc, 0), dan $C$(0, 0, 6 pc). Jumlah bintang per pc$^2$ daerah tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1"
+        },
+        {
+            "value": "1",
+            "label": "2"
+        },
+        {
+            "value": "2",
+            "label": "$\\frac{28}{35} \\sqrt{7}$"
+        },
+        {
+            "value": "3",
+            "label": "$\\frac{28}{\\sqrt{235}}$"
+        },
+        {
+            "value": "4",
+            "label": "Tidak ada yang benar"
+        }
+    ],
+    "answer": "1"
+}

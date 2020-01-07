@@ -1,0 +1,33 @@
+{
+    "id": "p2014007",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014007"
+    ],
+    "question": "<p>Jika Matahari berada pada jarak 4,37 tahun cahaya, apakah Matahari masih dapat kita amati tanpa alat bantu teleskop</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Tidak, karena jarak Matahari terlalu jauh dari Bumi sehingga sulit diamati hanya dengan mata telanjang"
+        },
+        {
+            "value": "1",
+            "label": "Ya, karena jarak tidak mempengaruhi seberapa besar fluks energi Matahari yang diterima di Bumi"
+        },
+        {
+            "value": "2",
+            "label": "Tidak, karena luminositas Matahari menjadi jauh lebih kecil dibandingkan ketika berada lebih dekat dengan Bumi"
+        },
+        {
+            "value": "3",
+            "label": "Ya, karena magnitudo semunya masih dalam rentang pengamatan mata manusia"
+        },
+        {
+            "value": "4",
+            "label": "Belum bisa diketahui, bergantung temperatur Matahari ketika berada pada jarak yang lebih jauh"
+        }
+    ],
+    "answer": "3"
+}

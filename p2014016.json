@@ -1,0 +1,33 @@
+{
+    "id": "p2014016",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014016"
+    ],
+    "question": "<p>Pilih mana yang BENAR</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Panjang gelombang dari garis emisi yang dihasilkan oleh sebuah elemen berbeda dari panjang gelombang garis absorpsi yang dihasilkan oleh elemen yang sama."
+        },
+        {
+            "value": "1",
+            "label": "Energi foton berbanding terbalik dengan panjang gelombang radiasinya."
+        },
+        {
+            "value": "2",
+            "label": "Energi foton berbanding lurus dengan panjang gelombang radiasinya."
+        },
+        {
+            "value": "3",
+            "label": "Garis spektrum hidrogen relatif lemah pada Matahari karena Matahari mengandung hidrogen yang lebih sedikit."
+        },
+        {
+            "value": "4",
+            "label": "Garis Fraunhofer adalah garis emisi dalam spektrum Matahari."
+        }
+    ],
+    "answer": "1"
+}

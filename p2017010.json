@@ -1,0 +1,33 @@
+{
+    "id": "p2017010",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017010"
+    ],
+    "question": "<p>Daya pisah (\\textit{resolution}) suatu teleskop dengan bukaan $D$ dan panjang fokus $f$ dapat ditingkatkan dengan cara</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "mengecilkan diameter teleskop"
+        },
+        {
+            "value": "1",
+            "label": "mengamati objek pada panjang gelombang yang lebih pendek"
+        },
+        {
+            "value": "2",
+            "label": "mengamati objek pada panjang gelombang yang lebih panjang"
+        },
+        {
+            "value": "3",
+            "label": "menambah panjang fokus"
+        },
+        {
+            "value": "4",
+            "label": "memperpendek panjang fokus"
+        }
+    ],
+    "answer": "1"
+}

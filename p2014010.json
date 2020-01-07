@@ -1,0 +1,33 @@
+{
+    "id": "p2014010",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014010"
+    ],
+    "question": "<p>Dua bintang berjejari sama masing-masing mempunyai temperatur 6000 K dan 5000 K. Energi yang dihasilkan oleh bintang yang temperaturnya lebih tinggi adalah ... kali lebih besar dari bintang yang temperaturnya lebih rendah.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1,2"
+        },
+        {
+            "value": "1",
+            "label": "1,4"
+        },
+        {
+            "value": "2",
+            "label": "1,6"
+        },
+        {
+            "value": "3",
+            "label": "1,8"
+        },
+        {
+            "value": "4",
+            "label": "2,1"
+        }
+    ],
+    "answer": "4"
+}

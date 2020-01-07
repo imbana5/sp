@@ -1,0 +1,33 @@
+{
+    "id": "k2016012",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016012"
+    ],
+    "question": "<p>Diketahui massa dan radius planet Neptunus masing-masing adalah $1,024 \\times 10^{26}$ kg dan $2,462 \\times 10^7$ m. Berapa berat sebuah objek di planet Neptunus jika diketahui massanya di Bulan adalah sebesar 930 kg?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "10478 N"
+        },
+        {
+            "value": "1",
+            "label": "1048 N"
+        },
+        {
+            "value": "2",
+            "label": "105 N"
+        },
+        {
+            "value": "3",
+            "label": "6341 N"
+        },
+        {
+            "value": "4",
+            "label": "63409 N"
+        }
+    ],
+    "answer": "0"
+}

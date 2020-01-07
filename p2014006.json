@@ -1,0 +1,33 @@
+{
+    "id": "p2014006",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014006"
+    ],
+    "question": "<p>Komposisi atom di fotosfer Matahari dapat dipelajari dengan</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "mengamati jumlah bintik Matahari"
+        },
+        {
+            "value": "1",
+            "label": "menerapkan hukum pergeseran Wien dalam spektrum Matahari"
+        },
+        {
+            "value": "2",
+            "label": "menelaah garis absorpsi spektrum Matahari"
+        },
+        {
+            "value": "3",
+            "label": "mengamati Korona pada saat terjadinya Gerhana Matahari Total"
+        },
+        {
+            "value": "4",
+            "label": "mengamati siklus Matahari terus menerus"
+        }
+    ],
+    "answer": "2"
+}

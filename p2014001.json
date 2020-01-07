@@ -1,0 +1,33 @@
+{
+    "id": "p2014001",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014001"
+    ],
+    "question": "<p>Secara spektroskopi, astronom mendeteksi kehadiran medan magnet pada objek-objek astronomi melalui</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "efek Zeeman"
+        },
+        {
+            "value": "1",
+            "label": "terowongan kuantum"
+        },
+        {
+            "value": "2",
+            "label": "keberadaan garis-garis Balmer"
+        },
+        {
+            "value": "3",
+            "label": "efek polarisasi"
+        },
+        {
+            "value": "4",
+            "label": "bentuk kurva benda hitam"
+        }
+    ],
+    "answer": "0"
+}

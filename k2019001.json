@@ -1,0 +1,33 @@
+{
+    "id": "k2019001",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019001"
+    ],
+    "question": "<p>Andaikan orbit Matahari mengelilingi pusat Galaksi Bima Sakti berbentuk lingkaran. Jarak Matahari ke pusat Galaksi adalah $2\\times 10^9$ sa. Jika waktu yang diperlukan Matahari untuk satu kali mengelilingi pusat Galaksi adalah 200 juta tahun, serta dengan mengabaikan pengaruh dari materi gelap/\\textit{dark matter}, maka massa Galaksi yang terkandung di dalam orbit Matahari yang dinyatakan dalam $M_{\\odot}$ adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$8\\times 10^4$"
+        },
+        {
+            "value": "1",
+            "label": "$2\\times 10^{10}$"
+        },
+        {
+            "value": "2",
+            "label": "$2\\times 10^{11}$"
+        },
+        {
+            "value": "3",
+            "label": "$1\\times 10^2$"
+        },
+        {
+            "value": "4",
+            "label": "$10^{10}$"
+        }
+    ],
+    "answer": "2"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "p2019002",
+    "level": "p",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "p2019002"
+    ],
+    "question": "<p>Bintang bertipe spektrum F0V memiliki magnitudo mutlak visual +2,6 dan warna intrinsik $(B-V)_0 = +0,3$. Bintang X yang bertipe spektrum F0V diamati memiliki magnitudo visual +6,79 dan $(B - V) = +0,35$. Dari informasi ini, maka jarak bintang yang diamati tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "81,28 pc"
+        },
+        {
+            "value": "1",
+            "label": "74,13 pc"
+        },
+        {
+            "value": "2",
+            "label": "70,14 pc"
+        },
+        {
+            "value": "3",
+            "label": "68,86 pc"
+        },
+        {
+            "value": "4",
+            "label": "63,97 pc"
+        }
+    ],
+    "answer": "4"
+}

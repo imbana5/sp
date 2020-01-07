@@ -1,0 +1,33 @@
+{
+    "id": "p2014011",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014011"
+    ],
+    "question": "<p>Dari kurva Planck tiga pemancar benda hitam dengan temperatur masing-masing $T_1 = 12000$ K, $T_2 = 9000$ K, dan $T_3 = 6000$ K, maka perbandingan panjang gelombang intensitas maksimum pemancar adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\lambda_2 = 3 \\lambda_1/4$, $\\lambda_3 = 2\\lambda_1$"
+        },
+        {
+            "value": "1",
+            "label": "$\\lambda_2 = 4 \\lambda_1/3$, $\\lambda_3 = \\lambda_1/2$"
+        },
+        {
+            "value": "2",
+            "label": "$\\lambda_2 = 4 \\lambda_1/3$, $\\lambda_3 = 2\\lambda_1$"
+        },
+        {
+            "value": "3",
+            "label": "$\\lambda_2 = 3 \\lambda_1/4$, $\\lambda_3 = \\lambda_1/2$"
+        },
+        {
+            "value": "4",
+            "label": "$\\lambda_2 = 2 \\lambda_1$, $\\lambda_3 = 4\\lambda_1/3$"
+        }
+    ],
+    "answer": "2"
+}

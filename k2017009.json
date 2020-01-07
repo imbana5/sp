@@ -1,0 +1,33 @@
+{
+    "id": "k2017009",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017009"
+    ],
+    "question": "<p>Suatu eksperimen dilakukan dengan menjemur panel logam seluas 1 m$^2$ selama waktu tertentu dan mengukur suhu logam sebelum dan sesudah penjemuran. Eksperimen ini dilakukan untuk menghitung fluks Matahari yang sampai ke Bumi. Jika panel logam tersebut bermassa 1 kg dengan kalor jenis logam 0,2 kal/(gr $^{\\circ}$C) dan suhu awal 30 $^{\\circ}$C, suhu akhir logam setelah dijemur selama 10 detik adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "14,1 $^{\\circ}$C"
+        },
+        {
+            "value": "1",
+            "label": "30,2 $^{\\circ}$C"
+        },
+        {
+            "value": "2",
+            "label": "46,3 $^{\\circ}$C"
+        },
+        {
+            "value": "3",
+            "label": "52,4 $^{\\circ}$C"
+        },
+        {
+            "value": "4",
+            "label": "40,5 $^{\\circ}$C"
+        }
+    ],
+    "answer": "2"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2016020",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016020"
+    ],
+    "question": "<p>Gerhana Matahari total terjadi saat diameter sudut Bulan lebih besar atau sama dengan diameter sudut Matahari jika diamati dari Bumi. Jarak minimal Bulan dari permukaan Bumi agar terjadi gerhana Matahari total adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$2,1 \\times 10^{-3}$ sa"
+        },
+        {
+            "value": "1",
+            "label": "$2,9 \\times 10^{-3}$ sa"
+        },
+        {
+            "value": "2",
+            "label": "373500 km"
+        },
+        {
+            "value": "3",
+            "label": "383500 km"
+        },
+        {
+            "value": "4",
+            "label": "403500 km"
+        }
+    ],
+    "answer": "5"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2016001",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016001"
+    ],
+    "question": "<p>Diketahui</p>\\begin{equation*}y^2 = r^2 \\left( \\tan^{2}{c} + \\tan^{2}{b} - 2 \\tan{b} \\tan{c} \\cos{A} \\right)\\end{equation*}<p>dan</p>\\begin{equation*}y^2 = r^2 \\left( \\sec^{2}{c} + \\sec^{2}{b} - 2 \\sec{b} \\sec{c} \\cos{a} \\right)\\end{equation*}<p>Dari kedua persamaan tersebut dapat diperoleh</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\cos{b} = \\cos{c} \\cos{a} + \\sin{c} \\sin{a} \\cos{B}$"
+        },
+        {
+            "value": "1",
+            "label": "$\\cos{a} = \\cos{b} \\cos{c} + \\sin{b} \\sin{c} \\cos{A}$"
+        },
+        {
+            "value": "2",
+            "label": "$\\cos{c} = \\cos{a} \\cos{b} + \\sin{a} \\sin{b} \\cos{C}$"
+        },
+        {
+            "value": "3",
+            "label": "$\\sin{a} = \\sin{b} \\sin{c} + \\cos{b} \\cos{c} \\cos{A}$"
+        },
+        {
+            "value": "4",
+            "label": "$\\cos{a} = -\\tan{b} \\tan{c}$"
+        }
+    ],
+    "answer": "1"
+}

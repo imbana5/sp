@@ -1,0 +1,33 @@
+{
+    "id": "p2015013",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015013"
+    ],
+    "question": "<p>Gerhana Matahari terjadi ketika piringan Bulan menutupi piringan Matahari. Misalkan piringan Bulan dan Matahari tampak dengan diameter sudut yang sama ($D$) dan kedua titik pusat piringan objek terpisah oleh jarak $D/2$. Dari gambar di bawah ini, berapakah rasio piringan Matahari yang tertutup piringan Bulan?</p><img src='data:image/pdf;base64,JVBERi0xLjQKJdDUxdgKNiAwIG9iaiA8PAovTGVuZ3RoIDMyOCAgICAgICAKL0ZpbHRlciAvRmxhdGVEZWNvZGUKPj4Kc3RyZWFtCnjalVNLUsMwDN3nFL6AjeRfnR20i67hBkxmCJsyFBZcHyWOHNnuDGWS2Jb09GR9ggroQeWSCZB4my7DVQ2gzssy02LcmIL6UYv6mpVkHVCBCev3RaiHz/nt8fREYDV/b+L0yiIYikTfRQ02GedjakUMJoZwKLuE8XlSg27tuiXQ0nPxKMiCuAnVIkoH6DiaIO9Vise9SM9ryXAtNJUpH17Ou0b6gbHJuU7CEH0QewFtxyXJxqobZy28Mpxhxd4D9c7fm2v/mv6ParDE44N3DFAzNSGaOLpoO5n7470BsMGqtoOyy5acEMaqmUzACUw5l9L44tTPhqAu4Yuy3LAwVTnkqjVZ/muO+v8qOkC8IeeW2eVvd/bAvdv9uemkwRGcFwiIzo+SghWwOWRZC0Sm0E0UXYXJFxGYfFVJsydzR6no/VjXX7kM7wgKZW5kc3RyZWFtCmVuZG9iago1IDAgb2JqIDw8Ci9UeXBlIC9QYWdlCi9Db250ZW50cyA2IDAgUgovUmVzb3VyY2VzIDQgMCBSCi9NZWRpYUJveCBbMCAwIDEwNS4zNjMgNzcuMDE3XQovUGFyZW50IDcgMCBSCj4+IGVuZG9iago0IDAgb2JqIDw8CiAvQ29sb3JTcGFjZSAzIDAgUiAvUGF0dGVybiAyIDAgUiAvRXh0R1N0YXRlIDEgMCBSIAovUHJvY1NldCBbIC9QREYgXQo+PiBlbmRvYmoKMSAwIG9iago8PCAvcGdmQENBMC4zIDw8IC9DQSAwLjMgPj4gL3BnZkBjYTAuMyA8PCAvY2EgMC4zID4+Pj4KZW5kb2JqCjIgMCBvYmoKPDw+PgplbmRvYmoKMyAwIG9iago8PCAgL3BnZnByZ2IgWy9QYXR0ZXJuIC9EZXZpY2VSR0JdID4+CmVuZG9iago3IDAgb2JqIDw8Ci9UeXBlIC9QYWdlcwovQ291bnQgMQovS2lkcyBbNSAwIFJdCj4+IGVuZG9iago4IDAgb2JqIDw8Ci9UeXBlIC9DYXRhbG9nCi9QYWdlcyA3IDAgUgo+PiBlbmRvYmoKOSAwIG9iaiA8PAovUHJvZHVjZXIgKHBkZlRlWC0xLjQwLjEwKQovQ3JlYXRvciAoVGVYKQovQ3JlYXRpb25EYXRlIChEOjIwMTUwMzI4MTQ1NTA0KzA3JzAwJykKL01vZERhdGUgKEQ6MjAxNTAzMjgxNDU1MDQrMDcnMDAnKQovVHJhcHBlZCAvRmFsc2UKL1BURVguRnVsbGJhbm5lciAoVGhpcyBpcyBwZGZUZVgsIFZlcnNpb24gMy4xNDE1OTI2LTEuNDAuMTAtMi4yIChUZVggTGl2ZSAyMDA5L0RlYmlhbikga3BhdGhzZWEgdmVyc2lvbiA1LjAuMCkKPj4gZW5kb2JqCnhyZWYKMCAxMAowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDA2MjQgMDAwMDAgbiAKMDAwMDAwMDY5NCAwMDAwMCBuIAowMDAwMDAwNzE0IDAwMDAwIG4gCjAwMDAwMDA1MzMgMDAwMDAgbiAKMDAwMDAwMDQyMiAwMDAwMCBuIAowMDAwMDAwMDE1IDAwMDAwIG4gCjAwMDAwMDA3NjcgMDAwMDAgbiAKMDAwMDAwMDgyNCAwMDAwMCBuIAowMDAwMDAwODczIDAwMDAwIG4gCnRyYWlsZXIKPDwgL1NpemUgMTAKL1Jvb3QgOCAwIFIKL0luZm8gOSAwIFIKL0lEIFs8MTFFREJCNUY3NzY0QTA5OUU4QzUzMDU2MTVFNzZDRjA+IDwxMUVEQkI1Rjc3NjRBMDk5RThDNTMwNTYxNUU3NkNGMD5dID4+CnN0YXJ0eHJlZgoxMTM4CiUlRU9GCg=='/>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "0,3"
+        },
+        {
+            "value": "1",
+            "label": "0,4"
+        },
+        {
+            "value": "2",
+            "label": "0,5"
+        },
+        {
+            "value": "3",
+            "label": "0,6"
+        },
+        {
+            "value": "4",
+            "label": "0,7"
+        }
+    ],
+    "answer": "1"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "p2015011",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015011"
+    ],
+    "question": "<p>Jika pengamat di kota Bandung (lintang geografis $-6^{\\circ}57'$ LS dan bujur geografis $107^{\\circ}34'$ BT) mengamati Matahari terbenam pada tanggal 21 Juni pukul 17:43 WIB, maka pengamat di Manado (lintang geografis $+1^{\\circ}29'$ LU dan bujur geografis $124^{\\circ}52'$ BT) akan mengamati Matahari terbenam di tanggal yang sama pada pukul</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "16:13 WIB"
+        },
+        {
+            "value": "1",
+            "label": "16:25 WIB"
+        },
+        {
+            "value": "2",
+            "label": "16:48 WIB"
+        },
+        {
+            "value": "3",
+            "label": "17:07 WIB"
+        },
+        {
+            "value": "4",
+            "label": "17:13 WIB"
+        }
+    ],
+    "answer": "2"
+}

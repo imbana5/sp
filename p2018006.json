@@ -1,0 +1,33 @@
+{
+    "id": "p2018006",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018006"
+    ],
+    "question": "<p>Apa yang akan terjadi jika pembakaran termonuklir di inti Matahari tiba-tiba berhenti?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Matahari akan langsung padam dan tidak bersinar lagi karena sumber energinya berhenti diproduksi."
+        },
+        {
+            "value": "1",
+            "label": "Matahari masih akan tetap bersinar karena masih ada energi gravitasi akibat intinya yang mengerut."
+        },
+        {
+            "value": "2",
+            "label": "Inti Matahari akan langsung meledak karena tekanan yang tiba-tiba dari permukaannya."
+        },
+        {
+            "value": "3",
+            "label": "Lapisan permukaan Matahari akan langsung mengembang menjadi bintang raksasa."
+        },
+        {
+            "value": "4",
+            "label": "Matahari akan tetap bersinar karena sumber utama energi Matahari bukan dari inti, namun dari lapisan permukaannya."
+        }
+    ],
+    "answer": "1"
+}

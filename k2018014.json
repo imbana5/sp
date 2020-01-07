@@ -1,0 +1,33 @@
+{
+    "id": "k2018014",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018014"
+    ],
+    "question": "<p>Sebuah objek ``aneh'' yang ditemukan oleh teleskop survey Pan-STARRS pada bulan Oktober 2017 diberi nama C/2017 U1 Oumuamua, menjadi pembicaraan ahli astronomi. Objek tersebut berada pada jarak 0,2 au dari Bumi saat pertama kali ditemukan dan bergerak menjauhi Matahari. Para astronom memperkirakan objek ini adalah sebuah komet yang berasal dari ruang antar bintang yang memasuki wilayah Tata Surya, akan tetapi dari ciri-ciri fisiknya lebih mendekati ciri-ciri sebuah asteroid. Beberapa karakteristik fisik objek Omuamua di bawah ini yang benar adalah</p><ol><li>Objek ini memiliki orbit berbentuk parabola dan memiliki periode revolusi yang amat panjang sehingga dapat disimpulkan sebagai objek dari luar Tata Surya.</li><li>Objek ini memiliki orbit hiperbola yang memiliki eksentrisitas sebesar 1,2.</li><li>Oumuamua memiliki ciri sebuah komet tapi tidak memiliki ekor saat mendekati Matahari.</li><li>Oumuamua memiliki albedo yang kecil sehingga tidak dianggap sebagai komet.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "2"
+}

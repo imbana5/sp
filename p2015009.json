@@ -1,0 +1,33 @@
+{
+    "id": "p2015009",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015009"
+    ],
+    "question": "<p>Para astronom meyakini bahwa <em>exoplanet</em> serupa Bumi yang mungkin mengemban kehidupan dapat dicari jika peralatan interferometer ditempatkan di angkasa luar. Jika hal itu terjadi, empat garis serapan dalam panjang gelombang kasatmata dan inframerah dapat dideteksi dalam spektrum <em>exoplanet}, dengan kemungkinan karakteristik sebagai berikut:</p><ol><li>Terdapat pita serapan Ozon (O$_3$) dalam spektrum yang memperlihatkan kelimpahan oksigen, yang mungkin dihasilkan oleh jasad kehidupan.</li><li>Profil spektrum, yang menandakan temperatur \\textit{exoplanet}, sesuai dengan syarat agar air berada dalam fase cair.</li><li>Terdapat pita serapan CO$_2$ yang sangat kuat dan menunjukkan keberadaan atmosfer.</li><li>Terdapat tanda-tanda serapan H$_2$O di berbagai rentang spektrum yang menunjukkan kelimpahan air yang besar sebagai pertanda keberadaan lautan.</li></ol><p>Urutan prioritas keutamaan indikator-indikator di atas, yang diacu orang saat ini, bagi pencarian <em>exoplanet</em> serupa Bumi adalah:</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "I-II-III-IV"
+        },
+        {
+            "value": "1",
+            "label": "II-I-IV-III"
+        },
+        {
+            "value": "2",
+            "label": "II-III-I-IV"
+        },
+        {
+            "value": "3",
+            "label": "IV-I-III-II"
+        },
+        {
+            "value": "4",
+            "label": "III-II-IV-I"
+        }
+    ],
+    "answer": "2"
+}

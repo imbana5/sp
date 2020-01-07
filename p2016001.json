@@ -1,0 +1,33 @@
+{
+    "id": "p2016001",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016001"
+    ],
+    "question": "<p>Pada tanggal 17 Januari 2016, komet Catalina berada pada posisi terdekatnya, yaitu 110 juta km dari Bumi. Jika pada saat itu terdapat ekor tampak sepanjang $1^{\\circ}$ dan diasumsikan ekor tegak lurus garis pandang, maka panjang ekor (dalam satuan km) adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$2 \\times 10^6$"
+        },
+        {
+            "value": "1",
+            "label": "$1 \\times 10^6$"
+        },
+        {
+            "value": "2",
+            "label": "$9 \\times 10^7$"
+        },
+        {
+            "value": "3",
+            "label": "$1 \\times 10^8$"
+        },
+        {
+            "value": "4",
+            "label": "$2 \\times 10^8$"
+        }
+    ],
+    "answer": "0"
+}

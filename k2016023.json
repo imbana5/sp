@@ -1,0 +1,33 @@
+{
+    "id": "k2016023",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016023"
+    ],
+    "question": "<p>Pilihlah pernyataan yang benar tentang hukum gravitasi Newton!</p><ol><li>Gaya yang bekerja pada koin yang jatuh bebas dan gaya yang menyebabkan Bulan mengitari Bumi adalah gaya gravitasi.</li><li>Gaya yang menghambat gerak pesawat saat lepas landas dan yang menyebabkan meteoroid mengitari Bumi adalah gaya gravitasi. </li><li>Hukum gravitasi Newton dapat membuktikan Hukum III Kepler.</li><li>Hukum gravitasi membuktikan teori Bohr tentang gerak elektron yang mirip dengan gerak planet.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "0"
+}

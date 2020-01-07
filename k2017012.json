@@ -1,0 +1,33 @@
+{
+    "id": "k2017012",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017012"
+    ],
+    "question": "<p>Lunar synodic period is longer than its sidereal period.</p><p><center>BECAUSE</center></p><p>Observed from north ecliptic pole, lunar motion around the Earth is in the same direction as Earth's motion around the Sun, i.e. clockwise.\\\\</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Pernyataan pertama dan kedua benar serta memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "1",
+            "label": "Pernyataan pertama dan kedua benar, tetapi tidak memiliki hubungan sebab-akibat."
+        },
+        {
+            "value": "2",
+            "label": "Pernyataan pertama benar, sedangkan pernyataan kedua salah."
+        },
+        {
+            "value": "3",
+            "label": "Pernyataan pertama salah, sedangkan pernyataan kedua benar."
+        },
+        {
+            "value": "4",
+            "label": "Kedua pernyataan salah."
+        }
+    ],
+    "answer": "2"
+}

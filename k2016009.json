@@ -1,0 +1,33 @@
+{
+    "id": "k2016009",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016009"
+    ],
+    "question": "<p>Dalam tata koordinat kartesian, sebuah komet memiliki lintasan parabola dengan persamaan</p>\\begin{equation*}f(x) = x^2 - 11x + 28\\end{equation*}<p>Sementara itu, suatu benda tak dikenal melintasi Tata Surya dengan lintasan berupa garis lurus yang memenuhi persamaan</p>\\begin{equation*}4x + 7y - 60 = 0\\end{equation*}<p>Kedua benda dapat bertabrakan di titik</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "(2, 10)"
+        },
+        {
+            "value": "1",
+            "label": "(2, 7)"
+        },
+        {
+            "value": "2",
+            "label": "(3, 4)"
+        },
+        {
+            "value": "3",
+            "label": "(8, 4)"
+        },
+        {
+            "value": "4",
+            "label": "Tidak ada titik perpotongan"
+        }
+    ],
+    "answer": "3"
+}

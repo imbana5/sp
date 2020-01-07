@@ -1,0 +1,33 @@
+{
+    "id": "k2016017",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016017"
+    ],
+    "question": "<p>Wahana antariksa milik LAPAN mengorbit Bumi pada ketinggian 12.000 km dari permukaan Bumi. Wahana itu memiliki panel surya berbentuk lingkaran dengan diameter 12 m dan bermassa 1.200 kg. Diketahui energi Matahari yang diterima Bumi adalah sebesar 1,35 kW/m2. Berapa jumlah energi yang diterima oleh panel tersebut dalam satu hari?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$1,32 \\times 10^{10}$ Joule"
+        },
+        {
+            "value": "1",
+            "label": "$1,54 \\times 10^{11}$ Joule"
+        },
+        {
+            "value": "2",
+            "label": "$2,22 \\times 10^{12}$ Joule"
+        },
+        {
+            "value": "3",
+            "label": "$3,69 \\times 10^{13}$ Joule"
+        },
+        {
+            "value": "4",
+            "label": "$5,54 \\times 10^{14}$ Joule"
+        }
+    ],
+    "answer": "0"
+}

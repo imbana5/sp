@@ -1,0 +1,33 @@
+{
+    "id": "k2017004",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017004"
+    ],
+    "question": "<p>Sebuah misi pendaratan di Mars memiliki tujuan untuk mengambil sampel batuan dengan bantuan dua buah alat. Alat pertama bisa mengambil 2 kg batuan A dan 3 kg batuan B dengan energi 200 J sekali jalan. Alat kedua bisa mengambil 3 kg batuan A dan 1 kg batuan B dengan energi 75 J sekali jalan. Jika roket untuk misi tersebut bisa mengangkut batuan sampai 90 kg batuan A dan 100 kg batuan B, dan energi yang sanggup disediakan untuk kedua alat tersebut adalah 7000 J. Jumlah batuan terbanyak yang dapat diangkut oleh kedua alat tersebut terdiri dari</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "90 kg batuan A dan 100 kg batuan B"
+        },
+        {
+            "value": "1",
+            "label": "40 kg batuan A dan 60 kg batuan B"
+        },
+        {
+            "value": "2",
+            "label": "60 kg batuan B dan 40 kg batuan A"
+        },
+        {
+            "value": "3",
+            "label": "90 kg batuan A dan 30 kg batuan B"
+        },
+        {
+            "value": "4",
+            "label": "30 kg batuan A dan 90 kg batuan B"
+        }
+    ],
+    "answer": "0"
+}

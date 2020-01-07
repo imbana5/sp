@@ -1,0 +1,33 @@
+{
+    "id": "p2018008",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018008"
+    ],
+    "question": "<p>Berikut ini pernyataan yang SALAH terkait pemanasan debu antar bintang adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Debu antar bintang menyerap energi dari cahaya bintang."
+        },
+        {
+            "value": "1",
+            "label": "Debu antar bintang mendapat energi dari tumbukan dengan atom dan partikel debu lainnya."
+        },
+        {
+            "value": "2",
+            "label": "Debu antar bintang menyerap energi dari sublimasi atom atau molekul di permukaan debu."
+        },
+        {
+            "value": "3",
+            "label": "Debu antar bintang menyerap energi dari gelombang kejut akibat ledakan supernova."
+        },
+        {
+            "value": "4",
+            "label": "Debu antar bintang menyerap energi dari reaksi kimia yang terjadi di permukaan debu."
+        }
+    ],
+    "answer": "2"
+}

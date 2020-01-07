@@ -1,0 +1,33 @@
+{
+    "id": "k2017011",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017011"
+    ],
+    "question": "<p>Jupiter memiliki jejari 70000 km dan mengorbit Matahari pada radius 5,2 sa. Dari sebuah asteroid yang berjarak 4,2 sa dari Matahari, seorang pengamat ingin mengamati seluruh permukaan Jupiter yang sedang dalam keadaan oposisi. Jika pengamat tersebut menggunakan refraktor dengan panjang fokus objektif 11 meter dan medan pandang semu eyepiece sebesar 45$^{\\circ}$, maka panjang fokus eyepiece yang memadai agar seluruh permukaan Jupiter teramati adalah</p><ol><li>25 mm</li><li>20 mm</li><li>15 mm</li><li>9 mm</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "0"
+}

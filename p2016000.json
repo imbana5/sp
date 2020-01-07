@@ -1,0 +1,33 @@
+{
+    "id": "p2016000",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016000"
+    ],
+    "question": "<p>Perbedaan utama antara lensa dan cermin sebagai pengumpul cahaya dalam sistem teleskop adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Panjang fokus lensa bergantung pada panjang gelombang, sedangkan cermin tidak"
+        },
+        {
+            "value": "1",
+            "label": "Panjang fokus cermin bergantung pada panjang gelombang, sedangkan lensa tidak"
+        },
+        {
+            "value": "2",
+            "label": "Cermin berbentuk cembung, sedangkan lensa harus berbentuk cekung"
+        },
+        {
+            "value": "3",
+            "label": "Objek tidak dapat ditegakkan dengan kedua sistem pengumpul cahaya ini"
+        },
+        {
+            "value": "4",
+            "label": "Membuat cermin lebih mudah daripada membuat lensa untuk pengumpul cahaya"
+        }
+    ],
+    "answer": "0"
+}

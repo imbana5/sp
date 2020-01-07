@@ -1,0 +1,33 @@
+{
+    "id": "p2016012",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016012"
+    ],
+    "question": "<p>Yang merupakan karakteristik dalam proses pembentukan bintang adalah</p><ol><li>Materi antar bintang yang melimpah dalam periode waktu yang lama, tidak selalu cukup untuk membentuk bintang</li><li>Proses pembentukan bintang dapat terjadi bila energi kinetik materi antar bintang lebih kecil dari setengah energi potensial gravitasi</li><li>Syarat terjadinya pembentukan bintang bergantung pada temperatur dan kerapatan partikel</li><li>Proses pembentukan bintang hanya dapat terjadi di daerah dengan konsentrasi debu tinggi</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "0"
+}

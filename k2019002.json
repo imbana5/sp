@@ -1,0 +1,33 @@
+{
+    "id": "k2019002",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019002"
+    ],
+    "question": "<p>Sebuah lensa konvergen dengan panjang fokus $f$ untuk membuat bayangan dari sebuah objek yang berjarak 10 m dari lensa. Bayangan yang terbentuk berada pada jarak 10 cm. Berapakah $f$ dalam cm?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$9,00$"
+        },
+        {
+            "value": "1",
+            "label": "$9,90$"
+        },
+        {
+            "value": "2",
+            "label": "$10,0$"
+        },
+        {
+            "value": "3",
+            "label": "$10,1$"
+        },
+        {
+            "value": "4",
+            "label": "$11,1$"
+        }
+    ],
+    "answer": "1"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2016007",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016007"
+    ],
+    "question": "<p>Di sebuah eksoplanet, terdapat organisme sejumlah</p>\\begin{equation*}N_{\\text{awal}} = \\frac{\\log{b^2}}{\\log{a}}\\end{equation*}<p>Dalam seabad, jumlah tersebut meningkat $^{b}\\log{c}$ kali. Kemudian, jumlahnya berkurang sebesar $^{a}\\log{\\frac{1}{c}}$ karena bencana. Jika $a$, $b$, dan $c$ merupakan bilangan positif, organisme yang tersisa adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$N_{\\text{akhir}} = 0$"
+        },
+        {
+            "value": "1",
+            "label": "$N_{\\text{akhir}} = 1$"
+        },
+        {
+            "value": "2",
+            "label": "$N_{\\text{akhir}} = ^{a}\\log{b^2}$"
+        },
+        {
+            "value": "3",
+            "label": "$N_{\\text{akhir}} = 2 \\cdot ^{b}\\log{c}$"
+        },
+        {
+            "value": "4",
+            "label": "$N_{\\text{akhir}} = 3 \\cdot ^{a}\\log{c}$"
+        }
+    ],
+    "answer": "4"
+}

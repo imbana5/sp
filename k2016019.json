@@ -1,0 +1,33 @@
+{
+    "id": "k2016019",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016019"
+    ],
+    "question": "<p>Sebuah meteor bergerak dengan kecepatan 0,75 km/s pada ketinggian 750 m di atas permukaan Bumi. Berapa kecepatan meteor saat menumbuk Bumi bila percepatan gravitasi $g = 9,8$ m/s$^2$?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "5,19 km/s"
+        },
+        {
+            "value": "1",
+            "label": "7,60 km/s"
+        },
+        {
+            "value": "2",
+            "label": "519 m/s"
+        },
+        {
+            "value": "3",
+            "label": "760 m/s"
+        },
+        {
+            "value": "4",
+            "label": "988 m/s"
+        }
+    ],
+    "answer": "3"
+}

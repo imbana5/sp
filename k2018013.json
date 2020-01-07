@@ -1,0 +1,33 @@
+{
+    "id": "k2018013",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018013"
+    ],
+    "question": "<p>Which of the following stars is circumpolar in Romania (26^{\\circ} 0` E, 44^{\\circ} 25' N)</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\zeta$ Herculis (16h 41m/+31^{\\circ} 36')"
+        },
+        {
+            "value": "1",
+            "label": "$\\beta$ Bootis (15h 01m/+40^{\\circ} 23')"
+        },
+        {
+            "value": "2",
+            "label": "$\\theta$ Aurigae (5h 59m/+37^{\\circ} 12')"
+        },
+        {
+            "value": "3",
+            "label": "$\\gamma$ Draconis (17h 56m/+51^{\\circ} 26')"
+        },
+        {
+            "value": "4",
+            "label": "None of the stars above"
+        }
+    ],
+    "answer": "3"
+}

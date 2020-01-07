@@ -1,0 +1,33 @@
+{
+    "id": "p2015014",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015014"
+    ],
+    "question": "<p>Pada jarak $d$, partikel angin Matahari memiliki kerapatan $\\rho$ serta kecepatan $v$. Bila ketiga variabel tersebut diketahui, maka laju kehilangan massa Matahari (kg/detik) dapat dihitung dengan persamaan</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\dot{M}=\\rho v$"
+        },
+        {
+            "value": "1",
+            "label": "$\\dot{M}=2\\pi d \\rho v$"
+        },
+        {
+            "value": "2",
+            "label": "$\\dot{M}=4\\pi d^2 \\rho v$"
+        },
+        {
+            "value": "3",
+            "label": "$\\dot{M}=\\frac{4\\pi}{3}d^3 \\rho$"
+        },
+        {
+            "value": "4",
+            "label": "$\\dot{M}=\\frac{5\\pi}{2}d^3 \\rho v$"
+        }
+    ],
+    "answer": "2"
+}

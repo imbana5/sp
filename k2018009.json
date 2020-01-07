@@ -1,0 +1,33 @@
+{
+    "id": "k2018009",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018009"
+    ],
+    "question": "<p>Hasil penelitian <em>Supernova Cosmology Project</em> dan <em>High-Z Supernova Search Team</em> adalah penemuan alam semesta mengembang dipercepat. Pengembangan alam semesta dipercepat diamati mulai dari <em>redshift</em> $z\\sim0,4$ setelah adanya peran <em>dark energy}. Konsekuensi penemuan ini adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "kerapatan radiasi menurun sebanding dengan penurunan kerapatan <em>dark energy}."
+        },
+        {
+            "value": "1",
+            "label": "kerapatan materi menurun sebanding dengan penurunan kerapatan <em>dark energy}."
+        },
+        {
+            "value": "2",
+            "label": "kerapatan <em>dark energy</em> menurun dengan cepat."
+        },
+        {
+            "value": "3",
+            "label": "kerapatan radiasi dan materi menurun dengan cepat."
+        },
+        {
+            "value": "4",
+            "label": "kerapatan <em>dark energy</em> bertambah."
+        }
+    ],
+    "answer": "3"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "p2015010",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015010"
+    ],
+    "question": "<p>Kalender Cina merupakan sistem lunisolar di mana setiap hari libur Imlek bertepatan dengan konjungsi Bulan dengan menggunakan waktu UT+8 jam. Dalam kalender nasional, tanggal 19 Februari 2015 merupakan hari libur tahun baru Imlek 2566, dan konjungsi Bulan terjadi pada tanggal 19 Februari 2015 jam 07:48 WITA. Hari libur Imlek lainnya, hari libur tahun baru Imlek 2565 bertepatan dengan 31 Januari 2014 dan hari libur Imlek 2564 bertepatan dengan 10 Februari 2013. Satu tahun kalender Cina terdiri dari 354 hari, 355 hari, 384 hari, atau 385 hari. Dengan demikian, dalam rentang tahun baru Imlek 2551 dan tahun baru Imlek 2570, jumlah tahun baru Imlek dengan jumlah hari 384 atau 385 hari adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "2"
+        },
+        {
+            "value": "1",
+            "label": "5"
+        },
+        {
+            "value": "2",
+            "label": "7"
+        },
+        {
+            "value": "3",
+            "label": "9"
+        },
+        {
+            "value": "4",
+            "label": "10"
+        }
+    ],
+    "answer": "2"
+}

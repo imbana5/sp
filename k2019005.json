@@ -1,0 +1,33 @@
+{
+    "id": "k2019005",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019005"
+    ],
+    "question": "<p>Terdapat tiga titik P(1,1,1), Q(2,3,4), dan R(5,6,7) yang membentuk sebuah bidang. Jika terdapat titik S(-2,5,10), maka jarak minimum titik S ke bidang PQR adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\sqrt{3}$"
+        },
+        {
+            "value": "1",
+            "label": "$6/\\sqrt{3}$"
+        },
+        {
+            "value": "2",
+            "label": "$\\sqrt{6}/4$"
+        },
+        {
+            "value": "3",
+            "label": "$\\sqrt{6}/3$"
+        },
+        {
+            "value": "4",
+            "label": "$6/\\sqrt{3}$"
+        }
+    ],
+    "answer": "3"
+}

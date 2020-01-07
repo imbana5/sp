@@ -1,0 +1,33 @@
+{
+    "id": "p2016003",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016003"
+    ],
+    "question": "<p>Misalkan $\\mathcal{M}$ menyatakan magnitudo mutlak bolometrik sebuah bintang dan $\\mathcal{P}$ menyatakan energi yang dipancarkan setiap detik (dalam satuan watt), maka berlaku hubungan</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "$\\mathcal{P} = 3,485 \\times 10^{26} \\times 10^{-0,4 \\mathcal{M}}$"
+        },
+        {
+            "value": "1",
+            "label": "$\\mathcal{P} = 3,013 \\times 10^{28} \\times 10^{-0,4 \\mathcal{M}}$"
+        },
+        {
+            "value": "2",
+            "label": "$\\log{\\mathcal{P}} = 26,591 - 0,4 \\mathcal{M}$"
+        },
+        {
+            "value": "3",
+            "label": "$\\log{\\mathcal{P}} = 28,479 + 0,4 \\mathcal{M}$"
+        },
+        {
+            "value": "4",
+            "label": "$\\mathcal{P} = -2,500 \\log{\\mathcal{M}}$"
+        }
+    ],
+    "answer": "1"
+}

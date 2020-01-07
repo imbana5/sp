@@ -1,0 +1,33 @@
+{
+    "id": "p2014002",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014002"
+    ],
+    "question": "<p>Sebuah bintang memiliki jejari 2000 km dan temperatur 10000 K. Jika jarak bintang ini 10 parsek maka, maka bintang</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "sulit diamati dengan mata telanjang karena jaraknya terlalu jauh"
+        },
+        {
+            "value": "1",
+            "label": "sulit diamati dengan mata telanjang karena nilai magnitudonya yang terlalu besar"
+        },
+        {
+            "value": "2",
+            "label": "relatif lebih mudah diamati dengan mata telanjang karena temperaturnya yang tinggi"
+        },
+        {
+            "value": "3",
+            "label": "relatif lebih mudah diamati dengan mata telanjang karena nilai magnitudonya yang besar"
+        },
+        {
+            "value": "4",
+            "label": "tidak dapat disimpulkan apakah dapat diamati dengan mata telanjang atau tidak"
+        }
+    ],
+    "answer": "5"
+}

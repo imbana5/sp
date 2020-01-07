@@ -1,0 +1,33 @@
+{
+    "id": "p2017002",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017002"
+    ],
+    "question": "<p>Tidak teramatinya aurora di Planet Venus disebabkan oleh</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "tidak ada oksigen di atmosfer Venus"
+        },
+        {
+            "value": "1",
+            "label": "atmosfer Venus terlalu tebal"
+        },
+        {
+            "value": "2",
+            "label": "medan magnet di Venus sangat lemah"
+        },
+        {
+            "value": "3",
+            "label": "temperatur permukaan Venus yang tinggi"
+        },
+        {
+            "value": "4",
+            "label": "jarak Venus terlalu dekat dengan Matahari"
+        }
+    ],
+    "answer": "2"
+}

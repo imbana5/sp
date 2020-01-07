@@ -1,0 +1,33 @@
+{
+    "id": "p2015003",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015003"
+    ],
+    "question": "<p>Sebuah bintang deret utama diamati dengan sebuah teleskop pada jarak 30 pc. Saat memasuki raksasa, temperatur bintang turun menjadi 4 kali lebih rendah dan radiusnya menjadi 100 kali lebih besar. Letak bintang juga tidak lagi di posisi yang sama saat masih di tahap deret utama. Bila terang bintang raksasa ini seterang saat di tahap deret utama, jarak bintang adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "187,5 pc"
+        },
+        {
+            "value": "1",
+            "label": "188 pc"
+        },
+        {
+            "value": "2",
+            "label": "188,5 pc"
+        },
+        {
+            "value": "3",
+            "label": "189 pc"
+        },
+        {
+            "value": "4",
+            "label": "200 pc"
+        }
+    ],
+    "answer": "0"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2017007",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017007"
+    ],
+    "question": "<p>Dua buah bintang sedang diamati kecerlangannya menggunakan CCD. Misalkan kedua bintang itu ialah bintang A dan B. Hasil fotometri menunjukkan bahwa luminositas bintang A 103,4 kali lebih besar dari pada bintang B. Namun jarak bintang A 345 lebih jauh daripada bintang B. Bila magnitudo bintang A sebesar 7 magnitudo, maka rasio perbandingan magnitudo bintang A terhadap bintang B adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "-7,6"
+        },
+        {
+            "value": "1",
+            "label": "7,6"
+        },
+        {
+            "value": "2",
+            "label": "10,7"
+        },
+        {
+            "value": "3",
+            "label": "-10,7"
+        },
+        {
+            "value": "4",
+            "label": "8,4"
+        }
+    ],
+    "answer": "3"
+}

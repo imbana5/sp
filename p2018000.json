@@ -1,0 +1,33 @@
+{
+    "id": "p2018000",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018000"
+    ],
+    "question": "<p>Convection can occur inside a star. This stellar convection describes motion of gas. If we consider a star as an ideal gas. Choose the right statement representing stellar convection in which a packet of gas rises slightly</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "The gas cools to a lower temperature than its new surroundings, so that it has a higher density than surroundings, it will continue to rise."
+        },
+        {
+            "value": "1",
+            "label": "The temperature gradient of the gas is steep enough and the density is less dense than its new surroundings, then the gas will sink back again."
+        },
+        {
+            "value": "2",
+            "label": "The gas cools to a lower temperature than its new surroundings, but its density is the same with surroundings. This makes the gas continues to rise."
+        },
+        {
+            "value": "3",
+            "label": "If the temperature gradient of the gas is steep enough, the gas is less dense than its new surroundings, and it will continue to rise."
+        },
+        {
+            "value": "4",
+            "label": "The gas has higher temperature and higher density than surroundings, so it will sink back again to where it comes from."
+        }
+    ],
+    "answer": "3"
+}

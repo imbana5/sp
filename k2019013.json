@@ -1,0 +1,33 @@
+{
+    "id": "k2019013",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019013"
+    ],
+    "question": "<p>Tanggal 1 Januari 2010 M bertepatan dengan persitiwa bulan purnama (fase Bulan hari ke-14 atau ke-15). Peristiwa yang bertepatan seperti itu terjadi setiap 235 kali periode sinodis Bulan. Peristiwa yang mirip dengan tahun baru 2010 M tersebut terjadi juga pada</p><ol><li>1 Januari 1991 M</li><li>1 Agustus 2029 M</li><li>1 Januari 2029 M</li><li>1 Juni 1990 M</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "1"
+}

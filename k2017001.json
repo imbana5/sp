@@ -1,0 +1,33 @@
+{
+    "id": "k2017001",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017001"
+    ],
+    "question": "<p>Di awal tahun 2012, telah diketahui sekitar 8000 asteroid dekat Bumi yang tersebar merata, terdiri dari 54% tipe Apollo, 37% tipe Amor, 8% tipe Aten, dan 1% jenis lain. Jika dilakukan dua kali pengamatan acak secara berturut-turut, peluang pengamat mendapati 1 asteroid tipe Amor dan 1 asteroid tipe Apollo</p><p>adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "0,91"
+        },
+        {
+            "value": "1",
+            "label": "0,46"
+        },
+        {
+            "value": "2",
+            "label": "0,20"
+        },
+        {
+            "value": "3",
+            "label": "0,17"
+        },
+        {
+            "value": "4",
+            "label": "0,09"
+        }
+    ],
+    "answer": "2"
+}

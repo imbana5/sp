@@ -1,0 +1,33 @@
+{
+    "id": "k2017002",
+    "level": "k",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "k2017002"
+    ],
+    "question": "<p>Sinyal radar berfrekuensi 300 MHz ditembakkan ke permukaan Saturnus (diasumsikan sebagai benda padat) yang memiliki radius 58000 km dan periode rotasi 10 jam 14 menit. Akibat rotasi Saturnus, sinyal radar pantulan yang kembali ke Bumi akan mengalami efek Doppler. Setelah dikoreksi dengan pengaruh gerak pengamat, perbedaan frekuensi pantulan yang diterima dari permukaan Saturnus terhadap frekuensi radar yang ditembakkan adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "19,8 MHz"
+        },
+        {
+            "value": "1",
+            "label": "19,8 kHz"
+        },
+        {
+            "value": "2",
+            "label": "9,9 MHz"
+        },
+        {
+            "value": "3",
+            "label": "9,9 kHz"
+        },
+        {
+            "value": "4",
+            "label": "9,9 Hz"
+        }
+    ],
+    "answer": "1"
+}

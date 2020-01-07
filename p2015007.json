@@ -1,0 +1,33 @@
+{
+    "id": "p2015007",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015007"
+    ],
+    "question": "<p>Mengapa mencari komet baik dilakukan dengan binokuler?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Komet adalah sumber titik, dan binokuler memiliki medan pandang sempit."
+        },
+        {
+            "value": "1",
+            "label": "Komet adalah sumber membentang, dan binokuler memiliki medan pandang luas."
+        },
+        {
+            "value": "2",
+            "label": "Komet tampak hanya sekejap, dan binokuler memiliki medan pandang sempit."
+        },
+        {
+            "value": "3",
+            "label": "Komet adalah sumber membentang, dan binokuler memiliki magnifikasi tinggi."
+        },
+        {
+            "value": "4",
+            "label": "Komet tampak lama di langit, dan binokuler memiliki magnifikasi tinggi."
+        }
+    ],
+    "answer": "1"
+}

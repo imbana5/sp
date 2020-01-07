@@ -1,0 +1,33 @@
+{
+    "id": "p2015002",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015002"
+    ],
+    "question": "<p>Setiap detik di dalam inti sebuah bintang terjadi perubahan $4\\times 10^9$ kg materi menjadi radiasi. Pada jarak 0,5 au dari bintang, alien memasang sebuah fotosel dengan luas 100 m$^2$ dan mempunyai efisiensi 50%. Berapakah daya yang dihasilkan oleh fotosel tersebut?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "sekitar 250 kiloWatt"
+        },
+        {
+            "value": "1",
+            "label": "sekitar 125 kiloWatt"
+        },
+        {
+            "value": "2",
+            "label": "sekitar 500 kiloWatt"
+        },
+        {
+            "value": "3",
+            "label": "sekitar 1 megaWatt"
+        },
+        {
+            "value": "4",
+            "label": "sekitar 2 megaWatt"
+        }
+    ],
+    "answer": "0"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "p2014005",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014005"
+    ],
+    "question": "<p>Jika sabit tipis Bulan tampak sesaat sebelum Matahari terbit, berarti Bulan menuju ke fase</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Bulan Baru"
+        },
+        {
+            "value": "1",
+            "label": "Seperempat pertama"
+        },
+        {
+            "value": "2",
+            "label": "Purnama"
+        },
+        {
+            "value": "3",
+            "label": "Seperempat akhir"
+        },
+        {
+            "value": "4",
+            "label": "Gembung Bulan"
+        }
+    ],
+    "answer": "0"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2018011",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018011"
+    ],
+    "question": "<p>Pada saat hari proklamasi NKRI, fase Bulan ada di sekitar hari ke-8 atau ke-9. Diketahui bahwa 19 tahun surya bersesuaian dengan 235 periode sinodis Bulan (yang disebut siklus Meton). Tanggal 17 Agustus 2021 bertepatan dengan fase Bulan hari</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "ke-8 atau ke-9"
+        },
+        {
+            "value": "1",
+            "label": "ke-12 atau ke-13"
+        },
+        {
+            "value": "2",
+            "label": "ke-2 atau ke-3"
+        },
+        {
+            "value": "3",
+            "label": "ke-4 atau ke-5"
+        },
+        {
+            "value": "4",
+            "label": "purnama"
+        }
+    ],
+    "answer": "0"
+}

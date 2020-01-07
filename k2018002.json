@@ -1,0 +1,33 @@
+{
+    "id": "k2018002",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018002"
+    ],
+    "question": "<p>Pengamat spektroskopik <em>Supernova Remnant</em> pada rentang panjang gelombang sinar-X menunjukkan garis-garis emisi bukti peluruhan atom Titanium-44 ($^{44}$Ti). Diketahui massa awal atom $^{44}$Ti tersebut $3,1 \\times 10^{-4</em> M_{\\odot}$, waktu paruh atom tersebut adalah 60 tahun, dan umur <em>Supernova Remnant</em> sekitar 5000 tahun. Tentukan berapa kelimpahan atom $^{44}$Ti saat ini.</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "50,6 g"
+        },
+        {
+            "value": "1",
+            "label": "506 g"
+        },
+        {
+            "value": "2",
+            "label": "50,6 kg"
+        },
+        {
+            "value": "3",
+            "label": "$2,5 \\times 10^{-29}$ kg"
+        },
+        {
+            "value": "4",
+            "label": "$2,5 \\times 10^{-29}$ g"
+        }
+    ],
+    "answer": "2"
+}

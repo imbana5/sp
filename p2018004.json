@@ -1,0 +1,33 @@
+{
+    "id": "p2018004",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018004"
+    ],
+    "question": "<p>Pilihlah pernyataan yang SALAH di bawah ini:</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Bintang dapat runtuh dalam hitungan beberapa menit."
+        },
+        {
+            "value": "1",
+            "label": "Bintang dapat menghabiskan energi panas (termal) dalam beberapa jam."
+        },
+        {
+            "value": "2",
+            "label": "Bintang dapat melakukan reaksi fusi nuklir selama milyaran tahun."
+        },
+        {
+            "value": "3",
+            "label": "Bintang dapat bermassa puluhan kali massa Matahari."
+        },
+        {
+            "value": "4",
+            "label": "Temperatur bintang dapat menurun dari pusat hingga fotosfer, lalu meningkat kembali ke arah korona bintang."
+        }
+    ],
+    "answer": "1"
+}

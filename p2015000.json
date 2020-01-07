@@ -1,0 +1,33 @@
+{
+    "id": "p2015000",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015000"
+    ],
+    "question": "<p>Sistem bintang ganda Albireo terdiri atas dua buah bintang dengan magnitudo masing-masing komponen adalah 3,35 dan 5,9. Seorang pengamat mengamati sistem bintang ganda Albireo ini dengan mata telanjang. Terang sistem bintang yang terlihat adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "2,55"
+        },
+        {
+            "value": "1",
+            "label": "3,25"
+        },
+        {
+            "value": "2",
+            "label": "4,63"
+        },
+        {
+            "value": "3",
+            "label": "5,90"
+        },
+        {
+            "value": "4",
+            "label": "9,25"
+        }
+    ],
+    "answer": "1"
+}

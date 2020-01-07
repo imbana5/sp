@@ -1,0 +1,33 @@
+{
+    "id": "p2016011",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016011"
+    ],
+    "question": "<p>Di antara empat pernyataan berikut, yang merupakan karakteristik materi antar bintang adalah</p><ol><li>Dalam besaran massa, materi antar bintang tersusun atas Hidrogen, Helium, dan sedikit unsur berat </li><li>Daerah hidrogen terionisasi (\\textit{HII region}) terjadi akibat radiasi ultraviolet dari bintang panas di dekatnya</li><li>Materi antar bintang dapat terkait dengan pembentukan dan kematian bintang</li><li>Hanya ada satu kelompok daerah dalam materi antar bintang yaitu yang berhubungan dengan pembentukan bintang</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "4"
+}

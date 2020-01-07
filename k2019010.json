@@ -1,0 +1,33 @@
+{
+    "id": "k2019010",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019010"
+    ],
+    "question": "<p>Sudut kritis pada Hukum Snellius terjadi jika sudut bias membentuk sudut sebesar 90 derajat. Seberkas sinar merambat dari medium rapat ke medium renggang. Jika indeks bias air sebesar 1,33 dan indeks bias <em>crown glass</em> sebesar 1,52, maka sudut kritisnya adalah sebesar</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "41,1^{\\circ}"
+        },
+        {
+            "value": "1",
+            "label": "48,6^{\\circ}"
+        },
+        {
+            "value": "2",
+            "label": "50,0^{\\circ}"
+        },
+        {
+            "value": "3",
+            "label": "61,0^{\\circ}"
+        },
+        {
+            "value": "4",
+            "label": "63,1^{\\circ}"
+        }
+    ],
+    "answer": "3"
+}

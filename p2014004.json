@@ -1,0 +1,33 @@
+{
+    "id": "p2014004",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014004"
+    ],
+    "question": "<p>Panjang satu tahun kabisat pada Kalender Matahari Kala Sunda (KMKS) dan Kalender Matahari Gregorian (KMG) adalah 366. Panjang satu tahun basit pada kedua kalender tersebut adalah 365 hari. Aturan tahun kabisat pada KMKS adalah setiap tahun yang habis dibagi 4 dan tidak habis dibagi 128. Aturan tahun kabisat pada KMG adalah setiap tahun kelipatan 100 yang habis dibagi 400, atau setiap tahun bukan kelipatan 100 yang habis dibagi 4. Aturan tahun basit pada kedua kalender tersebut adalah tahun yang tidak memenuhi aturan tahun kabisat. Dengan demikian, dalam kurun waktu 51200 tahun</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "KMG mempunyai 16 tahun kabisat lebih banyak daripada KMKS"
+        },
+        {
+            "value": "1",
+            "label": "KMKS mempunyai 16 tahun kabisat lebih banyak daripada KMG"
+        },
+        {
+            "value": "2",
+            "label": "KMG mempunyai jumlah tahun kabisat sama dengan KMKS"
+        },
+        {
+            "value": "3",
+            "label": "KMG mempunyai 31 tahun kabisat lebih banyak daripada KMKS"
+        },
+        {
+            "value": "4",
+            "label": "KMKS mempunyai 31 tahun kabisat lebih banyak daripada KMG"
+        }
+    ],
+    "answer": "0"
+}

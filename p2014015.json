@@ -1,0 +1,33 @@
+{
+    "id": "p2014015",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014015"
+    ],
+    "question": "<p>Jarak terdekat komet P/Halley (periode = 76 tahun) ke Matahari adalah $8.9 \\times 10^{10}$ meter. Eksentrisitasnya adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "0,567"
+        },
+        {
+            "value": "1",
+            "label": "0,667"
+        },
+        {
+            "value": "2",
+            "label": "0,767"
+        },
+        {
+            "value": "3",
+            "label": "0,867"
+        },
+        {
+            "value": "4",
+            "label": "0,967"
+        }
+    ],
+    "answer": "4"
+}

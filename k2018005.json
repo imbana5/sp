@@ -1,0 +1,33 @@
+{
+    "id": "k2018005",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018005"
+    ],
+    "question": "<p>Which statement best describes the position of the Sun at sunrise and sunset as seen by an observer in northern hemisphere on June 21?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "The Sun rises north of due east and sets north of due west."
+        },
+        {
+            "value": "1",
+            "label": "The Sun rises south of due east and sets south of due west."
+        },
+        {
+            "value": "2",
+            "label": "The Sun rises north of due east and sets south of due west."
+        },
+        {
+            "value": "3",
+            "label": "The Sun rises south of due east and sets north of due west."
+        },
+        {
+            "value": "4",
+            "label": "The Sun rises due east and sets due west."
+        }
+    ],
+    "answer": "0"
+}

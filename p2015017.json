@@ -1,0 +1,33 @@
+{
+    "id": "p2015017",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015017"
+    ],
+    "question": "<p>Di antara pernyataan di bawah ini, manakah yang BENAR?</p><ol><li>Unsur yang lebih berat dari besi (Fe) dihasilkan saat ledakan Supernova.</li><li>Bintang deret utama melawan pengerutan gravitasi dengan tekanan elektron terdegenerasi. </li><li>Bintang dengan massa yang cukup besar mampu melakukan reaksi fusi di inti yang menghasilkan unsur yang lebih berat dari besi (Fe).</li><li>Pada reaksi fusi hidrogen, empat inti hidrogen membentuk satu inti helium.  Total massa satu inti helium lebih kecil daripada total massa empat inti hidrogen.</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "5"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "k2019006",
+    "level": "k",
+    "year": "2019",
+    "categories": [],
+    "tags": [
+        "k2019006"
+    ],
+    "question": "<p>Terdapat dua vektor gaya $\\overrightarrow{F}_{1} = 10(\\hat{i}, 2\\hat{j}, 3\\hat{k})$ N dan $\\overrightarrow{F}_{2} = 5(\\hat{i}, 3\\hat{j}, 5\\hat{k})$ N yang bekerja pada suatu benda. Hal ini mengakibatkan benda berpindah dengan vektor perpindahan $\\overrightarrow{r} = (10\\hat{i}, 10\\hat{j}, 5\\hat{k})$ m. Usaha yang dilakukan gaya tersebut, dalam satuan Nm, adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "150"
+        },
+        {
+            "value": "1",
+            "label": "225"
+        },
+        {
+            "value": "2",
+            "label": "300"
+        },
+        {
+            "value": "3",
+            "label": "775"
+        },
+        {
+            "value": "4",
+            "label": "900"
+        }
+    ],
+    "answer": "3"
+}

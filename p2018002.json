@@ -1,0 +1,33 @@
+{
+    "id": "p2018002",
+    "level": "p",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "p2018002"
+    ],
+    "question": "<p>Hasil pengamatan menyimpulkan bahwa alam semesta mengembang. Hal ini diperoleh dari pengamatan</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Gelombang gravitasi dari materi gelap."
+        },
+        {
+            "value": "1",
+            "label": "Gugus bola di Galaksi Bima Sakti bergerak mengelilingi pusat galaksi."
+        },
+        {
+            "value": "2",
+            "label": "Pergeseran merah dari supernova SN Ia."
+        },
+        {
+            "value": "3",
+            "label": "Pergeseran merah dari bintang-bintang di tepi lengan spiral Bima Sakti."
+        },
+        {
+            "value": "4",
+            "label": "Pergeseran merah dari eksoplanet di Galaksi Bima Sakti."
+        }
+    ],
+    "answer": "2"
+}

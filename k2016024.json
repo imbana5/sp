@@ -1,0 +1,33 @@
+{
+    "id": "k2016024",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016024"
+    ],
+    "question": "<p>Masyarakat di kota-kota berikut ini dapat mengamati Gerhana Matahari Total yang akan terjadi pada bulan Maret 2016.</p><ol><li>Palembang (Sumatera Selatan)</li><li>Sofifi (Maluku Utara)</li><li>Palangkaraya (Kalimantan Tengah)</li><li>Pontianak (Kalimantan Barat)</li></ol>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1, 2, dan 3 benar"
+        },
+        {
+            "value": "1",
+            "label": "1 dan 3 benar"
+        },
+        {
+            "value": "2",
+            "label": "2 dan 4 benar"
+        },
+        {
+            "value": "3",
+            "label": "hanya 4 benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar atau semua salah"
+        }
+    ],
+    "answer": "0"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "p2017003",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017003"
+    ],
+    "question": "<p>Kita tidak mengharapkan akan dapat mempelajari evolusi kehidupan di planet yang mengelilingi bintang bermassa besar, karena</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "bintang bermassa besar luminositasnya amat tinggi"
+        },
+        {
+            "value": "1",
+            "label": "kala hidup bintang bermassa besar terlalu pendek"
+        },
+        {
+            "value": "2",
+            "label": "planet pada bintang bermassa besar terlalu panas untuk makhluk hidup"
+        },
+        {
+            "value": "3",
+            "label": "orbit planet pada bintang bermassa besar tidak akan stabil"
+        },
+        {
+            "value": "4",
+            "label": "semua alasan di atas benar"
+        }
+    ],
+    "answer": "1"
+}

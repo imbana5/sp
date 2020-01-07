@@ -1,0 +1,29 @@
+{
+    "id": "p2014017",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014017"
+    ],
+    "question": "<p>Hingga saat ini, anggota Tata Surya yang diketahui mempunyai medan magnet adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Bumi"
+        },
+        {
+            "value": "1",
+            "label": "Venus"
+        },
+        {
+            "value": "2",
+            "label": "Jupiter"
+        },
+        {
+            "value": "3",
+            "label": "Mars"
+        }
+    ],
+    "answer": "1"
+}

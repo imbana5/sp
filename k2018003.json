@@ -1,0 +1,33 @@
+{
+    "id": "k2018003",
+    "level": "k",
+    "year": "2018",
+    "categories": [],
+    "tags": [
+        "k2018003"
+    ],
+    "question": "<p>Suatu percobaan dilakukan di permukaan planet Mars. Pada percobaan tersebut, gelas tabung terbuka dengan jejari 1 cm diisi dengan 2 cm minyak dan 3 cm air. Tentukan tekanan di dasar gelas tabung tersebut. (Massa jenis minyak, $\\rho_{\\text{minyak}} = 0,82 \\rho_{\\text{air}} $)</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "1 atm"
+        },
+        {
+            "value": "1",
+            "label": "17,1 Pa"
+        },
+        {
+            "value": "2",
+            "label": "171 Pa"
+        },
+        {
+            "value": "3",
+            "label": "0,0171 Pa"
+        },
+        {
+            "value": "4",
+            "label": "0,0168 atm"
+        }
+    ],
+    "answer": "2"
+}

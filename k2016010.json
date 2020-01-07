@@ -1,0 +1,33 @@
+{
+    "id": "k2016010",
+    "level": "k",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "k2016010"
+    ],
+    "question": "<p>Pada suatu saat, komet ISON teramati berada pada jarak 2,0 sa dengan sudut $135^{\\circ}$ dari arah Matahari, maka jarak komet ISON dari Matahari saat itu adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "2,8 sa"
+        },
+        {
+            "value": "1",
+            "label": "3,6 sa"
+        },
+        {
+            "value": "2",
+            "label": "5,0 sa"
+        },
+        {
+            "value": "3",
+            "label": "5,3 sa"
+        },
+        {
+            "value": "4",
+            "label": "6,4 sa"
+        }
+    ],
+    "answer": "0"
+}

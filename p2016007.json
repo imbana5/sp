@@ -1,0 +1,33 @@
+{
+    "id": "p2016007",
+    "level": "p",
+    "year": "2016",
+    "categories": [],
+    "tags": [
+        "p2016007"
+    ],
+    "question": "<p>Pada tanggal 9 Maret 2016 pagi hari akan berlangsung Gerhana Matahari Total yang jalurnya melewati Indonesia, di antaranya kota Palembang, Palangkaraya, dan Palu. Perkiraan posisi Bulan dalam sistem koordinat ekuatorial ($\\alpha, \\delta$) pada saat tersebut adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "(23 jam, $-4^{\\circ}$)"
+        },
+        {
+            "value": "1",
+            "label": "(01 jam, $+4^{\\circ}$)"
+        },
+        {
+            "value": "2",
+            "label": "(23 jam, $-1^{\\circ}$)"
+        },
+        {
+            "value": "3",
+            "label": "(23 jam, $+1^{\\circ}$)"
+        },
+        {
+            "value": "4",
+            "label": "(24 jam, $+0^{\\circ}$)"
+        }
+    ],
+    "answer": "0"
+}

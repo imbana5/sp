@@ -1,0 +1,33 @@
+{
+    "id": "p2017007",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017007"
+    ],
+    "question": "<p>Diketahui percepatan relatif sebuah wahana antariksa terhadap percepatan gravitasi Bumi adalah sebesar 2 m/detik$^{2}$. Massa wahana itu adalah sebesar 13150 kg. Hitung berapa lama wahana tersebut bisa mencapai kecepatan lepas Bumi jika awalnya wahana berada dalam keadaan diam kemudian bergerak tegak lurus terhadap permukaan Bumi</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "2 detik"
+        },
+        {
+            "value": "1",
+            "label": "250 detik"
+        },
+        {
+            "value": "2",
+            "label": "90 menit"
+        },
+        {
+            "value": "3",
+            "label": "120 menit"
+        },
+        {
+            "value": "4",
+            "label": "120 jam"
+        }
+    ],
+    "answer": "5"
+}

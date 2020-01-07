@@ -1,0 +1,29 @@
+{
+    "id": "p2014018",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014018"
+    ],
+    "question": "<p>Satelit alami yang saat ini diketahui TIDAK mempunyai atmosfer adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "Bulan"
+        },
+        {
+            "value": "1",
+            "label": "Titan"
+        },
+        {
+            "value": "2",
+            "label": "Phobos"
+        },
+        {
+            "value": "3",
+            "label": "Io"
+        }
+    ],
+    "answer": "1"
+}

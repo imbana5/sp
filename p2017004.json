@@ -1,0 +1,33 @@
+{
+    "id": "p2017004",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017004"
+    ],
+    "question": "<p>Objek di bawah ini yang dapat digunakan untuk menentukan pusat Galaksi kita adalah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "bintang muda"
+        },
+        {
+            "value": "1",
+            "label": "awan antar bintang"
+        },
+        {
+            "value": "2",
+            "label": "gugus bola"
+        },
+        {
+            "value": "3",
+            "label": "gas Hidrogen dingin"
+        },
+        {
+            "value": "4",
+            "label": "bintang bermassa 20 $M_{\\odot}$"
+        }
+    ],
+    "answer": "2"
+}

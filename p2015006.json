@@ -1,0 +1,33 @@
+{
+    "id": "p2015006",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015006"
+    ],
+    "question": "<p>Manakah di antara materi di bawah ini yang BUKAN merupakan pengurai cahaya?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "kisi"
+        },
+        {
+            "value": "1",
+            "label": "prisma"
+        },
+        {
+            "value": "2",
+            "label": "titik air di udara"
+        },
+        {
+            "value": "3",
+            "label": "filter"
+        },
+        {
+            "value": "4",
+            "label": "CD/DVD"
+        }
+    ],
+    "answer": "3"
+}

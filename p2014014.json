@@ -1,0 +1,33 @@
+{
+    "id": "p2014014",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014014"
+    ],
+    "question": "<p>Agar sebuah teleskop dapat melihat dengan jelas sebuah kawah di Bulan dengan diameter 2 kilometer, maka teleskop itu harus mempunyai daya pisah</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "kurang dari 1,0 detik busur"
+        },
+        {
+            "value": "1",
+            "label": "sekitar 1,2 detik busur"
+        },
+        {
+            "value": "2",
+            "label": "lebih besar dari 1,4 detik busur"
+        },
+        {
+            "value": "3",
+            "label": "1,6 detik busur"
+        },
+        {
+            "value": "4",
+            "label": "antara 1,5 dan 1,8 detik busur"
+        }
+    ],
+    "answer": "0"
+}

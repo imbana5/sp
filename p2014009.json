@@ -1,0 +1,33 @@
+{
+    "id": "p2014009",
+    "level": "p",
+    "year": "2014",
+    "categories": [],
+    "tags": [
+        "p2014009"
+    ],
+    "question": "<p>Berikut ini adalah koordinat ekuator dua benda langit pada tanggal 9 April 2014: Mars $\\alpha = 13^{j}12^{m}$, $\\delta = -5^{\\circ}2'$ dan Matahari $\\alpha = 1^{j}10^{m}$, $\\delta = +7^{\\circ}23'$. Dari sebuah pulau kecil dengan lintang geografis $0^{\\circ}$, berapa lamakah pada malam itu Mars berada di atas horizon?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "12 jam"
+        },
+        {
+            "value": "1",
+            "label": "14 jam"
+        },
+        {
+            "value": "2",
+            "label": "2 jam"
+        },
+        {
+            "value": "3",
+            "label": "6 jam"
+        },
+        {
+            "value": "4",
+            "label": "7 jam"
+        }
+    ],
+    "answer": "0"
+}

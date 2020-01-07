@@ -1,0 +1,33 @@
+{
+    "id": "p2015004",
+    "level": "p",
+    "year": "2015",
+    "categories": [],
+    "tags": [
+        "p2015004"
+    ],
+    "question": "<p>Teleskop Bimasakti yang ada di Observatorium Bosscha memiliki cermin dengan diameter 71 cm dan lensa koreksi berdiameter 51 cm serta <em>focal ratio</em> <em>f/}2,5. Berapa persenkah cahaya yang diterima oleh cermin utama dibandingkan dengan jika cermin utama itu dipakai tanpa lensa koreksi dan tanpa tabung?</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "10%"
+        },
+        {
+            "value": "1",
+            "label": "20%"
+        },
+        {
+            "value": "2",
+            "label": "27%"
+        },
+        {
+            "value": "3",
+            "label": "52%"
+        },
+        {
+            "value": "4",
+            "label": "100%"
+        }
+    ],
+    "answer": "3"
+}

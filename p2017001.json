@@ -1,0 +1,33 @@
+{
+    "id": "p2017001",
+    "level": "p",
+    "year": "2017",
+    "categories": [],
+    "tags": [
+        "p2017001"
+    ],
+    "question": "<p>Berapa periode rotasi ekuator sebuah bintang katai putih yang berukuran sama dengan Planet Bumi dan memiliki massa sama dengan massa Matahari? (Anggaplah momentum sudut sebesar momentum sudut Matahari)</p>",
+    "choices": [
+        {
+            "value": "0",
+            "label": "33 hari"
+        },
+        {
+            "value": "1",
+            "label": "3,3 hari"
+        },
+        {
+            "value": "2",
+            "label": "3,3 jam"
+        },
+        {
+            "value": "3",
+            "label": "3,3 menit"
+        },
+        {
+            "value": "4",
+            "label": "3,3 detik"
+        }
+    ],
+    "answer": "3"
+}
