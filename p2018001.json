@@ -29,5 +29,6 @@
             "label": "$3,9\\times 10^6$ km/detik"
         }
     ],
-    "answer": "4"
+    "answer": "4",
+    "explain": "<p>Dalam proses ini dapat kita asumsikan besar (dan arah) momentum sudut bintang tetap/kekal, sebelum mengalami keruntuhan (indeks $i$) dan setelahnya (indeks $f$),</p>$$\\begin{eqnarray*}L_i & = & L_f\\\\I_i\\omega_i & = & I_f\\omega_f\\\\\\end{eqnarray*}$$<p>Dengan asumsi bola pejal dan rotasi seperti benda tegar, berlaku:</p>$$\\begin{eqnarray*}\\frac{2}{5}M_iR_i^2\\frac{v_i}{R_i} & = & \\frac{2}{5}M_fR_f^2\\frac{v_f}{R_f}\\\\\\end{eqnarray*}$$<p>Massa bintang tidak berubah sehingga $M_i=M_f$.</p>$$\\begin{eqnarray*}R_iv_i&=&R_fv_f\\\\v_f&=&\\frac{R_i}{R_f}v_i\\\\v_f&=&\\frac{R_i}{R_f}\\frac{2\\pi R_i}{P_i}\\\\v_f&=&3,91\\times 10^6\\text{ km/detik}\\end{eqnarray*}$$<p>Jadi, jawaban yang paling tepat adalah E.</p><p>Catatan: jangan lupa mengubah satuan pada data yang diketahui ke satuan yang sesuai.</p>"
 }

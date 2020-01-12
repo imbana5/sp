@@ -6,7 +6,7 @@
     "tags": [
         "k2016014"
     ],
-    "question": "<p>Untuk lepas dari tarikan gravitasi, sebuah benda harus memiliki energi kinetik yang sama besar dengan energi potensial gravitasinya. Berapakah kecepatan minimum pesawat luar angkasa untuk lepas dari gravitasi Bumi jika diluncurkan dari ISS (\\textit{lnternational Space Station}) yang mengorbit Bumi pada ketinggian 414 km?</p>",
+    "question": "<p>Untuk lepas dari tarikan gravitasi, sebuah benda harus memiliki energi kinetik yang sama besar dengan energi potensial gravitasinya. Berapakah kecepatan minimum pesawat luar angkasa untuk lepas dari gravitasi Bumi jika diluncurkan dari ISS (<i>lnternational Space Station</i>) yang mengorbit Bumi pada ketinggian 414 km?</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "29,7 km/s"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>Untuk lepas dari tarikan gravitasi, energi totalnya minimal nol, artinya energi kinetiknya $\\geq$ energi potensial gravitasinya.</p>$$\\begin{eqnarray*}E_{\\text{kinetik}} + E_{\\text{potensial}} &amp;=&amp; 0\\\\\\frac{1}{2} m v^2 - \\frac{GMm}{r} &amp;=&amp; 0\\\\\\frac{1}{2} m v^2 &amp;=&amp; \\frac{GMm}{r}\\\\v_{\\text{esc}} &amp;=&amp; \\sqrt{\\frac{2GM}{r}}\\\\v_{\\text{esc}} &amp;=&amp; \\sqrt{\\frac{2 \\cdot 6,67 \\times 10^{-11} \\cdot 5,97 \\times 10^{24}}{(6,378 \\times 10^{6} + 414 \\times 10^3)}}\\\\v_{\\text{esc}} &amp;=&amp; 10828,45 \\quad \\text{m/s} = 10,83 \\quad \\text{km/s}\\end{eqnarray*}$$"
 }

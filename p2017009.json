@@ -6,7 +6,7 @@
     "tags": [
         "p2017009"
     ],
-    "question": "<p>Tabel berikut adalah data untuk Bintang GI 581 yang memiliki sistem keplanetan</p>\\[\\caption*{Data GI 581}\\begin{array}{|c|c|c|c|}\\hlineKelas spektrum & Magnitudo visual & Magnitudo mutlak bolometrik & Jarak ke Bumi \\\\\\hlineM3 & 10,55 & 9,58 & 6,21 pc \\\\\\hline\\end{array}\\]<p>Beberapa planet di antaranya ditemukan berada pada zona yang dapat dihuni (\\textit{habitable zone}, <em>HZ}) dari bintang. <em>Habitable zone</em> adalah zona seputar bintang dengan tekanan atmosfer sedemikian rupa sehingga dapat ditemukan air berwujud cair di permukaan planet. Rumus empirik untuk batas dalam dan batas luar masing-masing adalah</p>\\begin{eqnarray*}HZ_{in} &=& 0,95\\sqrt{\\frac{L_*}{L_{\\odot}}} \\quad \\text{au} \\\\HZ_{out} &=& 1,37\\sqrt{\\frac{L_*}{L_{\\odot}}} \\quad \\text{au}\\end{eqnarray*}<p>dengan $L_*$ dan $L_{\\odot}$ adalah luminositas bintang dan Matahari. Nilai batas dalam dan batas luar untuk GI 581 dalam satuan au masing-masing adalah</p>",
+    "question": "<p>Tabel berikut adalah data untuk Bintang GI 581 yang memiliki sistem keplanetan</p><table class='table table-bordered'><tr><td>Kelas spektrum</td><td>Magnitudo visual</td><td>Magnitudo mutlak bolometrik</td><td>Jarak ke Bumi</td></tr><tr><td>M3</td><td>10,55</td><td>9,58</td><td>6,21 pc</td></tr></table><p>Beberapa planet di antaranya ditemukan berada pada zona yang dapat dihuni (<i>habitable zone</i>, <i>HZ</i>) dari bintang. <i>Habitable zone</i> adalah zona seputar bintang dengan tekanan atmosfer sedemikian rupa sehingga dapat ditemukan air berwujud cair di permukaan planet. Rumus empirik untuk batas dalam dan batas luar masing-masing adalah</p>$$\\begin{eqnarray*}HZ_{in} &=& 0,95\\sqrt{\\frac{L_*}{L_{\\odot}}} \\quad \\text{au} \\\\HZ_{out} &=& 1,37\\sqrt{\\frac{L_*}{L_{\\odot}}} \\quad \\text{au}\\end{eqnarray*}$$<p>dengan $L_*$ dan $L_{\\odot}$ adalah luminositas bintang dan Matahari. Nilai batas dalam dan batas luar untuk GI 581 dalam satuan au masing-masing adalah</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "0,95 dan 1,15"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>Tentukan terlebih dahulu luminositas bintang $L_*$ dengan memanfaatkan magnitudo mutlak bolometrik bintang $M_{bol}$ dan magnitudo mutlak bolometrik Matahari $M_{bol \\odot}$.</p>$$\\begin{eqnarray*}M_{bol}-M_{bol \\odot} &=& -2,5\\log\\frac{L_*}{L_{\\odot}}\\\\9,58-4,72 &=& -2,5\\log\\frac{L_*}{L_{\\odot}}\\\\L_* &=& 0,01L_{\\odot}\\end{eqnarray*}$$$$\\begin{eqnarray*}HZ_{in} &=& 0,95\\sqrt{\\frac{0,01L_{\\odot}}{L_{\\odot}}} = 0,101\\\\HZ_{out} &=& 1,37\\sqrt{\\frac{0,01L_{\\odot}}{L_{\\odot}}}=0,146\\end{eqnarray*}$$"
 }

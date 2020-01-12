@@ -29,5 +29,6 @@
             "label": "1 tahun"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Momentum sudut awan sebelum dan setelah pengerutan kekal. Jika diasumsikan awan seperti bola padat, $I{awan}=\\frac{2}{5}m_{awan}r_{awan}^2$. Massa awal ($m_i$) dan massa akhir ($m_f$) sama.</p>$$\\begin{eqnarray*}L_i &=& L_f \\\\I_i\\omega_i &=& I_f\\omega_f \\\\\\frac{2}{5}m_i r_i^2 \\frac{2\\pi}{P_i}&=&\\frac{2}{5}m_f r_f^2 \\frac{2\\pi}{P_f}\\\\P_f&=&\\left(\\frac{r_f}{r_i}\\right)^2 P_i\\\\P_f&=&\\left(\\frac{5R_{\\odot}}{100R_{\\odot}}\\right)^2 2000 \\\\P_f&=&5,\\end{eqnarray*}$$<p>dalam satuan tahun.</p>"
 }

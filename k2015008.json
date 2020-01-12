@@ -29,5 +29,6 @@
             "label": "$1 : 10^{11}$"
         }
     ],
-    "answer": "4"
+    "answer": "4",
+    "explain": "<p>Energi pada panjang gelombang radio: $E_r=hf=6,63\\times 10^{-34}1400\\times 10^6$ JsHz (Hz sama dengan s$^{-1}$), $E_r=9,28\\times 10^{-25}$ Joule.</p><p>Energi sinar-X: $E_x=100$ keV, $E_x=1,6\\times 10^{-14}$</p><p>Perbandingan: $\\frac{E_r}{E_x}=5,8\\times 10^{-11}=1,72\\times 10^{10}$, jawaban paling mendekati pada orde $1:10^{11}$.</p>"
 }

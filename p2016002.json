@@ -6,7 +6,7 @@
     "tags": [
         "p2016002"
     ],
-    "question": "<p>Radius bintang katai putih memenuhi hubungan</p>\\begin{equation*}R \\approx \\frac{R_{\\odot}}{74} \\left( \\frac{M_{\\odot}}{M} \\right)^{1/3}\\end{equation*}<p>Jika bintang katai putih dianggap sebagai benda hitam sempurna serta memiliki massa 0,4 massa Matahari ($M_{\\odot}$) dan temperatur efektif ($T_{\\text{eff}}$) 10000 K, maka luminositas bintang (dalam satuan $L_{\\odot}$) adalah</p>",
+    "question": "<p>Radius bintang katai putih memenuhi hubungan</p>$$\\begin{equation*}R \\approx \\frac{R_{\\odot}}{74} \\left( \\frac{M_{\\odot}}{M} \\right)^{1/3}\\end{equation*}$$<p>Jika bintang katai putih dianggap sebagai benda hitam sempurna serta memiliki massa 0,4 massa Matahari ($M_{\\odot}$) dan temperatur efektif ($T_{\\text{eff}}$) 10000 K, maka luminositas bintang (dalam satuan $L_{\\odot}$) adalah</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "$7,6 \\times 10^{4}$"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Untuk $M = 0,4 M_{\\odot}$ kita peroleh</p>$$\\begin{equation*}R \\approx \\frac{R_{\\odot}}{74} \\left( \\frac{M_{\\odot}}{0.4 M_{\\odot}} \\right)^{1/3} = 0,0183 R_{\\odot}\\end{equation*}$$<p>Luminositas bintang katai putih menjadi</p>$$\\begin{eqnarray*}\\frac{L}{L_{\\odot}} &amp;=&amp; \\frac{\\sigma T^4 4 \\pi R^2}{\\sigma T_{\\odot}^4 4 \\pi R_{\\odot}^2}\\\\\\frac{L}{L_{\\odot}} &amp;=&amp; \\left( \\frac{T}{T_{\\odot}}\\right)^{4} \\left( \\frac{R}{R_{\\odot}} \\right)^2\\\\\\frac{L}{L_{\\odot}} &amp;=&amp; \\left(\\frac{10000}{5785}\\right)^{4} \\left( \\frac{0,0183 R_{\\odot}}{R_{\\odot}} \\right)^2\\\\\\frac{L}{L_{\\odot}} &amp;=&amp; 2,99 \\times 10^{-3}\\end{eqnarray*}$$"
 }

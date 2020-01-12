@@ -6,28 +6,29 @@
     "tags": [
         "k2018013"
     ],
-    "question": "<p>Which of the following stars is circumpolar in Romania (26^{\\circ} 0` E, 44^{\\circ} 25' N)</p>",
+    "question": "<p>Which of the following stars is circumpolar in Romania (26$^{\\circ}$ 0' E, 44$^{\\circ}$ 25' N)</p>",
     "choices": [
         {
             "value": "0",
-            "label": "$\\zeta$ Herculis (16h 41m/+31^{\\circ} 36')"
+            "label": "$\\zeta$ Herculis (16h 41m, +31$^{\\circ}$ 36')"
         },
         {
             "value": "1",
-            "label": "$\\beta$ Bootis (15h 01m/+40^{\\circ} 23')"
+            "label": "$\\beta$ Bootis (15h 01m, +40$^{\\circ}$ 23')"
         },
         {
             "value": "2",
-            "label": "$\\theta$ Aurigae (5h 59m/+37^{\\circ} 12')"
+            "label": "$\\theta$ Aurigae (5h 59m +37$^{\\circ}$ 12')"
         },
         {
             "value": "3",
-            "label": "$\\gamma$ Draconis (17h 56m/+51^{\\circ} 26')"
+            "label": "$\\gamma$ Draconis (17h 56m +51$^{\\circ}$ 26')"
         },
         {
             "value": "4",
             "label": "None of the stars above"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>For a star to be circumpolar from an observer on Earth, its declination ($\\delta_*$) must satisfy: $\\delta_*+\\phi\\geq 90^{\\circ}$. With $\\phi$ is the observer's latitude. Therefore, from Romania, circumpolar stars must have $\\delta \\geq $45^{\\circ} 35'$ and the correct answer is D.</p>"
 }

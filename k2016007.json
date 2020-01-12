@@ -6,7 +6,7 @@
     "tags": [
         "k2016007"
     ],
-    "question": "<p>Di sebuah eksoplanet, terdapat organisme sejumlah</p>\\begin{equation*}N_{\\text{awal}} = \\frac{\\log{b^2}}{\\log{a}}\\end{equation*}<p>Dalam seabad, jumlah tersebut meningkat $^{b}\\log{c}$ kali. Kemudian, jumlahnya berkurang sebesar $^{a}\\log{\\frac{1}{c}}$ karena bencana. Jika $a$, $b$, dan $c$ merupakan bilangan positif, organisme yang tersisa adalah</p>",
+    "question": "<p>Di sebuah eksoplanet, terdapat organisme sejumlah</p>$$\\begin{equation*}N_{\\text{awal}} = \\frac{\\log{b^2}}{\\log{a}}\\end{equation*}$$<p>Dalam seabad, jumlah tersebut meningkat $^{b}\\log{c}$ kali. Kemudian, jumlahnya berkurang sebesar $^{a}\\log{\\frac{1}{c}}$ karena bencana. Jika $a$, $b$, dan $c$ merupakan bilangan positif, organisme yang tersisa adalah</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "$N_{\\text{akhir}} = 3 \\cdot ^{a}\\log{c}$"
         }
     ],
-    "answer": "4"
+    "answer": "4",
+    "explain": "<p>Meningkat $^{b}\\log{c}$ kali, lalu berkurang $^{a}\\log{\\frac{1}{c}}$</p>$$\\begin{eqnarray*}N_{\\text{akhir}} &amp;=&amp; \\frac{\\log{b^2}}{\\log{a}} \\cdot ^{b}\\log{c} - ^{a}\\log{\\frac{1}{c}}\\\\&amp;=&amp; ^{a}\\log{b^2} \\cdot ^{b}\\log{c} - ^{a}\\log{c^{-1}}\\\\&amp;=&amp; 2 \\cdot ^{a}\\log{b} \\cdot ^{b}\\log{c} + ^{a}\\log{c}\\\\&amp;=&amp; 2 \\cdot ^{a}\\log{c} + ^{a}\\log{c}\\\\&amp;=&amp; 3 \\cdot ^{a}\\log{c}\\end{eqnarray*}$$"
 }

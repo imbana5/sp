@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Bulan mengorbit Bumi dan bersama-sama mereka mengorbit Matahari. Asteroid secara definisi adalah benda-benda ``kecil'' yang mengorbit Matahari. (pernyataan 1 <b>benar</b>)</p><p>Ukuran asteroid memang lebih kecil daripada Bulan (pernyataan 2 <b>benar</b>), namun hal ini bukanlah penyebab dari perbedaan orbitnya dengan Bulan.</p><p>Asteroid mengorbit Matahari karena pengaruh gravitasi Matahari lebih besar daripada planet, sedangkan Bulan mengorbit Bumi karena pada jarak itu pengaruh gravitasi Bumi lebih kuat daripada Matahari. Asteroid bisa saja berubah `mengorbit' planet ketika berpapasan dekat dengan planet.</p>"
 }

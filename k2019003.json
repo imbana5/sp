@@ -29,5 +29,6 @@
             "label": "$0,34$ %"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>During that time ($\\Delta t$), the energy released by the Sun ($E$) with constant luminosity $L$ which can be taken from the table of constant is:</p>$$\\begin{eqnarray*}E&amp;=&amp;L \\cdot \\Delta t\\\\E&amp;=&amp;3,96\\times 10^{26} \\text{ Watt}\\times 10^{10} \\text{ years}\\times 365,25 \\frac{\\text{days}}{\\text{year}}\\times 24 \\frac{\\text{hours}}{\\text{day}}\\times 3600 \\frac{\\text{seconds}}{\\text{hour}}\\\\E&amp;=&amp;1,25\\times 10^{44} \\text{ Joule}.\\end{eqnarray*}$$<p>This energy is generated from the conversion of $\\Delta m$ mass into energy under the equation:</p>$$\\begin{eqnarray*}E&amp;=&amp;\\Delta m \\cdot c^2\\\\\\Delta m&amp;=&amp;\\frac{E}{c^2}\\\\\\Delta m&amp;=&amp;\\frac{1,25\\times 10^{44} \\text{ Joule}}{(3\\times 10^8 \\text{ }\\frac{\\text{m}}{\\text{s}})^2}\\\\\\Delta m&amp;=&amp;1,39\\times 10^{27} \\text{ kg}.\\end{eqnarray*}$$<p>In solar masses percentage:</p>$$\\begin{eqnarray*}\\frac{\\Delta m}{M_{\\odot}}&amp;=&amp;\\frac{1,39\\times 10^{27} \\text{ kg}}{1,99\\times 10^{30} \\text{ kg}}\\times 100\\%\\\\\\frac{\\Delta m}{M_{\\odot}}&amp;=&amp;6,98\\times 10^{-4}\\times 100\\%\\\\\\frac{\\Delta m}{M_{\\odot}}&amp;=&amp;0,07\\%.\\end{eqnarray*}$$"
 }

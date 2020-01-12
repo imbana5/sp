@@ -29,5 +29,6 @@
             "label": "1/2"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Ingat bahwa $\\ln$ adalah logaritma basis $e$,</p><p>$\\ln y = ^e\\log y=\\frac{\\log y}{\\log e}$.</p><p>Mari belajar logaritma; dan logaritma natural ($\\ln$)</p><p>Cara 1, kedua ruas dilogaritmakan dengan basis 10, menjadi:</p>$$\\begin{eqnarray*}\\log [(a^x)^2 \\exp^{\\ln a}]&=&\\log 1\\\\\\log a^{2x}+\\log e^{\\ln a}&=&0\\\\2x\\log a+\\ln a \\log e&=&0\\\\2x\\log a+ ^e\\log a \\log e&=&0\\\\2x\\log a+\\frac{\\log a}{\\log e} \\log e&=&0\\\\(2x + 1) \\log a &=&0\\\\2x+1&=&0\\\\x&=&-\\frac{1}{2}.\\end{eqnarray*}$$<p>Cara 2, kedua ruas dilogaritmakan dengan basis $e$, menjadi:</p>$$\\begin{eqnarray*}\\ln [(a^x)^2 \\exp^{\\ln a}]&=&\\ln 1\\\\\\ln a^{2x}+\\ln e^{\\ln a}&=&0\\\\2x\\ln a+\\ln a \\ln e&=&0\\\\(2x + 1) \\ln a &=&0\\\\2x+1&=&0\\\\x&=&-\\frac{1}{2}.\\end{eqnarray*}$$<p>Cara 3,</p>$$\\begin{eqnarray*}(a^x)^2 e^{\\ln a}&=& 1\\\\a^{2x} a &=& 1\\\\a^{2x + 1} &=& 1\\\\2x+1&=&0\\\\x&=&-\\frac{1}{2}.\\end{eqnarray*}$$<p>Catatan: </p><p>Solusi tunggal di atas hanya berlaku untuk $a \\neq 1$. </p><p>Jika $a = 1$, solusinya banyak: $x = -1/2, 0, 1/2, \\sqrt{2}, \\pi, \\infty, \\ldots$ dan lain sebagainya tak hingga banyaknya, karena 1 pangkat berapapun tetap 1.</p>"
 }

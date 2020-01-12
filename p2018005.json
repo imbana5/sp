@@ -6,7 +6,7 @@
     "tags": [
         "p2018005"
     ],
-    "question": "<p>Diketahui gugus bintang Pleiades memiliki anggota sebagai berikut</p>\\[\\begin{array}{|c|c|c|c|}\\hlineTYC2 & RAJ2000 & DEJ2000 & Paralaks\\\\& (jam menit detik) & (^{\\circ} \\hspace{0.5cm}'\\hspace{0.5cm} '') & (mili detik busur)\\\\\\hline1800-1974-1 & 03 46 13,7616 & +24 11 47,623 & 7,56\\\\\\hline1800-1908-1 & 03 46 27,3010 & +24 15 17,326 & 7,74\\\\\\hline1800-1935-1 & 03 47 10,0757 & +24 16 35,278 & 7,15\\\\\\hline1800-1579-1 & 03 47 04,2364 & +23 59 42,092 & 7,13\\\\\\hline1800-2201-1 & 03 47 21,0609 & +24 06 57,888 & 7,88\\\\\\hline1800-1607-1 & 03 47 19,3667 & +24 08 20,157 & 7,64\\\\\\hline\\end{array}\\]<p>Simpangan baku (standar deviasi) jarak bintang-bintang di gugus tersebut adalah</p>",
+    "question": "<p>Diketahui gugus bintang Pleiades memiliki anggota sebagai berikut</p><table class=\"table table-bordered\"><tbody><tr><td>TYC2</td><td>RAJ2000</td><td>DEJ2000</td><td>Paralaks</td></tr><tr><td><br></td><td>(jam menit detik)</td><td>($^{\\circ}$ ' '')<br></td><td>(mili detik busur)</td></tr><tr><td>1800-1974-1</td><td>03 46 13,7616</td><td>+24 11 47,623</td><td>7,56</td></tr><tr><td>1800-1908-1</td><td>03 46 27,3010</td><td>+24 15 17,326</td><td>7,74</td></tr><tr><td>1800-1935-1</td><td>03 47 10,0757</td><td>+24 16 35,278</td><td>7,15</td></tr><tr><td>1800-1579-1</td><td>03 47 04,2364</td><td>+23 59 42,092</td><td>7,13</td></tr><tr><td>1800-2201-1</td><td>03 47 21,0609</td><td>+24 06 57,888</td><td>7,88</td></tr><tr><td>1800-1607-1</td><td>03 47 19,3667</td><td>+24 08 20,157</td><td>7,64</td></tr></tbody></table><p>Simpangan baku (standar deviasi) jarak bintang-bintang di gugus tersebut adalah</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "0,31 pc"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Jarak bintang dan paralaks terhubung melalui persamaan: $d=\\frac{1}{p}$, dengan $d$ dalam parsek dan $p$ dalam detik busur.</p><table class='table table-bordered'><tr><td>$i$</td><td>$p_i$</td><td>$d_i$</td><td>$(d_i-\\overline{d})^2$</td></tr><tr><td>Bintang ke -</td><td>(mili detik busur)</td><td>parsek</td><td></td></tr><tr><td>1</td><td>7,56</td><td>132,275</td><td>0,912</td></tr><tr><td>2</td><td>7,74</td><td>129,199</td><td>16,250</td></tr><tr><td>3</td><td>7,15</td><td>139,860</td><td>43,958</td></tr><tr><td>4</td><td>7,13</td><td>140,252</td><td>49,314</td></tr><tr><td>5</td><td>7,88</td><td>126,904</td><td>40,025</td></tr><tr><td>6</td><td>7,64</td><td>130,890</td><td>5,476</td></tr><tr><td></td><td></td><td>$\\overline{d}=133,230$</td><td>$\\Sigma(d_i-\\overline{d})^2=155,934$</td></tr></table><p>Standar deviasi untuk sampel bintang anggota gugus di atas:</p><p>$$stdev=\\sqrt{\\frac{\\Sigma(d_i-\\overline{d})^2}{N-1}}=5,585$$</p><p>maka jawaban paling tepat adalah C.</p>"
 }

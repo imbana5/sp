@@ -6,7 +6,7 @@
     "tags": [
         "p2017013"
     ],
-    "question": "<p>Light exhibit polarization.</p><p><center>BECAUSE</center></p><p>Light waves oscillate in the direction of their wave propagation.\\\\</p>",
+    "question": "<p>Light exhibit polarization.</p><p><center>BECAUSE</center></p><p>Light waves oscillate in the direction of their wave propagation.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Electromagnetic radiation/light exhibit polarization. Electromagnetic radiation/light belongs to transversal waves, which oscillate in the direction perpendicular to the direction of their propagation.</p><p>First statement is true, second statement is wrong.</p>"
 }

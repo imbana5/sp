@@ -6,7 +6,7 @@
     "tags": [
         "p2017008"
     ],
-    "question": "<p>Foton dengan panjang gelombang datang sebesar 0,2\\AA~mengalami kehilangan energi. Panjang gelombang foton setelah kehilangan 73% energi adalah</p>",
+    "question": "<p>Foton dengan panjang gelombang datang sebesar 0,2<span>&#8491;</span> mengalami kehilangan energi. Panjang gelombang foton setelah kehilangan 73% energi adalah</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "$2,0\\times 10^{-11}$ m"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>$\\lambda_0=0,2$<span>&#8491;</span>, $E_0=\\frac{hc}{\\lambda_0}$.</p><p>Setelah kehilangan energi 73%:</p>$$\\begin{eqnarray*}\nE &=& (100\\%-73\\%)E_0\\\\\n\\frac{hc}{\\lambda} &=& 27\\% \\frac{hc}{\\lambda_0}\\\\\n\\lambda &=& \\frac{\\lambda_0}{27\\%} = 0,74 \\text{  Angstrom} = 7,4\\times 10^{-11} \\quad \\text{m}\n\\end{eqnarray*}$$"
 }

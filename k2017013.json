@@ -6,7 +6,7 @@
     "tags": [
         "k2017013"
     ],
-    "question": "<p>Nilai sudut jam akan sama untuk pengamat pada bujur yang sama, namun tidak demikian dengan ketinggian objek yang berbeda-beda bagi pengamat di tiap-tiap bujur.</p><p><center>SEBAB</center></p><p>Menentukan nilai sudut jam dihitung ketika objek berada di kulminasi atas dengan nilai 0 jam kemudian menuju ke barat (dengan nilai 6 jam), lalu ke posisi kulminasi bawah (dengan nilai 12 jam) dan kemudian ke arah barat dengan nilai -6 jam.\\\\</p>",
+    "question": "<p>Nilai sudut jam akan sama untuk pengamat pada bujur yang sama, namun tidak demikian dengan ketinggian objek yang berbeda-beda bagi pengamat di tiap-tiap bujur.</p><p><center>SEBAB</center></p><p>Menentukan nilai sudut jam dihitung ketika objek berada di kulminasi atas dengan nilai 0 jam kemudian menuju ke barat (dengan nilai 6 jam), lalu ke posisi kulminasi bawah (dengan nilai 12 jam) dan kemudian ke arah barat dengan nilai -6 jam.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Nilai sudut jam suatu bintang (objek jauh) akan sama jika dilihat dari bujur yang sama. Ketinggian bintang bisa jadi berbeda apabila lintang pengamat berbeda (walaupun bujurnya sama).</p><p>Pertanyaan kedua agak ambigu mengenai penyebutan arah Barat dan Timurnya. Sudut jam di ukur dari kulminasi atas ke arah Barat, bernilai 6 jam ketika proyeksi benda tersebut di ekuator langit tepat ada di titik Barat (begitu seterusnya); bendanya bisa jadi tidak akan melewati tepat titik Barat apabila deklinasinya tidak nol. Bagian terakhir seharusnya ke arah Timur yang bernilai -6 jam.</p><p>Sudut pandang lain mengenai bagian terakhir:</p><p>Bergerak ke arah Barat tidak dimaknai sebagai menuju titik barat saja. Mengapa demikian? Jika dimaknai menuju titik barat saja, pernyataan menjadi ambigu. Gerak searah gerak harian benda langit maupun berlawanan arah gerak harian benda langit akan dapat menuju titik yang sama, misalnya dalam hal ini titik Barat. ``Bergerak ke arah Barat'' di sini dimaknai sebagai bergerak ``searah gerak harian benda langit''. Dengan demikian (anggaplah benda yang dimaksud memiliki deklinasi nol), usai memiliki sudut jam bernilai 12 jam saat kulminasi bawah, benda langit akan bergerak melanjutkan geraknya ke arah Barat (searah gerak harian) hingga mencapai titik timur. Di titik tersebut nilai sudut jam benda langit 18 jam atau -6 jam. Dengan sudut pandang lain ini, pernyataan kedua benar, sehingga berlaku pernyataan pertama benar, pernyataan kedua benar dan saling berhubungan.</p>"
 }

@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Statement 1. ``High-mass stars have short lives, becoming hot enough to make iron, and end in nova explosions.\"</p><p>High-mass stars end in supernova explosions.</p><p>Statement 1 is not correct.</p><p>Statement 2. ``Stars of higher mass have higher core temperature and more rapid fusion, making those stars more luminous.\"</p><p><b>Statement 2 is correct.</b></p><p>Statement 3. `` Low-mass stars have long lives, becoming hot enough to fuse carbon nuclei, and end as white dwarfs.\"</p><p>Low-mass stars can not be hot enough to fuse carbon nuclei. They cease fusing after carbon nuclei core is formed, and end as white dwarfs.</p><p>Statement 3 is not correct.</p><p>Statement 4. ``Intermediate-mass stars can make elements heavier than carbon and end as white dwarfs.\"</p><p><b>Statement 4 is correct.</b></p><p>Hence, statements 2 and 4 are correct, the answer is C.</p>"
 }

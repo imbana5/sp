@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Orbit komet berada di dalam orbit Jupiter ketika Rosetta (Philae) mendarat, jadi pernyataan ke-4 salah. Sedikit gas dan debu akan dikeluarkan oleh komet, ``mungkin'' dapat mengganggu misi (misal dapat <a href=\"http://www.esa.int/Our_Activities/Space_Science/Rosetta/Frequently_asked_questions\" target=\"_blank\">menutupi solar panel</a>). Ingat ada kata <i>except</i> di situ sehingga jawabannya D. Sumber: cari berita terkini sains dan astronomi.</p>"
 }

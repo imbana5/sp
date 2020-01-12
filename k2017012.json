@@ -6,7 +6,7 @@
     "tags": [
         "k2017012"
     ],
-    "question": "<p>Lunar synodic period is longer than its sidereal period.</p><p><center>BECAUSE</center></p><p>Observed from north ecliptic pole, lunar motion around the Earth is in the same direction as Earth's motion around the Sun, i.e. clockwise.\\\\</p>",
+    "question": "<p>Lunar synodic period is longer than its sidereal period.</p><p><center>BECAUSE</center></p><p>Observed from north ecliptic pole, lunar motion around the Earth is in the same direction as Earth's motion around the Sun, i.e. clockwise.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Periode sinodis Bulan (dari satu fase kembali ke fase yang sama) sebesar 29,5 hari, sedikit lebih panjang dibanding periode siderisnya mengelilingi Bumi sebesar $27\\frac{1}{3}$ hari. Hal ini terjadi karena gerak revolusi Bulan mengelilingi Bumi searah dengan gerak revolusi Bumi mengelilingi Matahari, yaitu berlawanan arah jarum jam (<i>counter clockwise</i>) jika dilihat dari atas Kutub Utara Ekliptika.</p>"
 }

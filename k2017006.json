@@ -29,5 +29,6 @@
             "label": "67587 lampu"
         }
     ],
-    "answer": "5"
+    "answer": "0",
+    "explain": "<p>Menggunakan asumsi yang disebutkan di soal, maka energi yang diterima panel surya per detik per m$^2$ dari Matahari adalah sebesar fluks Matahari; dapat dilihat di daftar konstanta = 1370 Watt/m$^2$.</p><p>Dapat kita hitung energi total yang ditampung panel surya</p>$$\\begin{equation*}E = 0,2 \\times 10 \\times 1370 \\times 60 = 164400 \\quad \\text{Joule}\\end{equation*}$$<p>Kekurangan soal di atas adalah tidak diberikan waktu berapa lama lampu 5 Watt tersebut harus menyala, sehingga soal tersebut tidak dapat dijawab.</p><p>Jika lampu 5 Watt tadi hanya perlu dinyalakan selama 1 detik, maka energi sebesar itu dapat digunakan untuk menyalakan 32880 lampu sekaligus.</p>"
 }

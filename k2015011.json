@@ -29,5 +29,6 @@
             "label": "(1,-6)"
         }
     ],
-    "answer": "5"
+    "answer": "5",
+    "explain": "<p>Pusat massa sistem: ($x_{pm},y_{pm}$).\\\\ </p><p>$x_{pm}=\\frac{m_Ax_A+m_Bx_B}{m_A+m_B}=\\frac{-2+8}{6}=1$.\\\\ </p><p>$y_{pm}=\\frac{m_Ay_A+m_By_B}{m_A+m_B}=\\frac{4-4}{6}=0$.\\\\ </p><p>Koordinat pusat massa: (1,0)</p>"
 }

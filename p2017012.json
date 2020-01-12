@@ -6,7 +6,7 @@
     "tags": [
         "p2017012"
     ],
-    "question": "<p>Posisi Matahari terbenam tampak lebih rendah daripada posisi sebenarnya.</p><p><center>SEBAB</center></p><p>Cahaya Matahari mengalami refraksi ketika melewati atmosfer Bumi.\\\\</p>",
+    "question": "<p>Posisi Matahari terbenam tampak lebih rendah daripada posisi sebenarnya.</p><p><center>SEBAB</center></p><p>Cahaya Matahari mengalami refraksi ketika melewati atmosfer Bumi.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Posisi Matahari terbenam tampak lebih tinggi daripada posisi sebenarnya karena cahayanya mengalami refraksi ketika melewati atmosfer Bumi.</p><p>Pernyataan pertama salah, pernyataan kedua benar.</p>"
 }

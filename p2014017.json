@@ -6,24 +6,29 @@
     "tags": [
         "p2014017"
     ],
-    "question": "<p>Hingga saat ini, anggota Tata Surya yang diketahui mempunyai medan magnet adalah</p>",
+    "question": "<p>Hingga saat ini, anggota Tata Surya yang diketahui mempunyai medan magnet adalah</p><ol><li>Bumi</li><li>Venus</li><li>Jupiter</li><li>Mars<br></li></ol>",
     "choices": [
         {
             "value": "0",
-            "label": "Bumi"
+            "label": "1, 2, dan 3 benar"
         },
         {
             "value": "1",
-            "label": "Venus"
+            "label": "1 dan 3 benar"
         },
         {
             "value": "2",
-            "label": "Jupiter"
+            "label": "2 dan 4 benar"
         },
         {
             "value": "3",
-            "label": "Mars"
+            "label": "4 saja benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Mars dan Venus diketahui memiliki medan magnet yang sangat kecil, diduga ia tidak memiliki inti cair yang bergerak (atau sudah membeku) yang merupakan sumber medan magnet sebuah planet.</p>"
 }

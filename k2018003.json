@@ -29,5 +29,6 @@
             "label": "0,0168 atm"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Percepatan gravitasi di permukaan Mars dapat dicari dari data massa dan jejari Mars (lihat daftar konstanta),</p><p>$$g_{\\text{mars}} = \\frac{GM_{\\text{mars}}}{R^2_{\\text{mars}}} = 3,71 \\text{ m/s}^2$$</p><p>Tekanan adalah gaya per satuan luas, dalam hal ini gaya yang diberikan berasal dari berat fluida, sehingga rumus tekanan menjadi</p><p>$$P = \\rho g h$$</p><p>Di dasar tabung, tekanan fluida ini berasal dari berat air dan minyak, sehingga tekanan totalnya menjadi</p>$$\\begin{eqnarray*}P &=& \\rho_{\\text{minyak}} \\cdot g_{\\text{mars}} \\cdot h_{\\text{minyak}} + \\rho_{\\text{air}} \\cdot g_{\\text{mars}} \\cdot h_{\\text{air}} \\\\&=& \\rho_{\\text{air}} \\cdot g_{\\text{mars}} \\cdot (0,82 h_{\\text{minyak}} + h_{\\text{air}})\\\\&=& 1000 \\cdot 3,71 \\cdot (0,82 \\cdot 0,02 + 0,03)\\\\&=& 172,2 \\text{ N/m}^2 = 172,2 \\text{ Pa} = 0,001698 \\text{ atm}\\end{eqnarray*}$$<p><i>Catatan</i>: untuk menghitung tekanan total sebetulnya perlu ditambahkan tekanan atmosfer di permukaan Mars.</p>"
 }

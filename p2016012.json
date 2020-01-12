@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>(1 dan 3) Proses runtuhnya awan dipengaruhi massa, kerapatan, dan temperatur (tekanan). Andaikan temperatur lingkungannya terlalu tinggi maka dimungkinkan awan untuk tidak runtuh menjadi bintang. (2) Temperatur adalah besaran statistik yang merepresentasikan energi kinetik rata-rata partikel dalam sistem, dari teorema virial diperoleh hubungan agar sistem dapat terikat dalam waktu lama maka $Ek = \\frac{1}{2} E_p$. (4) Tidak selalu, jika begitu maka tidak ada bintang yang lahir ketika alam semesta masih dini (belum ada debu).</p>"
 }

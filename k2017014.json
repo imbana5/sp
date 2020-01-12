@@ -6,7 +6,7 @@
     "tags": [
         "k2017014"
     ],
-    "question": "<p>Seorang astronom mengadakan suatu eksperimen identik pada sebuah bandul di Bumi dan Bulan. Ayunan bandul tersebut akan lebih cepat saat diayunkan di Bulan daripada saat diayunkan di Bumi.</p><p><center>SEBAB</center></p><p>Di Bulan tidak ada udara yang menghambat pergerakan bandul.\\\\</p>",
+    "question": "<p>Seorang astronom mengadakan suatu eksperimen identik pada sebuah bandul di Bumi dan Bulan. Ayunan bandul tersebut akan lebih cepat saat diayunkan di Bulan daripada saat diayunkan di Bumi.</p><p><center>SEBAB</center></p><p>Di Bulan tidak ada udara yang menghambat pergerakan bandul.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Periode bandul dengan simpangan kecil dapat diturunkan sebesar</p>$$\\begin{equation*}T = 2 \\pi \\sqrt{\\frac{l}{g}}\\end{equation*}$$<p>Jika percobaan dilakukan di Bulan yang memiliki $g$ lebih kecil, maka periode gerak harmonik bandul seharusnya akan lebih besar (lebih lambat).</p>"
 }

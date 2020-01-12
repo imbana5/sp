@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>Panjang fokus objektif dapat dicari dari <i>focal ratio</i> dan diameter,</p>$$\\begin{eqnarray*}f_{ratio} &=& \\frac{F_{ob}}{D_{ob}}\\\\9,75 &=& \\frac{F_{ob}}{20}\\\\F_{ob} &=& 195 \\quad \\text{cm}\\end{eqnarray*}$$<p>Panjang minimum teleskop tipe refraktor sederhananya dapat dicari dengan $L = F_{ob} + F_{ok} = 195 + 2,5 = 197,5$ cm.</p><p>Perbesaran teleskop ($M$) dapat dihitung, $\\frac{F_{ob}}{F_{ok}} = \\frac{195}{2,5} = 78 $ kali.</p><p>Pernyataan 2 dan 3 benar, sehingga bijaknya 1 juga benar. :D</p>"
 }

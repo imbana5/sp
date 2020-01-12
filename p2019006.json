@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Karena orbit Bumi berbentuk elips dan Bumi bergerak lebih cepat di dekat perihelion (Desember-Januari) dibanding aphelion (Juni-Juli), maka durasi musim di belahan Bumi Utara dan Selatan menjadi berbeda. Saat ini misalnya Matahari berada di belahan Bumi utara 7,5 hari lebih lama dibanding di belahan langit Selatan. (Pernyataan 1 dan 3 benar)</p><p>Presesi menggeser musim di Bumi, periode presesi sekitar 25800 tahun, sehingga dalam waktu $\\sim$13000 tahun, kasus di atas akan terbalik. Pernyataan 2 menyatakan musim dingin lebih lama dibandingkan musim panas tanpa mengaitkan dengan belahan Bumi yang mana, artinya berlaku untuk seluruh Bumi. (Pernyataan 2 salah)</p></ol>"
 }

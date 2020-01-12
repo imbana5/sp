@@ -6,28 +6,29 @@
     "tags": [
         "p2019003"
     ],
-    "question": "<p>Sebuah bintang berada pada tahap akhir evolusinya, yaitu pada fase pembakaran unsur berat di pusatnya. Massa dan kerapatan massa rata-rata pusat bintang masing-masing adalah 1,4 \\Msun{} dan $10^{12}$ kg/m$^3$. Diketahui pusat bintang yang mengandung inti besi lembam ini runtuh menjadi pusat yang beradius 10 km. Energi total (dalam satuan Joule) yang akan dilepaskan dari suatu ledakan supernova yang berasal dari perubahan energi potensial gravitasi adalah dalam orde</p>",
+    "question": "<p>Sebuah bintang berada pada tahap akhir evolusinya, yaitu pada fase pembakaran unsur berat di pusatnya. Massa dan kerapatan massa rata-rata pusat bintang masing-masing adalah 1,4 $M_\\odot$ dan $10^{12}$ kg/m$^3$. Diketahui pusat bintang yang mengandung inti besi lembam ini runtuh menjadi pusat yang beradius 10 km. Energi total (dalam satuan Joule) yang akan dilepaskan dari suatu ledakan supernova yang berasal dari perubahan energi potensial gravitasi adalah dalam orde</p>",
     "choices": [
         {
             "value": "0",
-            "label": "\\item $10^{44}$"
+            "label": "$10^{44}$"
         },
         {
             "value": "1",
-            "label": "\\item $10^{46}$"
+            "label": "$10^{46}$"
         },
         {
             "value": "2",
-            "label": "\\item $10^{48}$"
+            "label": "$10^{48}$"
         },
         {
             "value": "3",
-            "label": "\\item $10^{50}$"
+            "label": "$10^{50}$"
         },
         {
             "value": "4",
-            "label": "\\item $10^{52}$"
+            "label": "$10^{52}$"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Radius inti bintang sebelum runtuh dapat dicari terlebih dahulu,\n\\begin{eqnarray*}\nV = \\frac{M}{\\rho} = 2,784 \\times 10^{18} \\text{  m}^3 \\longrightarrow R_i &=& \\sqrt[3]{\\frac{3V}{4 \\pi}}\\\\\nR_i &=& 872676,37 \\quad \\text{meter} \n\\end{eqnarray*}\n</p>\n<p>Perubahan energi potensial gravitasi dapat dicari dengan asumsi inti bintang sebagai bola dengan kerapatan konstan dari pusat ke permukaannya,\n\\begin{eqnarray*}\n\\Delta E_p &=& \\frac{3}{5}\\frac{GM^2}{R_f} - \\frac{3}{5}\\frac{GM^2}{R_i}\\\\\n\\Delta E_p &=& 3 \\times 10^{46} \\quad \\text{Joule}\n\\end{eqnarray*}\n</p>"
 }

@@ -29,5 +29,6 @@
             "label": "Belum bisa diketahui, bergantung temperatur Matahari ketika berada pada jarak yang lebih jauh"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Misal menggunakan magnitudo mutlak Matahari = 4.83</p>$$\\begin{eqnarray*}m - M &=& -5 + 5 \\log d \\\\m &=& 4.83 - 5 + 5 \\log 1.33675353\\\\m &=& 0.46\\end{eqnarray*}$$<p>jelas terlihat, karena $m < 6$.</p>"
 }
