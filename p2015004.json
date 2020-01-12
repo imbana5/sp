@@ -6,7 +6,7 @@
     "tags": [
         "p2015004"
     ],
-    "question": "<p>Teleskop Bimasakti yang ada di Observatorium Bosscha memiliki cermin dengan diameter 71 cm dan lensa koreksi berdiameter 51 cm serta <em>focal ratio</em> <em>f/}2,5. Berapa persenkah cahaya yang diterima oleh cermin utama dibandingkan dengan jika cermin utama itu dipakai tanpa lensa koreksi dan tanpa tabung?</p>",
+    "question": "<p>Teleskop Bimasakti yang ada di Observatorium Bosscha memiliki cermin dengan diameter 71 cm dan lensa koreksi berdiameter 51 cm serta <i>focal ratio</i> <i>f/</i>2,5. Berapa persenkah cahaya yang diterima oleh cermin utama dibandingkan dengan jika cermin utama itu dipakai tanpa lensa koreksi dan tanpa tabung?</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "100%"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Jumlah cahaya yang diterima sebanding dengan luas kolektor penerima cahaya $\\rightarrow$ luas lingkaran cermin utama.</p><p>Perbandingan cahaya yang diterima jika dengan tabung vs jika tanpa tabung,</p>$$\\begin{eqnarray*}\\frac{51^2}{71^2} = 0,5160 = 51,60\\% \\approx 52\\%\\end{eqnarray*}$$"
 }

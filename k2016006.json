@@ -6,7 +6,7 @@
     "tags": [
         "k2016006"
     ],
-    "question": "<p>Jarak planet-planet dari Matahari dalam satuan astronomi ternyata mempunyai pola:</p>\\begin{equation*}\\frac{7}{10}, \\frac{10}{10}, \\frac{16}{10}, \\frac{28}{10}, \\frac{52}{10}, \\dots\\end{equation*}<p>Formula jarak $r$ untuk baris bilangan tersebut adalah</p>",
+    "question": "<p>Jarak planet-planet dari Matahari dalam satuan astronomi ternyata mempunyai pola:</p>$$\\begin{equation*}\\frac{7}{10}, \\frac{10}{10}, \\frac{16}{10}, \\frac{28}{10}, \\frac{52}{10}, \\dots\\end{equation*}$$<p>Formula jarak $r$ untuk baris bilangan tersebut adalah</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "$r = (2n + 1) \\times 0,1$ dengan $n = 1, 2, 3, 4, \\dots$"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Sesuai dengan pola.</p>"
 }

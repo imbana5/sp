@@ -29,5 +29,6 @@
             "label": "Tidak ada solusi"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Berapapun nilai $n$, nilai $\\sin(n)$ dan juga $\\sin^3(n)$ akan tetap berada di rentang -1 dan 1. Pada persamaan tersebut nilai pembagi $n$ akan terus bergerak menuju tak hingga. Sehingga nilai limitnya adalah 0.</p>"
 }

@@ -6,7 +6,7 @@
     "tags": [
         "p2016010"
     ],
-    "question": "<p>Konstanta Hubble $H_0$ menyatakan laju pengembangan alam semesta saat ini. Karena kesalahan dalam penentuan jarak beberapa galaksi yang digunakannya, Edwin Hubble mendapatkan nilai sekitar 500 km/s/Mpc untuk $H_0$. Nilai yang diterima sekarang oleh para astronom berdasarkan berbagai pengukuran adalah 70 km/s/Mpc. Manakah pernyataan-pernyataan yang benar di bawah ini?</p><ol><li>Laju pengembangan alam semesta menurut Hubble lebih cepat daripada seharusnya</li><li>Jarak galaksi-galaksi yang digunakan Hubble lebih jauh daripada seharusnya</li><li>Umur alam semesta menurut Hubble lebih muda daripada umur sebenarnya</li><li>Jika sejak \\textit{Big Bang} alam semesta mengembang dengan laju konstan $H_0$, maka menurut Hubble ukuran alam semesta saat ini kurang lebih sepertujuh dari nilai yang diterima sekarang</li></ol>",
+    "question": "<p>Konstanta Hubble $H_0$ menyatakan laju pengembangan alam semesta saat ini. Karena kesalahan dalam penentuan jarak beberapa galaksi yang digunakannya, Edwin Hubble mendapatkan nilai sekitar 500 km/s/Mpc untuk $H_0$. Nilai yang diterima sekarang oleh para astronom berdasarkan berbagai pengukuran adalah 70 km/s/Mpc. Manakah pernyataan-pernyataan yang benar di bawah ini?</p><ol><li>Laju pengembangan alam semesta menurut Hubble lebih cepat daripada seharusnya</li><li>Jarak galaksi-galaksi yang digunakan Hubble lebih jauh daripada seharusnya</li><li>Umur alam semesta menurut Hubble lebih muda daripada umur sebenarnya</li><li>Jika sejak <i>Big Bang</i> alam semesta mengembang dengan laju konstan $H_0$, maka menurut Hubble ukuran alam semesta saat ini kurang lebih sepertujuh dari nilai yang diterima sekarang</li></ol>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>(1) Konstanta Hubble menunjukkan kecepatan pengembangan alam semesta, (2) kesalahan Hubble dalam menentukan konstanta tersebut karena jarak galaksi yang digunakannya salah (lebih dekat dari yang seharusnya). Selain itu galaksi yang diamati semasa Hubble hanya galaksi-galaksi dekat saja (jika dibandingkan dengan hasil pengamatan modern). (3) Waktu Hubble yang sebanding dengan umur alam semesta dapat ditentukan dengan $1/H_0$. (4) Pernyataan 4 bisa benar apabila yang dimaksud adalah jarak Hubble ($c/H_0$), yang menunjukkan jarak dimana galaksi menjauhi kita dengan kecepatan cahaya akibat pengembangan alam semesta. Ukuran alam semesta yang sebenarnya tidak dapat diketahui hanya dengan konstanta Hubble.</p>"
 }

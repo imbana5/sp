@@ -6,7 +6,7 @@
     "tags": [
         "k2016005"
     ],
-    "question": "<p>Deklinasi Matahari $y$ sebagai fungsi waktu $t$ dapat dinyatakan sebagai</p>\\begin{equation*}y = 23,5^{\\circ} \\sin{\\left( \\frac{2\\pi(t-80)}{T} \\right)}\\end{equation*}<p>dengan $t$ adalah jumlah hari sejak 1 Januari pada tahun bukan kabisat, dan $T$ adalah periode revolusi Bumi 365,25 hari. Pada tanggal berapakah $y$ bernilai maksimum dan minimum?</p>",
+    "question": "<p>Deklinasi Matahari $y$ sebagai fungsi waktu $t$ dapat dinyatakan sebagai</p>$$\\begin{equation*}y = 23,5^{\\circ} \\sin{\\left( \\frac{2\\pi(t-80)}{T} \\right)}\\end{equation*}$$<p>dengan $t$ adalah jumlah hari sejak 1 Januari pada tahun bukan kabisat, dan $T$ adalah periode revolusi Bumi 365,25 hari. Pada tanggal berapakah $y$ bernilai maksimum dan minimum?</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "1 Januari dan 1 Agustus"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Persamaan tersebut memberikan nilai maksimum dan minimum ketika argumen $\\sin$ pada ruas kanan maksimum dan minimum juga (ingat bahwa nilai $\\sin$ selalu dalam rentang -1 hingga 1). Nilai maksimum terjadi untuk $\\sin{\\frac{\\pi}{2}}$ dan minimum untuk $\\sin{\\frac{3\\pi}{2}}$.</p><p>Saat maksimum</p>$$\\begin{eqnarray*}\\frac{2\\pi(t-80)}{365,25} &amp;=&amp; \\frac{\\pi}{2}\\\\t - 80 &amp;=&amp; 91,3125\\\\t &amp;=&amp; 171,3125 \\quad \\text{(172) hari semenjak 1 Januari = 21 Juni}\\end{eqnarray*}$$<p>Saat minimum</p>$$\\begin{eqnarray*}\\frac{2\\pi(t-80)}{365,25} &amp;=&amp; \\frac{3\\pi}{2}\\\\t - 80 &amp;=&amp; 273,9375\\\\t &amp;=&amp; 353,9375 \\quad \\text{(354) hari semenjak 1 Januari = 20 Desember}\\end{eqnarray*}$$"
 }

@@ -29,5 +29,6 @@
             "label": "Sifat paling dasar dari bintang yang menentukan lokasinya di deret utama adalah massanya"
         }
     ],
-    "answer": "4"
+    "answer": "4",
+    "explain": "<p>(A) Suhu mempengaruhi garis-garis spektrum yang terbentuk (karena bergantung pada tingkat energinya), untuk bintang diurutkan dari suhu yang paling tinggi harusnya adalah Helium terionisasi, Helium netral, metal terionisasi, Hidrogen netral, logam netral, dan pita molekul TiO.</p><p>(B) Bintang ganda visual tentu jarak pisahnya harus lebar sehingga periodenya biasanya yang sangat panjang.</p><p>(C dan D) Terang bintang dilangit dipengaruhi terang intrinsik dan jaraknya.</p><p>(E) Semakin besar massa maka ia akan lahir sebagai bintang dengan menempati bagian deret utama makin ke kiri.</p>"
 }

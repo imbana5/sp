@@ -29,5 +29,6 @@
             "label": "1660 W/m$^{2}$"
         }
     ],
-    "answer": "5"
+    "answer": "5",
+    "explain": "<p>Kalor yang digunakan untuk memanaskan air: $Q=mC\\Delta T= 10^{-3} 4200 (50-25) = 105$ Joule.</p><p>Daya yang digunakan dalam proses tersebut: $P=\\frac{Q}{\\Delta t}=\\frac{105}{190}=0,55$ Watt.</p><p>Radiasi Matahari yang diterima Bumi: $\\frac{P}{\\text{luas cermin}}=\\frac{0,55}{5}=0,11$ Watt/m$^{2}$.</p>"
 }

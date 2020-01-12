@@ -6,7 +6,7 @@
     "tags": [
         "k2015026"
     ],
-    "question": "<p>Jika orbit Bumi berubah menjadi 7 satuan astronomi (sa), maka 1 <em>parsec</em> setara dengan $1,55 \\times 10^{14}$ km.</p><p><center>sebab</center></p><p>Satu <em>parsec</em> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu menit busur.</p>",
+    "question": "<p>Jika orbit Bumi berubah menjadi 7 satuan astronomi (sa), maka 1 <i>parsec</i> setara dengan $1,55 \\times 10^{14}$ km.</p><p><center>sebab</center></p><p>Satu <i>parsec</i> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu menit busur.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "4"
+    "answer": "4",
+    "explain": "<p>Satu <i>parsec</i> = <i>parallax second</i> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu ``detik'' busur. Jarak satu <i>parsec</i> apabila orbit Bumi 7 sa menjadi $2,16 \\times 10^{14}$ km.</p>"
 }

@@ -29,5 +29,6 @@
             "label": "63409 N"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>Massa selalu tetap, tidak bergantung pada percepatan gravitasi. Berat bergantung pada besarnya percepatan gravitasi.</p>$$\\begin{eqnarray*}W &amp;=&amp; m \\cdot g\\\\W &amp;=&amp; 930 \\cdot \\frac{GM_{\\text{Nept}}}{R_{\\text{Nept}}^{2}}\\\\W &amp;=&amp; 930 \\cdot 11,268\\\\W &amp;=&amp; 10479,3 \\quad N\\end{eqnarray*}$$"
 }

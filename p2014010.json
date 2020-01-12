@@ -29,5 +29,6 @@
             "label": "2,1"
         }
     ],
-    "answer": "4"
+    "answer": "4",
+    "explain": "<p>Dengan menganggap bintang sebagai benda hitam sempurna, berlaku</p>$$\\begin{eqnarray*}E \\propto T^{4}\\\\\\dfrac{E_{1}}{E_{2}}&=&\\dfrac{T_{1}^{4}}{T_{2}^{4}}\\\\&=&2,1\\end{eqnarray*}$$"
 }

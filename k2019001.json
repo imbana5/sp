@@ -6,7 +6,7 @@
     "tags": [
         "k2019001"
     ],
-    "question": "<p>Andaikan orbit Matahari mengelilingi pusat Galaksi Bima Sakti berbentuk lingkaran. Jarak Matahari ke pusat Galaksi adalah $2\\times 10^9$ sa. Jika waktu yang diperlukan Matahari untuk satu kali mengelilingi pusat Galaksi adalah 200 juta tahun, serta dengan mengabaikan pengaruh dari materi gelap/\\textit{dark matter}, maka massa Galaksi yang terkandung di dalam orbit Matahari yang dinyatakan dalam $M_{\\odot}$ adalah</p>",
+    "question": "<p>Andaikan orbit Matahari mengelilingi pusat Galaksi Bima Sakti berbentuk lingkaran. Jarak Matahari ke pusat Galaksi adalah $2\\times 10^9$ sa. Jika waktu yang diperlukan Matahari untuk satu kali mengelilingi pusat Galaksi adalah 200 juta tahun, serta dengan mengabaikan pengaruh dari materi gelap/<i>dark matter</i>, maka massa Galaksi yang terkandung di dalam orbit Matahari yang dinyatakan dalam $M_{\\odot}$ adalah</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "$10^{10}$"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Untuk $r$, $P$, dan $M$ secara berturut-turut dalam sa, tahun, dan $M_{\\odot}$, maka berlaku:</p>$$\\begin{eqnarray*}M(r)&amp;=&amp;\\frac{r^3}{P^2}\\\\M(r)&amp;=&amp;\\frac{(2\\times 10^9)^3}{(200\\times 10^6)^2}\\\\M(r)&amp;=&amp;2\\times 10^{11} M_{\\odot},\\end{eqnarray*}$$<p>dengan $M(r)$ menyatakan massa yang terlingkupi oleh radius $r$.</p>"
 }

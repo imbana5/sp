@@ -29,5 +29,6 @@
             "label": "$1,89 \\times 10^{-16} $ ml"
         }
     ],
-    "answer": "5"
+    "answer": "2",
+    "explain": "<p>Selama 75 menit terjadi pembelahan sejumlah</p>$$\\begin{equation*}n = \\frac{75 \\times 60}{100} = 45 \\quad \\text{kali}\\end{equation*}$$<p>Penambahan jumlah bakteri membentuk deret geometri</p>$$\\begin{equation*}a, ar, ar^2, ar^3, \\dots\\end{equation*}$$<p>dengan $a = 75$ dan $r = 2$. Pembelahan terjadi sebanyak 45 kali sehingga jumlahnya menjadi</p>$$\\begin{equation*}N = 75 \\times 2^{45} = 2,64 \\times 10^{15} \\quad \\text{bakteri}\\end{equation*}$$<p>Volume rata-rata bakteri</p>$$\\begin{equation*}\\overline{V} = \\frac{1000}{2,64 \\times 10^{15}} = 3,79 \\times 10^{-13} \\quad \\text{ml}\\end{equation*}$$"
 }

@@ -6,7 +6,7 @@
     "tags": [
         "k2015025"
     ],
-    "question": "<p>Bumi mengalami gerak presesi seperti gasing yang berputar miring. Gerak tersebut mengubah anggota rasi bintang zodiak yang dilalui Matahari setiap tahunnya.</p><p><center>sebab</center></p><p>Titik <em>vernal equinox}, yang menandai perpotongan garis ekuator langit dan ekliptika, bergeser ke arah Timur sedikit demi sedikit.</p>",
+    "question": "<p>Bumi mengalami gerak presesi seperti gasing yang berputar miring. Gerak tersebut mengubah anggota rasi bintang zodiak yang dilalui Matahari setiap tahunnya.</p><p><center>sebab</center></p><p>Titik <i>vernal equinox</i>, yang menandai perpotongan garis ekuator langit dan ekliptika, bergeser ke arah Timur sedikit demi sedikit.</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "4"
+    "answer": "4",
+    "explain": "<p>Presesi mengubah arah sumbu rotasi Bumi, namun tidak mengubah bidang ekliptika, sehingga anggota zodiak akan tetap sama. Titik <i>vernal equinox</i> di langit bergeser ke arah Barat.</p>"
 }

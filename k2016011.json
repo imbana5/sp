@@ -29,5 +29,6 @@
             "label": "$10 \\sqrt{2} $ N"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Soal ini memberikan informasi yang berlebih, dua gaya sudah diberikan dalam bentuk vektor di koordinat kartesian, akan tetapi informasi kedua memberikan besar sudut antar keduanya yang sebenarnya tidak perlu.</p><p>Sudut antara dua vektor tersebut sudah terkandung pada informasi pertama</p>$$\\begin{eqnarray*}\\overrightarrow{F_1} \\bullet \\overrightarrow{F_2} &amp;=&amp; \\Vert \\overrightarrow{F_1} \\Vert \\Vert \\overrightarrow{F_2} \\Vert \\cos{\\theta}\\\\(2 \\cdot 3) + (4 \\cdot 1) &amp;=&amp; \\sqrt{20} \\sqrt{10} \\cos{\\theta}\\\\10 &amp;=&amp; \\sqrt{200} \\cos{\\theta}\\\\\\cos{\\theta} &amp;=&amp; \\sqrt{\\frac{1}{2}} = \\frac{1}{2} \\sqrt{2}\\\\\\theta &amp;=&amp; 45^{\\circ}\\end{eqnarray*}$$<p>Resultan dua gaya tersebut adalah</p>$$\\begin{eqnarray*}\\overrightarrow{R} &amp;=&amp; \\overrightarrow{F_1} + \\overrightarrow{F_2}\\\\\\overrightarrow{R} &amp;=&amp; (2\\hat{i} + 4\\hat{j}) + (3\\hat{i} + \\hat{j})\\\\\\overrightarrow{R} &amp;=&amp; 5\\hat{i} + 5\\hat{j}\\\\\\Vert \\overrightarrow{R} \\Vert &amp;=&amp; \\sqrt{5^2 + 5^2} = \\sqrt{50} = 5\\sqrt{2} \\quad \\text{N}\\end{eqnarray*}$$"
 }

@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "$$\\begin{eqnarray*}\\overrightarrow{A} \\cdot \\overrightarrow{B} &=& (2 \\cdot 1) + (1 \\cdot -2) + (-1 \\cdot 2) = 2\\\\\\Vert A \\Vert \\Vert B \\Vert \\cos \\theta &=& 2\\\\\\sqrt{6} \\sqrt{9} \\cos \\theta &=& 2\\\\\\theta &=& 74.2^{\\circ}\\end{eqnarray*}$$$$\\begin{eqnarray*}\\overrightarrow{C} &=& \\overrightarrow{A} \\times \\overrightarrow{B} \\\\&=&\\left|\\begin{matrix}1 & -1 \\\\-2 & 2\\end{matrix}\\right| i -\\left|\\begin{matrix}2 & -1 \\\\1 & 2\\end{matrix} \\right| j +\\left|\\begin{matrix}2 & 1 \\\\1 & -2\\end{matrix}\\right| k\\\\&=& 0 i - 5 j - 5 k \\\\&& \\text{berada di bidang $yz$}\\end{eqnarray*}$$"
 }

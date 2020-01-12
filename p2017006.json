@@ -6,7 +6,7 @@
     "tags": [
         "p2017006"
     ],
-    "question": "<p>Adanya zaman es (\\textit{pleistocene}) di Bumi diyakini para ilmuwan disebabkan secara dominan oleh</p>",
+    "question": "<p>Adanya zaman es (<i>pleistocene</i>) di Bumi diyakini para ilmuwan disebabkan secara dominan oleh</p>",
     "choices": [
         {
             "value": "0",
@@ -14,7 +14,7 @@
         },
         {
             "value": "1",
-            "label": "tingkat aktivitas gunung berapi yang tinggi menyebabkan <em>outgassing</em> dari CO\\textsubscript{2</em> di atmosfer"
+            "label": "tingkat aktivitas gunung berapi yang tinggi menyebabkan <i>outgassing</i> dari CO\\textsubscript{2} di atmosfer"
         },
         {
             "value": "2",
@@ -29,5 +29,6 @@
             "label": "Bumi ditabrak oleh asteroid raksasa"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Perubahan insolasi Matahari yang datang ke Bumi diduga kuat merupakan penyebab terjadinya zaman es terakhir (<i>pleistocene</i>). Zaman es terjadi beberapa kali sepanjang sejarah Bumi. <i>Pleistocene</i> hanya merupakan salah satunya saja. Penjelasan lebih lanjut dapat dibaca di&nbsp;<a href=\"http://culter.colorado.edu/~saelias/glacier.html\" target=\"_blank\">http://culter.colorado.edu/~saelias/glacier.html</a> dan <a href=\"https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/ice-ages-what-are-they-and-what-causes-them/\" target=\"_blank\">https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/ice-ages-what-are-they-and-what-causes-them/</a>.</p><p>Sehingga jawaban paling tepat D.</p>"
 }

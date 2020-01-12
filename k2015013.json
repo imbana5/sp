@@ -6,7 +6,7 @@
     "tags": [
         "k2015013"
     ],
-    "question": "<p>Tabel berikut merangkum jumlah bintang dalam rentang magnitudo tertentu yang teramati oleh sebuah teleskop:</p>\\[\\begin{array}{|c|c|}\\hline\\textbf{Magnitudo} & \\textbf{Jumlah} \\\\\\hline6,0-8,0 & 10 \\\\8,0-10,0 & 23 \\\\10,0-12,0 & 45 \\\\12,0-14,0 & 30 \\\\14,0-16,0 & 11 \\\\\\hline\\end{array}\\]<p>Berapakah nilai modus dari distribusi tersebut?</p>",
+    "question": "<p>Tabel berikut merangkum jumlah bintang dalam rentang magnitudo tertentu yang teramati oleh sebuah teleskop:</p><table class='table table-bordered'><tr><td><b>Magnitudo</b></td><td><b>Jumlah</b></td></tr><tr><td>6,0-8,0</td><td>10</td></tr><tr><td>8,0-10,0</td><td>23</td></tr><tr><td>10,0-12,0</td><td>45</td></tr><tr><td>12,0-14,0</td><td>30</td></tr><tr><td>14,0-16,0</td><td>11</td></tr></table><p>Berapakah nilai modus dari distribusi tersebut?</p>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "12,0"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Pada data berkelompok, nilai modus: $M_o=L+\\frac{\\Delta f_1}{\\Delta f_1+\\Delta f_2}C$, $L$ menyatakan tepi bawah kelas modus, $\\Delta f_1$ selisih frekuensi kelas modus dengan frekuensi kelas sebelumnya, $\\Delta f_2$ selisih frekuensi kelas modus dengan frekuensi kelas setelahnya, $C$ panjang kelas.</p><p>Untuk soal tersebut: $M_o=10,0+\\frac{22}{22+15}3=11,28$. Dalam pilihan jawaban, yang paling mendekati: 11,2.</p>"
 }

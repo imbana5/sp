@@ -6,19 +6,19 @@
     "tags": [
         "k2018009"
     ],
-    "question": "<p>Hasil penelitian <em>Supernova Cosmology Project</em> dan <em>High-Z Supernova Search Team</em> adalah penemuan alam semesta mengembang dipercepat. Pengembangan alam semesta dipercepat diamati mulai dari <em>redshift</em> $z\\sim0,4$ setelah adanya peran <em>dark energy}. Konsekuensi penemuan ini adalah</p>",
+    "question": "<p>Hasil penelitian <i>Supernova Cosmology Project</i> dan <i>High-Z Supernova Search Team</i> adalah penemuan alam semesta mengembang dipercepat. Pengembangan alam semesta dipercepat diamati mulai dari <i>redshift</i> $z\\sim0,4$ setelah adanya peran <i>dark energy</i>. Konsekuensi penemuan ini adalah</p>",
     "choices": [
         {
             "value": "0",
-            "label": "kerapatan radiasi menurun sebanding dengan penurunan kerapatan <em>dark energy}."
+            "label": "kerapatan radiasi menurun sebanding dengan penurunan kerapatan <i>dark energy</i>."
         },
         {
             "value": "1",
-            "label": "kerapatan materi menurun sebanding dengan penurunan kerapatan <em>dark energy}."
+            "label": "kerapatan materi menurun sebanding dengan penurunan kerapatan <i>dark energy</i>."
         },
         {
             "value": "2",
-            "label": "kerapatan <em>dark energy</em> menurun dengan cepat."
+            "label": "kerapatan <i>dark energy</i> menurun dengan cepat."
         },
         {
             "value": "3",
@@ -26,8 +26,9 @@
         },
         {
             "value": "4",
-            "label": "kerapatan <em>dark energy</em> bertambah."
+            "label": "kerapatan <i>dark energy</i> bertambah."
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Berdasarkan model standar saat ini, komponen penyusun alam semesta terdiri dari radiasi, materi, dan <i>dark energy</i>. Kerapatan radiasi dan materi sebagai pengisi alam semesta menurun cepat seiring mengembangnya alam semesta. Kerapatan <i>dark energy</i>, khususnya jenis konstanta kosmologi, besarnya tetap selama pengembangan alam semesta. Hal ini yang menjelaskan percepatan pengembangan alam semesta.</p>"
 }

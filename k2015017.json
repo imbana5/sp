@@ -29,5 +29,6 @@
             "label": "Venus memiliki albedo yang lebih tinggi dibandingkan planet-planet lain."
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Efek rumah kaca (<i>runaway greenhouse effect</i>). Energi yang diterima Venus memang lebih besar namun jika hanya itu penyebabnya tidak akan mampu menaikkan suhu hingga 700 K.</p>"
 }

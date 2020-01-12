@@ -29,5 +29,6 @@
             "label": "Fluks Matahari di Merkurius lebih terang 0,39 kali daripada di Bumi"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Perbandingan fluks</p><p>$$\\frac{F_M}{F_\\oplus}= \\left(\\frac{d_\\oplus}{d_M}\\right)^2= \\left(\\frac{1}{0,39}\\right)^2=6,575$$</p><p>atau $F_\\oplus / F_M = 0,1521$.</p>"
 }

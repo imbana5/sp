@@ -29,5 +29,6 @@
             "label": "40,5 $^{\\circ}$C"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Fluks yang diterima Bumi dari Matahari adalah sebesar 1370 Joule/s/m$^2$ = 326,2 kal/s/m$^{2}$. Energi yang diterima panel seluas 1 m$^2$ selama 10 detik adalah</p>$$\\begin{eqnarray*}E &amp;=&amp; m \\cdot c \\cdot \\Delta T\\\\3262 &amp;=&amp; 1000 \\cdot 0,2 \\cdot (T - 30)\\\\T &amp;=&amp; 46,3 ~^{\\circ}\\text{C}\\end{eqnarray*}$$"
 }

@@ -29,5 +29,6 @@
             "label": "$\\frac{1}{243}$"
         }
     ],
-    "answer": "3"
+    "answer": "3",
+    "explain": "<p>Energi yang dipancarkan benda hitam per satuan luas per satuan waktu dikenal sebagai besaran fluks pancaran yang sebanding dengan temperatur efektif bintang $T^4$ ($E = \\sigma T^4$). Maka perbandingan besaran tersebut untuk bintang A terhadap bintang B:</p><p>$$\\left( \\frac{T_A}{T_B}\\right)^4=\\left( \\frac{8000}{24000}\\right)^4=\\frac{1}{81}$$</p>"
 }

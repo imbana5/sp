@@ -29,5 +29,6 @@
             "label": "sekitar 2 megaWatt"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>Konversi materi menjadi radiasi,</p>$$\\begin{equation*}E = \\Delta mc^2 = 3,6\\times 10^{26} \\quad \\text{Joule}\\end{equation*}$$<p>Energi ini dihasilkan tiap detik sehingga merepresentasikan luminositas bintang ($L$)</p><p>Fluks yang diterima alien ($d = 7,48\\times 10^{10}$ m),</p>$$\\begin{eqnarray*}E=\\frac{L}{4\\pi d^2} = 5120,23\\quad \\text{Watt/m}^2\\end{eqnarray*}$$<p>Daya fotosel dengan luas $A=100$ m$^2$ dan efisiensi 50%:</p>$$\\begin{eqnarray*}P &amp;=&amp; 50\\% \\cdot E \\cdot A = 256011,48 \\quad \\text{Watt} \\\\&amp;=&amp; 256 \\quad \\text{kiloWatt} \\\\&amp;\\approx&amp; 250 \\quad \\text{kiloWatt}\\end{eqnarray*}$$"
 }

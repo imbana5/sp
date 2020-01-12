@@ -29,5 +29,6 @@
             "label": "$\\mathcal{P} = -2,500 \\log{\\mathcal{M}}$"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Magnitudo mutlak bolometrik terkait dengan luminositas dengan hubungan Pogson berikut</p>$$\\begin{eqnarray*}\\mathcal{M} - \\mathcal{M}_{\\odot} &amp;=&amp; -2,5 \\log{\\frac{\\mathcal{P}}{\\mathcal{P}_{\\odot}}}\\\\\\mathcal{M} - 4,72 &amp;=&amp; -2,5 \\log{\\frac{\\mathcal{P}}{3,9 \\times 10^{26}}}\\\\\\mathcal{M} - 4,72 &amp;=&amp; -2,5 \\left( \\log{\\mathcal{P}} - 26,591 \\right)\\\\\\log{\\mathcal{P}} &amp;=&amp; 28,479 - 0,4 \\mathcal{M}\\\\\\mathcal{P} &amp;=&amp; 3,013 \\times 10^{28} \\times 10^{-0,4 \\mathcal{M}}\\end{eqnarray*}$$"
 }

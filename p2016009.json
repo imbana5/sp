@@ -6,7 +6,7 @@
     "tags": [
         "p2016009"
     ],
-    "question": "<p>Jika atmosfer Bumi 50% lebih rapat daripada keadaan saat ini, maka</p><ol><li>Cahaya Matahari akan tampak lebih merah daripada keadaan sekarang, karena dengan bertambahnya kerapatan, akan lebih banyak cahaya pada panjang gelombang biru yang dihamburkan ke segala arah.</li><li>Cahaya yang sampai ke permukaan Bumi akan semakin tampak berwarna biru </li><li>Cahaya yang sampai ke permukaan Bumi akan semakin tampak berwarna merah </li><li>Cahaya Matahari akan tampak lebih biru daripada keadaan sekarang, karena dengan bertambahnya kerapatan, akan lebih banyak cahaya pada panjang gelombang merah yang dihamburkan ke segala arah.</li></ol>",
+    "question": "<p>Jika atmosfer Bumi 50% lebih rapat daripada keadaan saat ini, maka</p><ol><li>Cahaya Matahari akan tampak lebih merah daripada keadaan sekarang, karena dengan bertambahnya kerapatan, akan lebih banyak cahaya pada panjang gelombang biru yang dihamburkan ke segala arah.</li><li>Cahaya yang sampai ke permukaan Bumi akan semakin tampak berwarna biru</li><li>Cahaya yang sampai ke permukaan Bumi akan semakin tampak berwarna merah</li><li>Cahaya Matahari akan tampak lebih biru daripada keadaan sekarang, karena dengan bertambahnya kerapatan, akan lebih banyak cahaya pada panjang gelombang merah yang dihamburkan ke segala arah.</li></ol>",
     "choices": [
         {
             "value": "0",
@@ -29,5 +29,6 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "1"
+    "answer": "1",
+    "explain": "<p>Semakin tebal gas/debu maka efek pemerahan akan semakin kuat, panjang gelombang biru lebih banyak dihamburkan daripada merah.</p>"
 }

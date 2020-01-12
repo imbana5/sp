@@ -29,5 +29,6 @@
             "label": "jarak Venus terlalu dekat dengan Matahari"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Aurora terjadi karena interaksi antara partikel bermuatan dari angin Matahari dengan medan magnet planet. Akibat interaksi, partikel dengan arah datang tertentu akan terseret mengikuti medan magnet planet mendekati permukaan planet. Ketika berada di dekat permukaan planet, partikel bermuatan akan bertumbukan dengan molekul di atmosfer planet kemudian mengalami transfer energi yang tampak sebagai cahaya aurora. Venus memiliki atmosfer tebal, tetapi medan magnetnya lemah sekali.</p><p>Sehingga pilihan yang paling tepat C.</p>"
 }

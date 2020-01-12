@@ -29,5 +29,6 @@
             "label": "antara 1,5 dan 1,8 detik busur"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>Tentukan diameter sudut kawah.</p>$$\\begin{eqnarray*}\\sin \\frac{\\delta}{2}&=&\\dfrac{1}{384400}\\\\\\delta &=&1,02\"\\end{eqnarray*}$$<p>Diameter sudut kawah dari Bumi $\\approx$ 1,02\".</p>"
 }

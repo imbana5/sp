@@ -6,24 +6,29 @@
     "tags": [
         "p2014019"
     ],
-    "question": "<p>Jika kita menggunakan teropong bintang untuk meneropong objek-objek di permukaan Bumi, akan tampak citranya terbalik. Sesungguhnya ahli optik dapat saja membuatnya tidak terbalik, seperti jika kita menggunakan teropong medan (binokuler). Mengapa teropong bintang tidak dirancang untuk menghasilkan citra tegak? Karena untuk menghasilkan citra tegak</p>",
+    "question": "<p>Jika kita menggunakan teropong bintang untuk meneropong objek-objek di permukaan Bumi, akan tampak citranya terbalik. Sesungguhnya ahli optik dapat saja membuatnya tidak terbalik, seperti jika kita menggunakan teropong medan (binokuler). Mengapa teropong bintang tidak dirancang untuk menghasilkan citra tegak? Karena untuk menghasilkan citra tegak</p><ol><li>biaya produksi akan lebih tinggi</li><li>diperlukan lensa tambahan yaitu lensa pembalik</li><li>risiko kehilangan energi cahaya di dalam teropong akan lebih besar</li><li>tidak sesuai dengan prinsip-prinsip astronomi<br></li></ol>",
     "choices": [
         {
             "value": "0",
-            "label": "biaya produksi akan lebih tinggi"
+            "label": "1, 2, dan 3 benar"
         },
         {
             "value": "1",
-            "label": "diperlukan lensa tambahan yaitu lensa pembalik"
+            "label": "1 dan 3 benar"
         },
         {
             "value": "2",
-            "label": "risiko kehilangan energi cahaya di dalam teropong akan lebih besar"
+            "label": "2 dan 4 benar"
         },
         {
             "value": "3",
-            "label": "tidak sesuai dengan prinsip-prinsip astronomi"
+            "label": "4 saja benar"
+        },
+        {
+            "value": "4",
+            "label": "semua benar"
         }
     ],
-    "answer": "0"
+    "answer": "0",
+    "explain": "<p>Butuh lensa tambahan untuk membalikkan citra, hal ini akan menambah biaya produksi, risiko kehilangan energi cahaya, serta gangguan lain pada citra.</p>"
 }

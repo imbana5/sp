@@ -29,5 +29,6 @@
             "label": "$0,0\\times 10^{-17}$ watt"
         }
     ],
-    "answer": "2"
+    "answer": "2",
+    "explain": "<p>Energi per satu foton = $\\frac{hc}{\\lambda} = \\frac{6,63 \\times 10^{-34} \\cdot 3,00\\times 10^8}{5,55 \\times 10^{-7}} = 3,58 \\times 10^{-19}$ joule.</p><p>Energi 100 foton yang diterima per detik = $3,58 \\times 10^{-17}$ watt.</p>"
 }
