@@ -1,0 +1,4 @@
+{
+    "id": "k2016017s",
+    "explain": "<p>Anggap fluks energi yang diterima satelit sama dengan yang diterima Bumi (mengabaikan faktor ketinggian satelit, terlalu kecil dibanding jarak Bumi-Matahari). Jumlah energi total yang diterima satelit dalam satu hari adalah</p>$$\\begin{eqnarray*}E_{\\text{total}} &amp;=&amp; E \\cdot \\text{luas panel} \\cdot (24 \\cdot 60 \\cdot 60)\\\\&amp;=&amp; 1350 \\text{ Joule/s/m}^2 \\cdot \\frac{1}{4} \\pi 12^2 \\text{ m}^2 \\cdot 86400 \\text{ s}\\\\&amp;=&amp; 1,32 \\times 10^{10} \\quad \\text{Joule}\\end{eqnarray*}$$"
+}

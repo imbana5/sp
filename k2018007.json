@@ -29,6 +29,5 @@
             "label": "jawaban A, B, C, dan D salah."
         }
     ],
-    "answer": "1",
-    "explain": "<p>Periode sinodis (tropis) revolusi Bumi dipengaruhi oleh gerak presesi yang arahnya berlawanan dengan arah revolusi, sehingga besarnya tahun tropis lebih kecil dari tahun sideris, yakni 365,242199 hari. Nilai ini masih berubah-ubah, karena Bumi tidak hanya berpresesi (dengan periode $\\sim 25800$ tahun), akan tetapi juga mengalami nutasi. Penjelasan lebih lengkap bisa dibaca di <a href=\"https://en.wikipedia.org/wiki/Tropical_year\" target=\"_blank\">https://en.wikipedia.org/wiki/Tropical_year</a></p>"
+    "answer": "1"
 }

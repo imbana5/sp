@@ -29,6 +29,5 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Total jumlah hari untuk 235 kali periode sinodis Bulan:</p><p>$$N=235\\times 29,530589\\text{ hari}=6.939,69\\text{ hari}$$</p><p>$$N=\\frac{6.939,69\\text{ hari}}{365,25\\frac{\\text{ hari}}{\\text{ tahun}}}\\simeq19\\text{ tahun}.$$</p><p>Di antara pilihan 1 hingga 4, yang memiliki selisih 19 tahun dengan 1 Januari 2010 M adalah 1 Januari 1991 dan 1 Januari 2029.</p><p>Maka pernyataan 1 dan 3 saja yang benar.</p>"
+    "answer": "1"
 }

@@ -29,6 +29,5 @@
             "label": "mengukur gerak bintang dalam sistem bintang ganda dan menggunakan Hukum Kepler untuk menentukan temperatur dari orbit bintang"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Radiasi dari bintang dapat dianggap sebagai radiasi benda hitam. Temperatur bintang dapat diukur apabila kita mengetahui ``warna'' atau spektrumnya, sesuai dengan hukum Wien.</p>"
+    "answer": "1"
 }

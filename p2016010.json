@@ -29,6 +29,5 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "1",
-    "explain": "<p>(1) Konstanta Hubble menunjukkan kecepatan pengembangan alam semesta, (2) kesalahan Hubble dalam menentukan konstanta tersebut karena jarak galaksi yang digunakannya salah (lebih dekat dari yang seharusnya). Selain itu galaksi yang diamati semasa Hubble hanya galaksi-galaksi dekat saja (jika dibandingkan dengan hasil pengamatan modern). (3) Waktu Hubble yang sebanding dengan umur alam semesta dapat ditentukan dengan $1/H_0$. (4) Pernyataan 4 bisa benar apabila yang dimaksud adalah jarak Hubble ($c/H_0$), yang menunjukkan jarak dimana galaksi menjauhi kita dengan kecepatan cahaya akibat pengembangan alam semesta. Ukuran alam semesta yang sebenarnya tidak dapat diketahui hanya dengan konstanta Hubble.</p>"
+    "answer": "1"
 }

@@ -1,0 +1,4 @@
+{
+    "id": "k2016001s",
+    "explain": "<p>Kedua persamaan di atas memberikan hubungan</p>$$\\begin{equation*}\\tan^{2}{c} + \\tan^{2}{b} - 2 \\tan{b} \\tan{c} \\cos{A} = \\sec^{2}{c} + \\sec^{2}{b} - 2 \\sec{b} \\sec{c} \\cos{a}\\end{equation*}$$<p>dengan menggunakan hubungan $\\sec^{2}{x} = 1 + \\tan^{2}{x}$ dapat diperoleh</p>$$\\begin{eqnarray*}\\tan^{2}{c} + \\tan^{2}{b} - 2 \\tan{b} \\tan{c} \\cos{A} &amp;=&amp; 2 + \\tan^{2}{c} + \\tan^{2}{b} - 2 \\sec{b} \\sec{c} \\cos{a}\\\\- 2 \\tan{b} \\tan{c} \\cos{A} &amp;=&amp; 2 - 2 \\sec{b} \\sec{c} \\cos{a}\\\\- \\frac{\\sin{b} \\sin{c} \\cos{A}}{\\cos{b} \\cos{c}} &amp;=&amp; 1 - \\frac{\\cos{a}}{\\cos{b} \\cos{c}}\\\\\\cos{b} \\cos{c} - \\cos{a} &amp;=&amp; - \\sin{b} \\sin{c} \\cos{A}\\\\\\cos{a} &amp;=&amp; \\cos{b} \\cos{c} + \\sin{b} \\sin{c} \\cos{A}\\end{eqnarray*}$$"
+}

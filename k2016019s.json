@@ -1,0 +1,4 @@
+{
+    "id": "k2016019s",
+    "explain": "<p>Anggap percepatan Bumi pada ketinggian 750 meter hingga permukaan Bumi besarnya relatif tetap $g = 9,8$ m/s$^2$. Persoalan ini dapat diselesaikan dengan hukum kekekalan energi atau persamaan gerak lurus berubah beraturan (GLBB). Keduanya akan menghasilkan persamaan sebagai berikut</p>$$\\begin{eqnarray*}v^2 &amp;=&amp; v_{0}^2 + 2 g (\\Delta h)\\\\v^2 &amp;=&amp; 750^2 + 2 \\cdot 9,8 \\cdot 750\\\\v &amp;=&amp; 759,74 \\quad \\text{m/s}\\end{eqnarray*}$$"
+}

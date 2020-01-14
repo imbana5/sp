@@ -29,6 +29,5 @@
             "label": "KMKS mempunyai 31 tahun kabisat lebih banyak daripada KMG"
         }
     ],
-    "answer": "0",
-    "explain": "<p>Jumlah tahun kabisat pada KMKS selama 51200 tahun = $\\frac{51200}{4}-\\frac{51200}{128}$ = 12400</p><p>Jumlah tahun kabisat pada KMG selama 51200 tahun = $\\frac{51200}{4}-\\frac{51200}{100}\\frac{3}{4}$ = 12416</p>"
+    "answer": "0"
 }

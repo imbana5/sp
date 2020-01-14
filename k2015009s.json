@@ -1,0 +1,4 @@
+{
+    "id": "k2015009s",
+    "explain": "<p>Pada elips berlaku: $v_r^2=2GM\\left(\\frac{1}{r}-\\frac{1}{2a}\\right)$.</p><p>Kecepatan maksimum $v_p$ didapat ketika jarak minimum (di perihelion) sedangkan kecepatan minimum $v_a$ didapat ketika jarak maksimum (di aphelion).</p>$$\\begin{eqnarray*}\\frac{v_p^2}{v_a^2}&=&\\frac{2GM\\left(\\frac{1}{r_p}-\\frac{1}{2a}\\right)}{2GM\\left(\\frac{1}{r_a}-\\frac{1}{2a}\\right)} = \\frac{\\left(\\frac{1}{a(1-e)}-\\frac{1}{2a}\\right)}{\\left(\\frac{1}{a(1+e)}-\\frac{1}{2a}\\right)} = \\frac{\\frac{2-1+e}{2(1-e)}}{\\frac{2-1-e}{2(1+e)}} = \\frac{(1+e)^2}{(1-e)^2} \\\\\\frac{v_p}{v_a}&=&\\frac{(1+e)}{(1-e)} = 4 \\\\4-4e&=&1+e \\\\5e&=&3 \\\\e&=&0,6\\\\\\end{eqnarray*}$$"
+}

@@ -29,6 +29,5 @@
             "label": "$\\lambda_2 = 2 \\lambda_1$, $\\lambda_3 = 4\\lambda_1/3$"
         }
     ],
-    "answer": "2",
-    "explain": "<p>Hukum Wien menyatakan bahwa $\\lambda_{max} = 0.002898/T$, atau panjang gelombang pada intensitas maksimum benda hitam berbanding terbalik dengan temperaturnya.</p><p>$\\lambda_2 / \\lambda_1 = T_1 / T_2 = 4/3$ </p><p>$\\lambda_3 / \\lambda_1 = T_1 / T_3 = 2$</p>"
+    "answer": "2"
 }

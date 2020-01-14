@@ -29,6 +29,5 @@
             "label": "3,3 detik"
         }
     ],
-    "answer": "3",
-    "explain": "<p>$R_*=R_{\\oplus}=6378$ km</p><p>$M_*=M_{\\odot}$</p><p>$L_*=L_{\\odot}$</p><p>Periode rotasi bintang katai putih ($P_*$) dengan menganggap bintang katai putih dan Matahari sebagai benda pejal:</p>$$\\begin{eqnarray*}L_*&=&L_{\\odot}\\\\I_*\\omega_* &=& I_{\\odot}\\omega_{\\odot}\\\\\\frac{2}{5}M_*R_*^2 \\frac{2\\pi}{P_*}&=&\\frac{2}{5}M_{\\odot}R_{\\odot}^2\\frac{2\\pi}{P_{\\odot}}\\\\P_*&=& \\frac{M_*}{M_{\\odot}}\\left(\\frac{R_*}{R_{\\odot}}\\right)^2P_{\\odot}\\\\P_*&=&\\left(\\frac{R_*}{R_{\\odot}}\\right)^2P_{\\odot}\\\\P_*&=& 2,27\\times 10^{-3}\\quad \\text{hari}\\quad=\\quad3,3 \\quad \\text{menit}\\end{eqnarray*}$$"
+    "answer": "3"
 }

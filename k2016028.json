@@ -29,6 +29,5 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "4",
-    "explain": "<p>Pluto has been defined as dwarf planet since 2006. It was New Horizons, not Dawn, that visited Pluto last year. (<b>Pernyataan pertama SALAH</b>)</p><p>Pluto has at least 5 satellites around it. It is highlighted that Pluto is not a planet, but a dwarf planet. The beginning of the second statement: ``This rocky planet ...'' is not valid. Mars as terrestrial planet has more than one satellite: Phobos and Deimos. (<b>Pernyataan kedua SALAH</b>)</p>"
+    "answer": "4"
 }

@@ -1,0 +1,4 @@
+{
+    "id": "k2015020s",
+    "explain": "<p>$M = \\frac{1}{6500} M_{E}$ dan $R = \\frac{1}{13} R_{E}$</p>$$\\begin{eqnarray*}\\frac{g}{g_{E}} &=& \\frac{\\frac{GM}{R^2}}{\\frac{GM_{E}}{R_{E}^2}} = \\frac{M}{M_{E}} \\left( \\frac{R_{E}}{R} \\right)^{2}\\\\\\frac{g}{g_{E}} &=& \\frac{1}{6500} 13^{2}\\\\g &=& 0.026 g_{E} \\quad \\text{atau} \\quad \\text{38.46 kali lebih kecil.}\\\\\\end{eqnarray*}$$"
+}

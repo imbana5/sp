@@ -29,6 +29,5 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "3",
-    "explain": "<p>Periode bandul dengan simpangan kecil dapat diturunkan sebesar</p>$$\\begin{equation*}T = 2 \\pi \\sqrt{\\frac{l}{g}}\\end{equation*}$$<p>Jika percobaan dilakukan di Bulan yang memiliki $g$ lebih kecil, maka periode gerak harmonik bandul seharusnya akan lebih besar (lebih lambat).</p>"
+    "answer": "3"
 }

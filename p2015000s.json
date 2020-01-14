@@ -1,0 +1,4 @@
+{
+    "id": "p2015000s",
+    "explain": "<p>$m_1=3,35$ dan $m_2=5,9$</p><p><span style=\"font-size: 1rem;\">$$\\begin{eqnarray*}m_1-m_2&amp;=&amp;-2,5\\log \\frac{E_1}{E_2}\\\\\\frac{E_1}{E_2}&amp;=&amp;10^{\\frac{m_2-m_1}{2,5}}\\\\\\frac{E_1}{E_2}&amp;=&amp;10,47\\end{eqnarray*}$$</span></p>$$\\begin{eqnarray*}m_{tot}-m_2&amp;=&amp;-2,5\\log \\frac{E_1+E_2}{E_2}\\\\m_{tot}-m_2&amp;=&amp;-2,5\\log \\left(1+\\frac{E_1}{E_2} \\right)\\\\m_{tot}&amp;=&amp;3,25\\end{eqnarray*}$$"
+}

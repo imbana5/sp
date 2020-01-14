@@ -1,0 +1,4 @@
+{
+    "id": "k2017008s",
+    "explain": "<p>Kuat medan magnet ($B$) minimum agar kereta tetap mengapung dapat dicari dengan menyamakan besarnya gaya magnetik dengan berat kereta.</p><p>Jika arah arus dan magnet saling tegak lurus, maka besarnya gaya magnetik (gaya Lorentz) $\\overrightarrow{F} = \\overrightarrow{I}L \\times \\overrightarrow{B} \\Rightarrow ILB$, sehingga</p>$$\\begin{eqnarray*}ILB &=& mg\\\\B &=&3,153 \\times 10^{-7} \\quad \\text{T} \\quad (\\text{untuk L adalah panjang rel})\\end{eqnarray*}$$<p>Masalahnya, untuk pendekatan sederhana ini $L$ seharusnya adalah panjang kereta, bukan panjang rel.</p>"
+}

@@ -29,6 +29,5 @@
             "label": "$63,1^{\\circ}$"
         }
     ],
-    "answer": "3",
-    "explain": "$$\\begin{eqnarray*}n_1\\sin \\theta_1&=&n_2\\sin \\theta_2\\\\1,52\\sin \\theta_1&=&1,33\\sin 90^{\\circ}\\\\\\sin \\theta_1&=&0,875\\\\\\theta_1&=&61,04^{\\circ}.\\end{eqnarray*}$$"
+    "answer": "3"
 }

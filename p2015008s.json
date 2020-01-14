@@ -1,0 +1,4 @@
+{
+    "id": "p2015008s",
+    "explain": "<p>Tren profil spektrum mewakili kurva Planck suatu objek dengan temperatur efektif tertentu. Puncak fluks bersesuaian dengan energi pada panjang gelombang sekitar $\\lambda_{\\text{max}}=$ 25 mikrometer = 0,000025 m (hati-hati banyak garis emisi).</p><p>Dengan memanfaatkan Hukum Wien</p>$$\\begin{eqnarray*}T_{\\text{eff}}&amp;=&amp;\\frac{0,002898}{\\lambda_{\\text{max}}}\\\\T_{\\text{eff}}&amp;=&amp;\\frac{0,002989}{0,000025}=115,92\\\\&amp;\\approx&amp; 120 \\quad \\text{Kelvin}\\end{eqnarray*}$$"
+}

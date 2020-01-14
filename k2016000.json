@@ -29,6 +29,5 @@
             "label": "$(x-1)^{2} + (y-1)^{2} = 1$"
         }
     ],
-    "answer": "3",
-    "explain": "<p>Posisi Bumi relatif terhadap Matahari artinya Matahari dijadikan sebagai `pusat koordinat'. Persamaan lingkaran dengan pusat di (0, 0) dan radius 1 adalah</p>$$\\begin{eqnarray*}x^2 + y^2 &amp;=&amp; 1^2\\\\y^2 &amp;=&amp; 1 - x^2\\end{eqnarray*}$$"
+    "answer": "3"
 }

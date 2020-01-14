@@ -29,6 +29,5 @@
             "label": "The Sun rises due east and sets due west."
         }
     ],
-    "answer": "0",
-    "explain": "<p>Deklinasi Matahari saat 21 Juni adalah +23,5$^{\\circ}$. Artinya gerak hariannya di langit bergeser 23,5$^{\\circ}$ ke arah Kutub Langit Utara dari Ekuator langit. Kita tahu titik Timur dan Barat adalah perpotongan Ekuator langit dan horizon, sehingga pada saat itu Matahari akan terbit dari sebelah Utara titik Timur dan tenggelam dari sebelah Utara titik Barat.</p><p><i>Catatan</i>: Kesimpulan tersebut sebetulnya berlaku untuk pengamat di belahan Bumi Utara maupun Selatan, hingga maksimal lintang 66,5$^{\\circ}$LU atau 66,5$^{\\circ}$LS. Karena jika pengamat berada di lintang lebih utara atau lebih selatan dari lintang 66,5$^{\\circ}$ pada tanggal 21 Juni, ia tidak akan mendapati fenomena matahari terbit dan tenggelam (Matahari selalu di atas Horizon atau selalu di bawah horizon).</p>"
+    "answer": "0"
 }

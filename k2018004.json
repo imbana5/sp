@@ -29,6 +29,5 @@
             "label": "$3,1 \\times 10^{6}$ m/s"
         }
     ],
-    "answer": "0",
-    "explain": "<p>Tinjauan fisika klasik dapat digunakan untuk mencari kecepatan orbit elektron. Gaya coulomb (tarik-menarik) antara proton dan elektron berperan sebagai gaya sentripetal gerak melingkar elektron.</p>$$\\begin{eqnarray*}m_{e} \\frac{v^2}{r} &amp;=&amp; \\frac{k q_p q_e}{r^2}\\\\v &amp;=&amp; \\sqrt{\\frac{k q_p q_e}{m_e r}}\\\\v &amp;=&amp; \\sqrt{\\frac{9 \\times 10^9 \\cdot (1,6022 \\times 10^{-19})^2}{9,1094 \\times 10^{-31} \\cdot 5,3 \\times 10^{-11}}}\\\\v &amp;=&amp; 2,187 \\times 10^{6} \\quad \\text{m/s}\\end{eqnarray*}$$<p><i><br></i></p><p><i>Catatan</i>:</p><ul><li><span style=\"font-size: 1rem;\">Gerak proton dapat diabaikan karena massanya jauh lebih besar dari massa elektron</span><br></li><li><span style=\"font-size: 1rem;\">Gaya gravitasi antara proton dan elektron dapat diabaikan, karena jauh lebih kecil dibanding gaya coulomb.</span></li></ul>"
+    "answer": "0"
 }

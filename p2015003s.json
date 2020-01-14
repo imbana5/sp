@@ -1,0 +1,4 @@
+{
+    "id": "p2015003s",
+    "explain": "<p>$T_R=\\frac{1}{4}T_{DU}$, $R_R=100R_{DU}$, $d_{DU}=30$ pc, $E_R=E_{DU}$,</p><p>$d_R = \\ldots ?$</p><p>(Indeks $R$ untuk raksasa dan indeks $DU$ untuk deret utama)</p>$$\\begin{eqnarray*}E_R &amp;=&amp; E_{DU}\\\\\\frac{L_R}{4\\pi d_R^2} &amp;=&amp; \\frac{L_{DU}}{4\\pi d_{DU}^2}\\\\\\frac{4\\pi R_R^2\\sigma T_R^4}{4\\pi d_R^2} &amp;=&amp; \\frac{4\\pi R_{DU}^2\\sigma T_{DU}^4}{4\\pi d_{DU}^2}\\\\\\left(\\frac{d_R}{d_{DU}}\\right)^2 &amp;=&amp; \\left(\\frac{R_R}{R_{DU}}\\right)^2\\left(\\frac{T_R}{T_{DU}}\\right)^4\\\\\\left(\\frac{d_R}{d_{DU}}\\right)^2 &amp;=&amp; 100^2\\left(\\frac{1}{4}\\right)^4\\\\\\frac{d_R}{d_{DU}} &amp;=&amp; 100\\left(\\frac{1}{4}\\right)^2\\\\d_R &amp;=&amp; 6,25 \\cdot d_{DU}\\\\d_R &amp;=&amp; 187,5 \\quad \\text{pc}\\end{eqnarray*}$$"
+}

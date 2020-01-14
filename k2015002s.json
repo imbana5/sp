@@ -1,0 +1,4 @@
+{
+    "id": "k2015002s",
+    "explain": "<p>Laju temuan: $\\frac{x}{xxx}=\\frac{1}{x^2}$ kandidat per teleskop per jam per hari. Untuk kasus pada soal, jumlah kandidat yang ditemukan: laju penemuan kali jumlah teleskop kali jam operasi kali hari operasi. Jumlah teleskop = 1, karena yang ditanyakan ``oleh sebuah teleskop''. Jumlah kandidat: $\\frac{1}{x^2}\\times 1\\times y\\times y=\\frac{y^2}{x^2}$.</p>"
+}

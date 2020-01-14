@@ -1,0 +1,4 @@
+{
+    "id": "p2018007s",
+    "explain": "<p>Satu tahun Gregorian: $T_G=365,2425$ hari.</p><p>Satu periode sinodis Bulan: $T_{Syn}=29,5306$ hari.</p><p>Jumlah Bulan purnama selama $N$ tahun Gregorian:</p><p>$$N_{\\text{purnama}}= \\frac{N \\cdot T_G}{T_{Syn}}$$</p><p>Maka, selama 5700000 tahun Gregorian, jumlah Bulan purnama $=70499151,727$ (bulatkan ke bawah karena yang ditanya jumlah kejadian purnama).</p><p>Jadi, jawaban yang paling tepat C.</p>"
+}

@@ -1,0 +1,4 @@
+{
+    "id": "k2017007s",
+    "explain": "$$\\begin{eqnarray*}m_A - m_B &=& -2,5 \\log{\\frac{F_A}{F_B}} = -2,5 \\log{\\frac{\\frac{L_A}{4\\pi d_A^2}}{\\frac{L_B}{4 \\pi d_B^2}}} = -2,5 \\log{\\left(\\frac{L_A}{L_B} \\frac{d_B^2}{d_A^2}\\right)}\\\\m_B &=& -0.653\\\\\\frac{m_A}{m_B} &=& -10,72\\\\\\end{eqnarray*}$$"
+}

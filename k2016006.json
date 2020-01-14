@@ -29,6 +29,5 @@
             "label": "$r = (2n + 1) \\times 0,1$ dengan $n = 1, 2, 3, 4, \\dots$"
         }
     ],
-    "answer": "3",
-    "explain": "<p>Sesuai dengan pola.</p>"
+    "answer": "3"
 }

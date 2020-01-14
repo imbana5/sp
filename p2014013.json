@@ -29,6 +29,5 @@
             "label": "23:25"
         }
     ],
-    "answer": "3",
-    "explain": "<p>Saat oposisi jarak Bumi-Mars = 0.52 SA = 77792000 km</p><p>Waktu tempuh gelombang elektromagnetik = $\\frac{77792000}{3\\times 10^5}$ = 259.3 detik = 4.32 menit</p><p>Total waktu yang dibutuhkan = $4.32 \\times 2 + 7 = 15.6$ menit</p><p>Jika sinyal dipancarkan pukul 23:05 maka dapat diperoleh sinyal balasan pada pukul 23:21</p>"
+    "answer": "3"
 }
