@@ -29,6 +29,5 @@
             "label": "-8 mag"
         }
     ],
-    "answer": "2",
-    "explain": "$$\\begin{eqnarray*}m_2-m_1&=&-2,5\\log E_2+C - (-2,5\\log E_1+C)\\\\m_2-m_1&=&-2,5\\log \\frac{E_2}{E_1} \\\\m_2-m_1&=&-2,5\\log \\frac{10^4}{10^2} \\\\m_2-m_1&=&-5\\\\m_2&=&-2\\\\\\end{eqnarray*}$$"
+    "answer": "2"
 }

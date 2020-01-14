@@ -1,0 +1,4 @@
+{
+    "id": "k2019011s",
+    "explain": "$$\\begin{eqnarray*}v&amp;=&amp;\\sqrt{\\frac{GM_{\\oplus}}{R_{\\oplus}+h}}\\\\&amp;=&amp;\\sqrt{\\frac{6,67\\times 10^{-11}\\times 5,97\\times 10^{24}}{(6378\\text{ km}+200\\text{ km})\\times 10^3}}\\\\&amp;=&amp;7,78\\times 10^3 \\quad \\text{m/s}\\\\&amp;=&amp;7,8 \\quad \\text{km/s}.\\end{eqnarray*}$$"
+}

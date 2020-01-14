@@ -29,6 +29,5 @@
             "label": "40 and 40"
         }
     ],
-    "answer": "2",
-    "explain": "<p>Data yang disajikan sepertinya merupakan data tunggal (bukan data berkelompok). Nilai median (nilai tengah) dapat ditentukan dengan mengurutkan data lalu mencari di mana titik tengahnya.</p><table class=\"table table-bordered\"><tbody><tr><td><b>Diameter asteroid</b></td><td><b>Frekuensi</b></td></tr><tr><td>20</td><td>3</td></tr><tr><td>30</td><td>11</td></tr><tr><td>40</td><td>12</td></tr><tr><td>50</td><td>11</td></tr><tr><td>60</td><td>7</td></tr><tr><td>70</td><td>6</td></tr><tr><td>80</td><td>4</td></tr><tr><td>Jumlah asteroid:</td><td>54</td></tr></tbody></table><p>Karena data berjumlah genap ($N = 54$), maka dapat kita rata-ratakan nilai ke $\\frac{N}{2} = 27$ yaitu 50 dan nilai ke $\\frac{N}{2}+1 = 28$ yaitu 50, sehingga</p>$$\\begin{eqnarray*}\\text{median} = \\frac{50 + 50}{2} = 50\\end{eqnarray*}$$<p>Mode adalah nilai yang paling sering keluar pada sekumpulan data. Modus/Mode dari data di atas adalah 40 (frekuensinya paling besar).</p>"
+    "answer": "2"
 }

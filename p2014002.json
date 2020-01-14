@@ -29,6 +29,5 @@
             "label": "tidak dapat disimpulkan apakah dapat diamati dengan mata telanjang atau tidak"
         }
     ],
-    "answer": "0",
-    "explain": "<p>Cek dulu pernyataan tersebut. Bandingkan dengan Matahari. Digunakan nilai magnitudo mutlak Matahari 4,8.</p>$$\\begin{eqnarray*}M-M_{\\odot}&=&-2,5\\log(\\dfrac{L}{L_{\\odot}})\\\\&=&-2,5\\log(\\dfrac{4\\pi R^{2}\\sigma T^{4}}{4\\pi R_{\\odot}^{2}\\sigma T_{\\odot}^{4}})\\\\M &=&15,15\\end{eqnarray*}$$<p>Pada jarak 10 parsek, magnitudo mutlak benda = magnitudo semunya, sehingga magnitudo hasil penghitungan di sini (15,15) berperan sebagai magnitudo semu yang teramati oleh mata manusia. Rata-rata mata manusia bisa mengamati objek langit hingga magnitudo 6, magnitudo ini terlalu redup (dengan kata lain terlalu besar) untuk bisa diamati dengan mata telanjang. Dengan pernyataan ini, jawaban B valid.</p><p>Pada jarak 10 parsek, objek ini telalu redup untuk bisa diamati dengan mata telanjang. Namun, objek ini bisa jadi teramati jika jaraknya lebih dekat ke pengamat. Dengan demikian, pernyataan A juga valid.</p>"
+    "answer": "0"
 }

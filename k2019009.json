@@ -29,6 +29,5 @@
             "label": "391250 cacah per detik"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Untuk interpolasi linier, nilai suatu titik di antara dua titik didekati dengan garis lurus.</p>$$\\begin{eqnarray*}n_1&amp;=&amp;mt_1+c\\\\350.000&amp;=&amp;m(16)+c\\hspace{1cm}(1)\\\\n_2&amp;=&amp;mt_2+c\\\\175.000&amp;=&amp;m(15)+c\\hspace{1cm}(2)\\end{eqnarray*}$$<p>Eliminasi persamaan (1) dan (2) sehingga diperoleh $m=175.000$ cacah per detik per jam dan $c=-2.450.000$ cacah per detik. Maka untuk $t_3$=15:45 UT = 15,75</p><p>$n_3=175.000(15,75)-2.450.000=306.250$ cacah per detik.</p>"
+    "answer": "1"
 }

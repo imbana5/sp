@@ -29,6 +29,5 @@
             "label": "$10^{52}$"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Radius inti bintang sebelum runtuh dapat dicari terlebih dahulu,\n\\begin{eqnarray*}\nV = \\frac{M}{\\rho} = 2,784 \\times 10^{18} \\text{  m}^3 \\longrightarrow R_i &=& \\sqrt[3]{\\frac{3V}{4 \\pi}}\\\\\nR_i &=& 872676,37 \\quad \\text{meter} \n\\end{eqnarray*}\n</p>\n<p>Perubahan energi potensial gravitasi dapat dicari dengan asumsi inti bintang sebagai bola dengan kerapatan konstan dari pusat ke permukaannya,\n\\begin{eqnarray*}\n\\Delta E_p &=& \\frac{3}{5}\\frac{GM^2}{R_f} - \\frac{3}{5}\\frac{GM^2}{R_i}\\\\\n\\Delta E_p &=& 3 \\times 10^{46} \\quad \\text{Joule}\n\\end{eqnarray*}\n</p>"
+    "answer": "1"
 }

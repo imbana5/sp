@@ -29,6 +29,5 @@
             "label": "Kedua pernyataan salah."
         }
     ],
-    "answer": "4",
-    "explain": "<p>Satu <i>parsec</i> = <i>parallax second</i> merupakan jarak bintang ketika Matahari, bintang, dan Bumi membentuk sudut sebesar satu ``detik'' busur. Jarak satu <i>parsec</i> apabila orbit Bumi 7 sa menjadi $2,16 \\times 10^{14}$ km.</p>"
+    "answer": "4"
 }

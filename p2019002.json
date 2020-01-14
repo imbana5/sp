@@ -29,6 +29,5 @@
             "label": "63,97 pc"
         }
     ],
-    "answer": "4",
-    "explain": "<p>Hubungan modulus jarak dengan melibatkan ekstingsi akibat materi antar bintang dapat dituliskan sebagai berikut:\n$$V - M_{\\text{v}} = -5 + 5\\log{d} + A_{\\text{v}}$$\ndengan \n$$A_\\text{v} = R \\cdot E_{BV}$$\ndan \n$$E_{BV} = (B - V) - (B_0 - V_0).$$\n</p>\n<p>Jika kita gunakan konstanta penyerapan materi antar bintang rata-rata di bidang galaksi Bima Sakti  $R \\approx 3,2$ dapat kita peroleh $A_\\text{v} = R \\cdot E_{BV} = 3,2 \\cdot 0,05 = 0,16$.</p>\n<p>Jarak bintang kemudian dapat dihitung,\n$$d = 10^{\\frac{V - M_{\\text{v}} - A_{\\text{v}} + 5}{5}} = 63,97 \\quad \\text{pc}$$</p>"
+    "answer": "4"
 }

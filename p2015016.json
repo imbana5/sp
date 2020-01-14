@@ -29,6 +29,5 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Penjelasan untuk masing-masing pernyataan:</p><ol><li>Temperatur tinggi meningkatkan energi kinetik partikel penyusun atmosfer planet, sehingga partikel-partikel tersebut lebih mudah membebaskan diri dari ikatan gravitasi planet. (Pernyataan 1 BENAR)</li><li>Paparan radiasi memberi tambahan energi kinetik pada partikel penyusun atmosfer. Atmosfer planet dalam terpapar energi lebih tinggi daripada planet luar. Paparan energi itu dikonversi menjadi energi kinetik: $\\frac{1}{2}mv^2$. Partikel bermassa kecil mendapat laju $v$ lebih besar sehingga lebih mudah lepas dari planet. Dengan demikian, partikel-partikel bermassa beratlah yang dapat bertahan terikat oleh planet dalam. (Pernyataan 2 SALAH)</li><li>Semakin jauh jarak planet dari Matahari semakin rendah fluks radiasi yang diterima (temperatur rendah), sehingga energi kinetik partikel penyusun atmosfer relatif rendah. Massa besar artinya gravitasi kuat sehingga kemampuan mengikat atmosfer tinggi. (Pernyataan 3 BENAR)</li><li>Makin besar planet, gravitasi makin kuat, atmosfer makin sulit lepas. (Pernyataan 4 SALAH)</li></ol>"
+    "answer": "1"
 }

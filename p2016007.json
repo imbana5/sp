@@ -29,6 +29,5 @@
             "label": "(24 jam, $+0^{\\circ}$)"
         }
     ],
-    "answer": "0",
-    "explain": "<p>Pada saat terjadi gerhana Matahari total maka posisi Bulan di langit akan sama dengan posisi Matahari. Pada tanggal 20 Maret $\\alpha_{\\odot} = 0^{h}$ dan $\\delta_{\\odot} = 0^{\\circ}$, maka pada tanggal 9 Maret</p>$$\\begin{equation*}\\alpha_\\text{moon} = \\alpha_{\\odot} \\approx 24^h - 11 \\cdot 4^m \\approx 23^h 16^m\\end{equation*}$$$$\\begin{equation*}\\delta_\\text{moon} = \\delta_{\\odot} \\approx 23,5^{\\circ} \\sin{\\left( \\frac{-11}{365,25} 360^{\\circ} \\right)}\\approx -4,4^{\\circ}\\end{equation*}$$"
+    "answer": "0"
 }

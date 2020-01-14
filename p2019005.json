@@ -29,6 +29,5 @@
             "label": "semua benar atau semua salah"
         }
     ],
-    "answer": "2",
-    "explain": "<p>Presisi dan nutasi mengubah orientasi sumbu rotasi Bumi termasuk sudut kemiringan Bumi terhadap ekliptika. Hal ini diakibatkan gangguan gravitasi Matahari dan Bulan bekerja terhadap Bumi yang pepat. Gerak reratanya disebut presesi, sedangkan gerak halusnya disebut nutasi. Nutasi terjadi karena gangguan gravitasinya tidak tetap selama Bumi bergerak mengelilingi Matahari dan Bulan mengelilingi Bumi. Panjang tahun tropis sebenarnya tidak tetap akibat Nutasi dan juga gerak Bumi mengelilingi Matahari yang tidak tetap (akibat gangguan objek-objek Tata Surya).</p>"
+    "answer": "2"
 }

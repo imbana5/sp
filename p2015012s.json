@@ -1,0 +1,4 @@
+{
+    "id": "p2015012s",
+    "explain": "<p>Pada tanggal 20 Mei, $RA_{\\odot} \\sim 4^h$.</p><p>Pusat galaksi yang berkulminasi atas artinya memiliki $HA_{G} = 0^{h}$.</p>$$\\begin{eqnarray*}LST = HA_{\\odot} + RA_{\\odot} &amp;=&amp; HA_{G} + RA_{G}\\\\HA_{\\odot} + 4^{h} &amp;=&amp; 0^{h} + 17^{h} 45^{m} 37,224^{s}\\\\HA_{\\odot} &amp;=&amp; 13^{h} 45^{m} 37,224^{s}\\end{eqnarray*}$$<p>Saat $HA_{\\odot} = 13^{h} 45^{m} 37,224^{s}$, artinya waktu lokal di tempat tersebut adalah pukul $\\sim$ 01:45.</p><p>Selisih dengan waktu sipil (<i>zone time</i>/ <i>civil time</i>) $= (110,24^{\\circ} - 105^{\\circ})/15^{\\circ} = 0.34933^h = 21^m$.</p><p>Sehingga jam dinding di sana menunjukkan waktu 01:45 - $21^{m} \\sim$ 01:24 WIB.</p>"
+}

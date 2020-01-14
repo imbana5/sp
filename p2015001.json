@@ -29,6 +29,5 @@
             "label": "$1\\times 10^6$"
         }
     ],
-    "answer": "2",
-    "explain": "<p>Massa pesawat ($m$) = 10 ton $ = 10^4$ kg</p><p>Massa Mars ($M$) = $6,42 \\times 10^{23}$ kg</p><p>Radius Mars ($R$) = 3397 km</p><p>Energi yang dihasilkan per botol plastik ($E_b$)= 100 kJ/2 botol plastik = 50 kJ/botol plastik.</p><p>Energi kinetik untuk lepas dari gravitasi Mars sama besarnya dengan energi potensial gravitasi di titik itu,</p>$$\\begin{eqnarray*}E &amp;=&amp; \\frac{GMm}{R}\\\\&amp;=&amp; 1,26\\times 10^{11} \\quad \\text{J}\\\\&amp;=&amp; 1,26\\times 10^8 \\quad \\text{kJ}\\end{eqnarray*}$$<p>Jumlah botol plastik yang diperlukan</p>$$\\begin{equation*}\\frac{E}{E_b} = 2521130,41 = 252\\times 10^4 \\quad \\text{buah}\\end{equation*}$$"
+    "answer": "2"
 }

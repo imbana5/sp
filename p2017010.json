@@ -29,6 +29,5 @@
             "label": "memperpendek panjang fokus"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Daya pisah $\\theta$ suatu teleskop berdiameter $D$ dapat dirumuskan secara matematis:</p><p>$$\\theta\\propto\\frac{\\lambda}{D},$$</p><p>dengan $\\lambda$ menyatakan panjang gelombang yang digunakan untuk mengamati objek. Meningkatnya daya pisah diindikasikan dengan mengecilnya nilai $\\theta$. Teleskop yang baik memiliki $\\theta$ kecil, artinya dapat mengidentifikasi dua objek yang terpisah sejauh $\\theta$ di langit sebagai dua sumber cahaya terpisah.</p>"
+    "answer": "1"
 }

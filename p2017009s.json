@@ -1,0 +1,4 @@
+{
+    "id": "p2017009s",
+    "explain": "<p>Tentukan terlebih dahulu luminositas bintang $L_*$ dengan memanfaatkan magnitudo mutlak bolometrik bintang $M_{bol}$ dan magnitudo mutlak bolometrik Matahari $M_{bol \\odot}$.</p>$$\\begin{eqnarray*}M_{bol}-M_{bol \\odot} &=& -2,5\\log\\frac{L_*}{L_{\\odot}}\\\\9,58-4,72 &=& -2,5\\log\\frac{L_*}{L_{\\odot}}\\\\L_* &=& 0,01L_{\\odot}\\end{eqnarray*}$$$$\\begin{eqnarray*}HZ_{in} &=& 0,95\\sqrt{\\frac{0,01L_{\\odot}}{L_{\\odot}}} = 0,101\\\\HZ_{out} &=& 1,37\\sqrt{\\frac{0,01L_{\\odot}}{L_{\\odot}}}=0,146\\end{eqnarray*}$$"
+}

@@ -29,6 +29,5 @@
             "label": "None of the stars above"
         }
     ],
-    "answer": "3",
-    "explain": "<p>For a star to be circumpolar from an observer on Earth, its declination ($\\delta_*$) must satisfy: $\\delta_*+\\phi\\geq 90^{\\circ}$. With $\\phi$ is the observer's latitude. Therefore, from Romania, circumpolar stars must have $\\delta \\geq $45^{\\circ} 35'$ and the correct answer is D.</p>"
+    "answer": "3"
 }

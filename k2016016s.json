@@ -1,0 +1,4 @@
+{
+    "id": "k2016016s",
+    "explain": "<p>Asumsikan orbit satelit berbentuk lingkaran,</p>$$\\begin{eqnarray*}F_{\\text{sentripetal}} &amp;=&amp; F_{\\text{grav}}\\\\m \\cdot \\frac{v^2}{r} &amp;=&amp; \\frac{GMm}{r^2}\\\\v^2 &amp;=&amp; \\frac{GM}{r}\\\\M &amp;=&amp; \\frac{v^2 \\cdot r}{G} = \\frac{3000^2 \\cdot (3250 \\times 10^3 + 750 \\times 10^3)}{6,67 \\times 10^{-11}}\\\\M &amp;=&amp; 5,4 \\times 10^{23} \\quad \\text{kg}\\end{eqnarray*}$$"
+}

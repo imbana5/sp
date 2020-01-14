@@ -29,6 +29,5 @@
             "label": "44,3 km"
         }
     ],
-    "answer": "3",
-    "explain": "<p>Rumus resolusi sudut untuk teleskop dengan <i>circular single aperture</i> (bukaan tunggal berbentuk lingkaran) dapat diturunkan (integral),</p>\n$$\\begin{equation*}\\theta_{\\text{res}} = \\frac{1,22 \\lambda}{D}\\end{equation*}$$\n<p>Untuk keperluan interferometer persamaan ini biasa didekati dengan</p>$$\\begin{eqnarray*}\\theta_{\\text{res}} &\\approx& \\frac{\\lambda}{D}\\\\\\frac{1}{206265} \\text{rad} &\\approx& \\frac{21}{D}\\\\D &\\approx& 43.3 \\times 10^5 \\quad \\text{cm} = 43.3 \\quad \\text{km}\\end{eqnarray*}$$"
+    "answer": "3"
 }

@@ -29,6 +29,5 @@
             "label": "Garis Fraunhofer adalah garis emisi dalam spektrum Matahari."
         }
     ],
-    "answer": "1",
-    "explain": "<p>Menurut Planck, satu foton memiliki energi sebesar</p>$$\\begin{eqnarray*}E=\\dfrac{hc}{\\lambda}\\end{eqnarray*}$$<p>dengan $\\lambda$ menyatakan panjang gelombang.</p>"
+    "answer": "1"
 }

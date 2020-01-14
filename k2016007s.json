@@ -1,0 +1,4 @@
+{
+    "id": "k2016007s",
+    "explain": "<p>Meningkat $^{b}\\log{c}$ kali, lalu berkurang $^{a}\\log{\\frac{1}{c}}$</p>$$\\begin{eqnarray*}N_{\\text{akhir}} &amp;=&amp; \\frac{\\log{b^2}}{\\log{a}} \\cdot ^{b}\\log{c} - ^{a}\\log{\\frac{1}{c}}\\\\&amp;=&amp; ^{a}\\log{b^2} \\cdot ^{b}\\log{c} - ^{a}\\log{c^{-1}}\\\\&amp;=&amp; 2 \\cdot ^{a}\\log{b} \\cdot ^{b}\\log{c} + ^{a}\\log{c}\\\\&amp;=&amp; 2 \\cdot ^{a}\\log{c} + ^{a}\\log{c}\\\\&amp;=&amp; 3 \\cdot ^{a}\\log{c}\\end{eqnarray*}$$"
+}

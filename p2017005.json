@@ -29,6 +29,5 @@
             "label": "$V_A > V_B, T_A = T_B, M_A > M_B$"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Komponen sistem bintang ganda sudah seyogyanya memiliki periode sama, gambar pada soal pun menunjukkan demikian. Amplitudo bintang A lebih kecil daripada bintang B, artinya kecepatan bintang A lebih kecil dibanding bintang B. Bintang A mengorbit pusat massa pada jarak lebih dekat dibanding bintang B. Artinya, massa bintang A lebih besar daripada bintang B.</p><p>Sehingga jawaban yang tepat B.</p>"
+    "answer": "1"
 }

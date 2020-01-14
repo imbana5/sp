@@ -29,6 +29,5 @@
             "label": "10,2 eV dan H$\\alpha$"
         }
     ],
-    "answer": "2",
-    "explain": "<p>Energi minimum mengindikasikan transisi (dalam hal ini eksitasi) yang terjadi adalah ke kulit terdekat setelah tingkat energi dasar yakni ke $n=2$.</p>$$\\begin{eqnarray*}E_{min}&amp;=&amp;E_{n=2}-E_{n=1}\\\\&amp;=&amp;-\\frac{13,6 \\text{ eV}}{2^2}-\\left(-\\frac{13,6 \\text{ eV}}{1^2}\\right)\\\\&amp;=&amp;10,2\\text{ eV}\\\\&amp;=&amp;1,63\\times 10^{-18}\\text{ Joule}.\\end{eqnarray*}$$<p>Transisi antara $n=1$ ke $n=2$ atau sebaliknya masuk kategori garis Lyman Alfa, besar panjang gelombangnya:</p>$$\\begin{eqnarray*}E &amp;=&amp;\\frac{hc}{\\lambda}\\\\1,63\\times 10^{-18}\\text{ Joule}&amp;=&amp;\\frac{6,63\\times 10^{-34}\\text{ J s}\\times 3\\times 10^8\\text{ m/s}}{\\lambda}\\\\\\lambda&amp;=&amp;1218,75\\text{&nbsp; Angstrom} \\qquad (UV).\\end{eqnarray*}$$"
+    "answer": "2"
 }

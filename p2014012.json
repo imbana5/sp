@@ -29,6 +29,5 @@
             "label": "ukuran Venus lebih besar daripada ukuran Merkurius"
         }
     ],
-    "answer": "2",
-    "explain": "<p>Venus memiliki atmosfer tebal yang didominasi $CO_2$. $CO_2$ merupakan salah satu gas yang dapat menimbulkan efek rumah kaca. Sebagian energi Matahari yang datang ke Venus terjebak di dalam sehingga mengakibatkan temperatur permukaan Venus tinggi.</p>"
+    "answer": "2"
 }

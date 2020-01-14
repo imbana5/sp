@@ -29,6 +29,5 @@
             "label": "$11,1$"
         }
     ],
-    "answer": "1",
-    "explain": "<p>Lensa konvergen adalah lensa yang sifatnya mengumpulkan cahaya $\\rightarrow$ lensa cembung. Berlaku persamaan:</p>$$\\begin{eqnarray*}\\frac{1}{f}&=&\\frac{1}{s}+\\frac{1}{s'}\\\\\\frac{1}{f}&=&\\frac{1}{1000 \\text{ cm}}+\\frac{1}{10 \\text{ cm}}\\\\\\frac{1}{f}&=&0,101\\\\f&=&9,90 \\text{ cm}.\\end{eqnarray*}$$"
+    "answer": "1"
 }

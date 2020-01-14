@@ -29,6 +29,5 @@
             "label": "0,09"
         }
     ],
-    "answer": "2",
-    "explain": "<p>Pengamatan dilakukan secara berturutan, acak, serta tidak saling bergantung, sehingga:</p>$$\\begin{equation*}P = P(\\text{mendapati tipe Amor}) \\times P(\\text{mendapati tipe Apollo}) = 0,37 \\times 0,54 = 0,1998\\end{equation*}$$"
+    "answer": "2"
 }

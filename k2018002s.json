@@ -1,0 +1,4 @@
+{
+    "id": "k2018002s",
+    "explain": "<p>Setelah 5000 tahun, massa atom $^{44}$Ti di sana akan berubah menjadi</p>$$\\begin{eqnarray*}N &=& N_0 \\left( \\frac{1}{2} \\right)^{t/t_\\text{paruh}}\\\\&=& 3,1 \\times 10^{-4} M_{\\odot} \\left( \\frac{1}{2} \\right)^{\\frac{5000}{60}}\\\\&=& 3,1 \\times 10^{-4} \\cdot 1,989 \\times 10^{30} \\cdot \\left( \\frac{1}{2} \\right)^{\\frac{5000}{60}}\\\\&=& 50,6 \\quad \\text{kg}\\end{eqnarray*}$$"
+}

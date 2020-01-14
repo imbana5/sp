@@ -29,6 +29,5 @@
             "label": "120 jam"
         }
     ],
-    "answer": "5",
-    "explain": "<ol><li>Cara pertama yang salah: percepatan gerak roket dianggap tetap sebesar 2 m/s$^2$ ke atas; perubahan ketinggian terhadap kecepatan lepas diabaikan.</li><li>Cara kedua yang masih salah: percepatan gerak roket dianggap tetap sebesar 2 m/s$^2$ ke atas; memasukkan faktor perubahan ketinggian terhadap nilai kecepatan lepas yang diperlukan ke dalam persamaan.</li><li>Kedua cara di atas mengasumsikan percepatan gerak yang konstan, padahal dengan asumsi roket pendorongnya yang ajeg, maka seharusnya besarnya gaya yang bernilai konstan (bukan percepatan). Ketika wahana bergerak naik dengan nilai gaya yang tetap, <i>padahal nilai $g$ berubah seiring dengan bertambah tingginya wahana</i>, maka percepatan geraknya juga seharusnya berubah. Apalagi ditambah ketika bergerak ada sejumlah massa yang dibuang, beratnya pun ikut berubah.</li></ol>"
+    "answer": "5"
 }

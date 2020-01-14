@@ -1,0 +1,4 @@
+{
+    "id": "p2017011s",
+    "explain": "<p>Penjelasan awal yang diberikan sebetulnya tidak mengindikasikan bahwa tiga planet tersebut adalah tiga planet terdekat. Dengan mengasumsikan ketiga planet di atas adalah tiga planet terdekat,</p><ul><li>Pernyataan pertama salah, seharusnya 0,011 au.</li>$$\\begin{equation*}a = \\sqrt[3]{MT^2} = \\sqrt[3]{0,08 \\cdot \\left(\\frac{1,5}{365,25}\\right)^2} = 0,011 \\quad \\text{au}\\end{equation*}$$<li>Pernyataan kedua salah, seharusnya 0,0155 au.</li>$$\\begin{equation*}a = \\sqrt[3]{MT^2} = \\sqrt[3]{0,08 \\cdot \\left(\\frac{2,5}{365,25}\\right)^2} = 0,0155 \\quad \\text{au}\\end{equation*}$$<li>Pernyataan ketiga kurang jelas maksudnya, apakah maksudnya paralaks horizon?</li><li>Pernyataan keempat benar, 2,4 hari.</li>$$\\begin{eqnarray*}T_{\\text{sino}} = \\frac{T_{\\text{sid1}} T_{\\text{sid2}}}{T_{\\text{sid2}} - T_{\\text{sid1}}} = \\frac{1,5 \\cdot 4}{4 - 1,5} = 2,4 \\quad \\text{hari}\\end{eqnarray*}$$</ul>"
+}

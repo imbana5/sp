@@ -29,6 +29,5 @@
             "label": "15"
         }
     ],
-    "answer": "2",
-    "explain": "$$\\begin{eqnarray*}m_B-m_A&amp;=&amp;-2,5\\log E_B+C - (-2,5\\log E_A+C)\\\\m_B-m_A&amp;=&amp;-2,5\\log \\frac{E_B}{E_A} \\\\m_B-m_A&amp;=&amp;-2,5\\log \\frac{7 \\times 10^{-7}}{3 \\times 10^{-5}} \\\\m_B-m_A&amp;=&amp;4.08\\\\m_B&amp;=&amp;8.08\\\\\\end{eqnarray*}$$"
+    "answer": "2"
 }
