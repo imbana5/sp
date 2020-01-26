@@ -1,4 +1,4 @@
 {
     "id": "p2017008s",
-    "explain": "<p>$\\lambda_0=0,2$<span>&#8491;</span>, $E_0=\\frac{hc}{\\lambda_0}$.</p><p>Setelah kehilangan energi 73%:</p>$$\\begin{eqnarray*}\nE &=& (100\\%-73\\%)E_0\\\\\n\\frac{hc}{\\lambda} &=& 27\\% \\frac{hc}{\\lambda_0}\\\\\n\\lambda &=& \\frac{\\lambda_0}{27\\%} = 0,74 \\text{  Angstrom} = 7,4\\times 10^{-11} \\quad \\text{m}\n\\end{eqnarray*}$$"
+    "explain": "<p>$\\lambda_0=0,2$<span>&#8491;</span>, $E_0=\\frac{hc}{\\lambda_0}$.</p><p>Setelah kehilangan energi 73%:</p>$$\\begin{eqnarray*}\nE &=& (100\\%-73\\%)E_0\\\\\n\\frac{hc}{\\lambda} &=& 27\\% \\frac{hc}{\\lambda_0}\\\\\n\\lambda &=& \\frac{\\lambda_0}{27\\%} = 0,74 \\text{  &#8491;} = 7,4\\times 10^{-11} \\text{  m}\n\\end{eqnarray*}$$"
 }
